@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<section xml:id="chap_one_language_logic">
-<title>The Language and Rules of Logic with Truth Tables</title>
+<section xml:id="chap_one_proportional_reasoning">
+<title>Rates and Proportions</title>
 
 <objectives>
-<title><xref ref="chap_one_language_logic"></xref> The Language and Rules of Logic with Truth Tables</title>
+<title><xref ref="chap_one_proportional_reasoning"></xref> Rates and Proportions</title>
 	<introduction>
 		<p>
 			Students will be able to:
@@ -12,22 +12,22 @@
 	<ul>
 		<li>
 			<p>
-				Identify propositions
+				Identify a rate, unit rate and proportion
 			</p>
 		</li>
 		<li>
 			<p>
-				Compose and interpret the negation of a statement
+				Use rates and proportions to compare options and solve problems
 			</p>
 		</li>
 		<li>
 			<p>
-				Use logical connectors (and/or) and conditional statements (if, then)
+				Solve proportion problems
 			</p>
 		</li>
 		<li>
 			<p>
-				Use truth tables to find truth values of basic and complex statements
+				Solve problems that have a unit conversion required
 			</p>
 		</li>
 	</ul>
@@ -36,47 +36,47 @@
 <introduction>
 	<figure>
       <caption>Alternative Video Lesson</caption>
-      <video youtube="wtaYYd7xE10" label="video-language-logic"/>
+      <!-- <video youtube="wtaYYd7xE10" label="video-language-logic"/> -->
     </figure>
 </introduction>
 
 
 
 <subsection>
-<title>Logic</title>
+<title>Rates and Unit Rates</title>
 	<p>
-		<term>Logic</term> is the study of reasoning. Our goal in this chapter is to examine arguments to determine their validity and soundness. In this section we will look at propositions and logical connectors that are the building blocks of arguments. We will also use truth tables to help us examine complex statements.
+		
 	</p>
 </subsection>
 
 <subsection>
-<title>Propositions</title>
+<title>Proportional Quantities</title>
 	<p>
-		A <term>proposition</term> is a complete sentence that is either true or false. Opinions can be propositions, but questions or phrases cannot.
-	</p> 
+		
+	</p>
 	<example>
 		<statement>
 		<p>
-			Which of the following are propositions?
+			Which of the following are proportional?
 			<ol marker="a">
 				<li>
 					<p>
-						I am reading a math book.
+						
 					</p>
 				</li>
 				<li>
 					<p>
-						Math is fun!
+						
 					</p>
 				</li>
 				<li>
 					<p>
-						Do you like turtles?
+						
 					</p>
 				</li>
 					<li>
 					<p>
-						My cat
+						
 					</p>
 				</li>
 			</ol>
@@ -84,43 +84,49 @@
 		</statement>
 		<solution>
 		<p>
-			The first and second items are propositions. The third one is a question and the fourth is a phrase, so they are not. We are not concerned right now about whether a statement is true or false. We will come back to that later when we examine full arguments. 
+			
 		</p>
 		</solution>
 	</example>
 	<p>
-		Arguments are made of one or more propositions (called <term>premises</term>), along with a <term>conclusion</term>. Propositions may be <term>negated</term>, or combined with <term>connectors</term> like “and”, and “or”. Let's take a closer look at how these negations and logical connectors are used to create more complex statements. 
+		There are many ways to approach proportional problems, and we will show you three ways. Some methods may work better in particular situations and according to your preference. We will solve proportion problems visually, using a rate and with a proportion equation.
 	</p>
 </subsection>
 
 <subsection>
-	<title>Negation (not)</title>
+	<title>Solving Proportions Problems with A Visual Method</title>
 	<p>
-		One way to change a proposition is to use its <term>negation</term>, or opposite meaning. We often use the word <q><term>not</term></q> to negate a statement.
+		
+	</p>
+</subsection>
+
+<subsection>
+	<title>Solving Proportion Problems with a Proportion Equation</title>
+	<p>
 	</p>
 	<example>
 		<statement>
 		<p>
-			Write the negation of the following propositions.
+			Example
 		<ol marker="a">
 			<li>
 				<p>
-					I am reading a math book.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					Math is fun!
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					The sky is not green.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					Cars have wheels
+					
 				</p>
 			</li>
 		</ol>
@@ -131,22 +137,22 @@
 			<ol marker="a">
 				<li>
 					<p>
-						Negation: I am <insert>not</insert> reading a math book.
+						
 					</p>
 				</li>
 				<li>
 					<p>
-						Negation: Math is <insert>not</insert> fun!
+						
 					</p>
 				</li>
 				<li>
 					<p>
-						Negation: The sky is green (or <insert>not</insert> not green)
+						
 					</p>
 				</li>
 					<li>
 					<p>
-						Negation: Cars do <insert>not</insert> have wheels.
+						
 					</p>
 				</li>
 			</ol>
@@ -156,27 +162,27 @@
 </subsection>
 
 <subsection>
-	<title>Multiple Negations</title>
+	<title>Solving Problems with Unit Conversions</title>
 
 	<p>
-		It is possible to use more than one negation in a statement. If you've ever said something like, <q>I can't not go,</q> you are really saying you must go. It's a lot like multiplying two negative numbers which gives a positive result.
+
 	</p>
 	<p>
-		In the media and in ballot measures we often see multiple negations and it can be confusing to figure out what a statement means. 
+		
 	</p>
 
 	<example>
 		<statement>
 		<p>
-			Read the statement to determine the outcome of a yes vote.
+			
 		</p>
 		<p>
-			<q>Vote for this measure to repeal the ban on plastic bags.</q>
+			
 		</p>
 		</statement>
 		<solution>
 			<p>
-				If you said that a yes vote would enable plastic bag usage, you are correct. The ban stopped plastic bag usage, so to repeal the ban would allow it again. This measure has a double negation and is also not very good for the environment. 
+				
 			</p>
 		</solution>
 	</example>
@@ -184,827 +190,19 @@
 	<example>
 		<statement>
 		<p>
-			Read the statement to determine the outcome on mandatory minimum sentencing. 
 		</p>
 		<p>
-			<q>The bill that overturned the ban on mandatory minimum sentencing was vetoed.</q>
 		</p>
 		</statement>
 		<solution>
 			<p>
-				In this case mandatory minimum sentencing would not be allowed. The ban would stop it, and the bill to overturn it was vetoed. This is an example of a triple negation. 
+				
 			</p>
 		</solution>
 	</example>
 </subsection>
 
-<subsection>
-	<title>Logical Connectors (and, or)</title>
 
-	<p>
-		When we use the word <q><term>and</term></q> between two propositions, it connects them to create a new statement that is also a proposition. For example, if you said <q>To finish this project, I need a screwdriver <alert>and</alert> a wrench,</q> then you are expressing the need for both tools. For an <q>and</q> statement to be true, the connected propositions must both be true. If even one proposition is false (for instance, you didn't need a wrench) then the entire connected statement is false.
-	</p>
-	<p>
-		The word <q><term>or</term></q> between two propositions similarly connects the propositions to create a new statement. In this case, if you said <q>To finish this project, I need a screwdriver <alert>or</alert> a wrench,</q> then you are expressing the need for one of the tools (but probably not both). For an <q>or</q> statement to be true, at least one of the propositions must be true (or both could be true).
-	</p>
-</subsection>
-
-<subsection>
-	<title>Exclusive vs. Inclusive <em>or</em></title>
-	<p>
-		In English we often mean for <em>or</em> to be <term>exclusive</term>: one or the other, but not both. In math, however, <em>or</em> is usually <term>inclusive</term>: one or the other, or both. The thing we are including, or excluding is the <q>both</q> option.
-	</p>
-	<example>
-		<statement>
-		<p>
-			Determine whether each <em>or</em> statement is inclusive or exclusive.
-			<ol marker="a">
-				<li>
-					<p>
-						Would you like a chicken or vegan meal?
-					</p>
-				</li>
-				<li>
-					<p>
-						We want to hire someone who speaks Spanish or Chinese
-					</p>
-				</li>
-				<li>
-					<p>
-						Are you going to wear sandals or tennis shoes?
-					</p>
-				</li>
-				<li>
-					<p>
-						Are you going to visit Thailand or Vietnam on your trip?
-					</p>
-				</li>
-			</ol>
-		</p>
-		</statement>
-		<solution>
-			<p>
-				The first <em>or</em> statement is a choice of one or the other, but not both, so it is exclusive. The second statement is inclusive because they could find a candidate who speaks both languages. The third statement is exclusive because you can't wear both at the same time. The fourth statement is inclusive because you could visit both countries on your trip. 
-			</p>
-		</solution>
-	</example>
-</subsection>
-
-<subsection>
-	<title>Conditional Statements (if, then)</title>
-	<p>
-		A <term>conditional</term> statement connects two propositions with <em>if, then</em>. An example of a conditional statement would be <q><em>If</em> it is raining, <em>then</em> we'll go to the mall.</q>
-	</p>
-	<p>
-		The statement <q>If it is raining,</q> may be true or false for any given day. If the condition is true, then we will follow the course of action and go to the mall. If the condition is false, though, we haven't said anything about what we will or won't do. 
-	</p>
-</subsection>
-
-<subsection>
-	<title>Basic Truth Tables</title>
-	<p>
-		In logic we can use a <term>truth table</term> to analyze a complex statement by summarizing all the possibilities and their <term>truth values</term> (true or false). To do this, we break the statement down to its smallest elements, the propositions. Then we can see the outcome of the complex statement for all possible combinations of true and false for the propositions.
-	</p>
-	<p>
-		For example, let's work with two propositions:
-		<ul>
-			<li>
-				<p>
-					<em>R</em>: You paid your rent this month.
-				</p>
-			</li>
-			<li>
-				<p>
-					<em>E</em>: You paid your electric bill this month.
-				</p>
-			</li>
-		</ul>
-	</p>
-	<p>
-		We will use these two propositions to demonstrate the truth tables for <em>not, and,</em> and <em>or.</em>
-		<!--was 47% 47%-->
-	</p>
-		<sidebyside widths="60% 34%" margins="0% 0%" valign="middle">
-			<p>
-				To set up a truth table, we list all the possible truth value combinations in a systematic way. The standard way of doing this is to make the first column half true, then half false, then cut the pattern in half with each succeeding column. For two propositions, the first two columns are shown to the right.
-			</p>
-				<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-					<row header="yes">
-						<cell><em>R</em></cell>
-						<cell><em>E</em></cell>
-						<cell><em>R and E</em></cell>
-					</row>
-					<row>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell></cell>
-					</row>
-					<row>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell></cell>
-					</row>
-					<row>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell></cell>
-					</row>
-					<row>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell></cell>
-					</row>
-				</tabular>
-		</sidebyside>
-
-	<p>
-		The four possible combinations are
-			<ul>
-				<li>
-					<p>
-						Row 1: You have paid your rent and electric bill
-					</p>
-				</li>
-				<li>
-					<p>
-						Row 2: You have paid your rent but not your electric bill
-					</p>
-				</li>
-				<li>
-					<p>
-						Row 3: You have not paid your rent but you have paid your electric bill
-					</p>
-				</li>
-				<li>
-					<p>
-						Row 4: You haven't paid either your rent or electric bill (yet).
-					</p>
-				</li>
-			</ul>
-	</p>
-				    
-	<p>
-		Once we fill in the starting columns, we add additional columns for the more complex statements. We can add as many columns as needed. Below are the basic truth tables for <em>not, and,</em> and <em>or.</em>
-	</p>
-
-	<paragraphs>
-		<title>Basic Truth Tables</title>
-	
-	<sidebyside widths="60% 34%" margins="0% 0%" valign="middle">
-		<p>
-			<term>Not</term>: In the <em>not R</em> column, the truth value is the opposite of the value for <em>R</em>. For example, if <em>R</em> is true (you paid your rent) then <em>not R</em> (you did not pay your rent) is false.
-		</p>
-		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-			<row header="yes">
-				<cell right="minor"><em>R</em></cell>
-				<cell right="minor"><em>not R</em></cell>
-			</row>
-			<row>
-				<cell right="minor">T</cell>
-				<cell right="minor">F</cell>
-			</row>
-			<row>
-				<cell right="minor">F</cell>
-				<cell right="minor">T</cell>
-			</row>
-		</tabular>
-	</sidebyside>
-	<sidebyside widths="60% 34%" margins="0% 0%" valign="middle">
-		<p>
-			<term>And</term>: In the <em>R and E</em> column, you must have paid both your rent and electric bill. Otherwise <em>R and E</em> is false.
-		</p>
-		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-			<row header="yes">
-				<cell right="minor"><em>R</em></cell>
-				<cell right="minor"><em>E</em></cell>
-				<cell right="minor"><em>R and E</em></cell>
-			</row>
-			<row>
-				<cell right="minor">T</cell>
-				<cell right="minor">T</cell>
-				<cell right="minor">T</cell>
-			</row>
-			<row>
-				<cell right="minor">T</cell>
-				<cell right="minor">F</cell>
-				<cell right="minor">F</cell>
-			</row>
-			<row>
-				<cell right="minor">F</cell>
-				<cell right="minor">T</cell>
-				<cell right="minor">F</cell>
-			</row>
-			<row>
-				<cell right="minor">F</cell>
-				<cell right="minor">F</cell>
-				<cell right="minor">F</cell>
-			</row>
-		</tabular>
-	</sidebyside>
-	<sidebyside widths="60% 34%" margins="0% 0%" valign="middle">
-		<p>
-			<term>Or</term>: In the <em>R or E</em> column, you must have paid either your rent or electric bill, or both (inclusive or). Otherwise <em>R or E</em> is false.
-		</p>
-		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row header="yes">
-					<cell right="minor"><em>R</em></cell>
-					<cell right="minor"><em>E</em></cell>
-					<cell right="minor"><em>R or E</em></cell>
-				</row>
-				<row>
-					<cell right="minor">T</cell>
-					<cell right="minor">T</cell>
-					<cell right="minor">T</cell>
-				</row>
-				<row>
-					<cell right="minor">T</cell>
-					<cell right="minor">F</cell>
-					<cell right="minor">T</cell>
-				</row>
-				<row>
-					<cell right="minor">F</cell>
-					<cell right="minor">T</cell>
-					<cell right="minor">T</cell>
-				</row>
-				<row>
-					<cell right="minor">F</cell>
-					<cell right="minor">F</cell>
-					<cell right="minor">F</cell>
-				</row>
-			</tabular>
-	</sidebyside>
-	</paragraphs>
-</subsection>
-
-<subsection>
-	<title>Conditional Truth Tables</title>
-	<p>
-		We talked about conditional statements (<term>if, then</term> statements), earlier. In logical arguments the first part (the <q><em>if</em></q> part) is usually a <term>hypothesis</term> and the second part (the <q><em>then</em></q> part) is a <term>conclusion</term>.
-	</p>
-	<p>
-	 	To understand the truth table values for a conditional statement it is helpful to look at an example. Let's say a friend tells you, <q>If you post that photo to Facebook, you'll lose your job.</q> Under what conditions can you say that your friend was wrong?
-	</p>
-	<p>
-	 	There are four possible outcomes:
-	 	<ol>
-	 		<li>
-	 			<p>
-	 				You post the photo and lose your job
-	 			</p>
-	 		</li>
-	 		<li>
-	 			<p>
-	 				You post the photo and don't lose your job
-	 			</p>
-	 		</li>
-	 		<li>
-	 			<p>
-	 				You don't post the photo and lose your job
-	 			</p>
-	 		</li>
-	 		<li>
-	 			<p>
-	 				You don't post the photo and don't lose your job
-	 			</p>
-	 		</li>
-	 	</ol>
-	</p>
-	<p>
-	 	The only case where you can say your friend was wrong is the second case, in which you post the photo but still keep your job.
-	</p>
-	<p>
-	 	Your friend didn't say anything about what would happen if you didn't post the photo, so you can't say the last two statements are wrong. Even if you didn't post the photo and lost your job anyway, your friend never said that you were guaranteed to keep your job if you didn't post it.
-	</p>
-	<p>
-	  The four cases above correspond to the four rows of the truth table. For this truth table we will use P for <q>posting the photo,</q> and L for <q>losing your job.</q>
-	</p>
-	<sidebyside widths="60% 34%" margins="0% 0%" valign="middle">
-		<p>
-			<term>If, then</term>: In the <em>If P, then L</em> column, the only outcome that is false is if you post the photo and don't lose your job. Otherwise <em>If P, then L</em> is true.
-		</p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-			<row header="yes">
-				<cell><em>P</em></cell>
-				<cell><em>L</em></cell>
-				<cell>If <em>P</em>, then <em>L</em></cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-		</tabular>
-	</sidebyside>
-
-		<p>
-			If the hypothesis (the <q>if</q> part) is false, we cannot say that the statement is a lie, so the result of the third and fourth rows is true. Notice that we are using a double negation in this explanation.
-		</p>
-
-	<p>
-		We are using the words <em>and, or, not</em> and <em>if then</em> in this book, but if you look up other resources on truth tables you are likely to see these symbols.
-	</p>
-
-	<assemblage>
-		<title>Symbols used in other resources</title>
-		<p>
-			<m>A \text{ and } B</m> is written <m>A \land B</m>
-		</p>
-		<p>
-			<m>A \text{ or } B</m> is written <m>A \lor B</m>
-		</p>
-		<p>
-			<m>\text{not } A</m> is written ~<m>A</m>
-		</p>
-		<p>
-			<m>\text{If } A\text{, then } B</m> is written <m>A\rightarrow B</m>
-		</p>
-	</assemblage>
-</subsection>
-
-<subsection>
-	<title>Truth Tables for Complex Statements</title>
-	<p>
-		Truth tables really become useful when we analyze more complex statements. In this case we will have several columns. It helps to work from the inside out and create a column in the table for each intermediate statement.
-	</p>
-	<example>
-		<statement>
-		<p>
-			Create a truth table for the statement <em>A or not B</em>
-		</p>
-		</statement>
-		<solution>
-		<sidebyside widths="47% 47%" margins="0% 0%" valign="middle">
-			<p>
-				When we create the truth table, we start with columns for the propositions, <em>A</em> and <em>B</em>. Then we add a column for <em>not B</em> because that is part of the final statement. Our last column is the final statement <em>A or not B</em>.
-			</p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row header="yes">
-					<cell><em>A</em></cell>
-					<cell><em>B</em></cell>
-					<cell><em>not B</em></cell>
-					<cell><em>A or not B</em></cell>
-				</row>
-				<row>
-					<cell>T</cell>
-					<cell>T</cell>
-					<cell></cell>
-					<cell></cell>
-				</row>
-				<row>
-					<cell>T</cell>
-					<cell>F</cell>
-					<cell></cell>
-					<cell></cell>
-				</row>
-				<row>
-					<cell>F</cell>
-					<cell>T</cell>
-					<cell></cell>
-					<cell></cell>
-				</row>
-				<row>
-					<cell>F</cell>
-					<cell>F</cell>
-					<cell></cell>
-					<cell></cell>
-				</row>
-			</tabular>
-	</sidebyside>
-
-	<sidebyside widths="47% 47%" margins="0% 0%" valign="middle">
-			<p>
-				To complete the third column, <em>not B</em>, we take the opposite of the <em>B</em> column. Then to complete the fourth column, we only look at the <em>A</em> and the <em>not B</em> columns and compare them using <em>or</em>.
-			</p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row  header="yes">
-					<cell><em>A</em></cell>
-					<cell><em>B</em></cell>
-					<cell><em>not B</em></cell>
-					<cell><em>A or not B</em></cell>
-				</row>
-				<row>
-					<cell>T</cell>
-					<cell>T</cell>
-					<cell>F</cell>
-					<cell>T</cell>
-				</row>
-				<row>
-					<cell>T</cell>
-					<cell>F</cell>
-					<cell>T</cell>
-					<cell>T</cell>
-				</row>
-				<row>
-					<cell>F</cell>
-					<cell>T</cell>
-					<cell>F</cell>
-					<cell>F</cell>
-				</row>
-				<row>
-					<cell>F</cell>
-					<cell>F</cell>
-					<cell>T</cell>
-					<cell>T</cell>
-				</row>
-			</tabular>
-		</sidebyside>
-	</solution>
-	</example>
-</subsection>
-
-<subsection>
-	<title>Truth Tables with Three Propositions</title>
-	<p>
-		To create a truth table with three propositions we need eight rows for all the possible combinations. We will first determine the columns we need to get to our final statement. Then we will fill in the first three columns using the same methodology as before. Start with half true, half false, then cut the pattern in half each time.
-	</p>
-	<example>
-		<statement>
-			<p>
-				Create a truth table for the statement <em>A and not (B or C)</em>
-			</p>
-		</statement>
-		<solution>
-		<p>
-			First let's figure out the columns we will need. We have <em>A, B, C,</em> then we need the statement in the parentheses, <em>(B or C)</em>. Then we need the negation of that column, <em>not (B or C)</em>. Then we conclude with our final statement, <em>A and not (B or C)</em>. 
-		</p>
-		<p>
-			Here is the initial table:
-		</p>
-				<tabular halign= "center" top="minor" left="minor" right="minor" bottom="minor">
-					<row  header="yes">
-						<cell><em>A</em></cell>
-						<cell><em>B</em></cell>
-						<cell><em>C</em></cell>
-						<cell><em>B or C</em></cell>
-						<cell><em>not (B or C)</em></cell>
-						<cell><em>A and not (B or C)</em></cell>
-					</row>
-					<row>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell></cell>
-						<cell></cell>
-						<cell></cell>
-					</row>
-					<row>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell></cell>
-						<cell></cell>
-						<cell></cell>
-					</row>
-					<row>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell></cell>
-						<cell></cell>
-						<cell></cell>
-					</row>
-					<row>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell></cell>
-						<cell></cell>
-						<cell></cell>
-					</row>
-					<row>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell></cell>
-						<cell></cell>
-						<cell></cell>
-					</row>
-					<row>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell></cell>
-						<cell></cell>
-						<cell></cell>
-					</row>
-					<row>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell></cell>
-						<cell></cell>
-						<cell></cell>
-					</row>
-					<row>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell></cell>
-						<cell></cell>
-						<cell></cell>
-					</row>
-				</tabular>
-		<p>
-			Now we complete the columns one at a time. We use the <em>B</em> column and <em>C</em> column to complete <em>B or C,</em>. Then <em>not (B or C)</em> is the opposite of that column. For the final column we only need to look at the first and fifth columns, shaded in blue, with <em>and</em>. Here is the completed table.
-		</p>
-				<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-					<row  header="yes">
-						<cell><em>A</em></cell>
-						<cell><em>B</em></cell>
-						<cell><em>C</em></cell>
-						<cell><em>B or C</em></cell>
-						<cell><em>not (B or C)</em></cell>
-						<cell><em>A and not (B or C)</em></cell>
-					</row>
-					<row>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-					</row>
-					<row>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-					</row>
-					<row>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-					</row>
-					<row>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell>T</cell>
-					</row>
-					<row>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-					</row>
-					<row>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-					</row>
-					<row>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-					</row>
-					<row>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell>F</cell>
-					</row>
-				</tabular>
-		<p>
-			For this statement A must be true and neither B or C can be true, so it is only true in the fourth row. For an example of this statement, let's define these propositions in the context of professional baseball:
-		</p>
-		<p>
-			Let <em>A</em> = Anaheim wins, <em>B</em> = Baltimore wins, <em>C</em> = Cleveland wins.
-		</p>
-		<p>
-			Suppose that Anaheim will make the playoffs if: (1) Anaheim wins, and (2) neither Boston nor Cleveland wins. TFF is the only scenario in which Anaheim will make the playoffs.
-		</p>
-	</solution>
-	</example>
-
-	<example>
-		<statement>
-			<p>
-				Construct a truth table for the statement <em>if m and not p, then r</em>.
-			</p>
-		</statement>
-			<solution>
-		<p>
-			First, it may help to add parentheses to help you clarify the order. Our statement could also be written, <em>if (m and not p), then r</em>. To build this table, we will build the statement in parentheses and then repeat the <em>r</em> column after it. It's easier to read the conditional statement from left to right. Here are the columns for the table: 
-		</p>
-				<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-					<row header="yes">
-						<cell><em>m</em></cell>
-						<cell><em>p</em></cell>
-						<cell><em>r</em></cell>
-						<cell><em>not p</em></cell>
-						<cell><em>m and not p</em></cell>
-						<cell><em>r</em></cell>
-						<cell><em>If (m and not p), then r</em></cell>
-					</row>
-					<row>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell></cell>
-						<cell></cell>
-						<cell></cell>
-						<cell></cell>
-					</row>
-					<row>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell></cell>
-						<cell></cell>
-						<cell></cell>
-						<cell></cell>
-					</row>
-					<row>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell></cell>
-						<cell></cell>
-						<cell></cell>
-						<cell></cell>
-					</row>
-					<row>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell></cell>
-						<cell></cell>
-						<cell></cell>
-						<cell></cell>
-					</row>
-					<row>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell></cell>
-						<cell></cell>
-						<cell></cell>
-						<cell></cell>
-					</row>
-					<row>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell></cell>
-						<cell></cell>
-						<cell></cell>
-						<cell></cell>
-					</row>
-					<row>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell></cell>
-						<cell></cell>
-						<cell></cell>
-						<cell></cell>
-					</row>
-					<row>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell></cell>
-						<cell></cell>
-						<cell></cell>
-						<cell></cell>
-					</row>
-				</tabular>
-		<p>
-			For the fourth column, we take the opposite of <em>p</em>. Then we use the first and fourth columns to complete <em>m and not p</em>. With the <em>r</em> column repeated we can use columns five and six to complete our conditional statement. Here is the completed table:
-		</p>
-				<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-					<row  header="yes">
-						<cell><em>m</em></cell>
-						<cell><em>p</em></cell>
-						<cell><em>r</em></cell>
-						<cell><em>not p</em></cell>
-						<cell><em>m and not p</em></cell>
-						<cell><em>r</em></cell>
-						<cell><em>If (m and not p), then r</em></cell>
-					</row>
-					<row>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell>T</cell>
-					</row>
-					<row>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell>T</cell>
-					</row>
-					<row>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell>T</cell>
-					</row>
-					<row>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-					</row>
-					<row>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell>T</cell>
-					</row>
-					<row>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell>T</cell>
-					</row>
-					<row>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell>T</cell>
-					</row>
-					<row>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell>T</cell>
-						<cell>F</cell>
-						<cell>F</cell>
-						<cell>T</cell>
-					</row>
-				</tabular>
-		<p>
-		 	When <em>m</em> is true, <em>p</em> is false, and <em>r</em> is false—the fourth row of the table—then the hypothesis <em>m</em> and not <em>p</em> will be true, but the conclusion is false, resulting in an invalid conditional statement; every other case gives a true result.
-		</p>
-		<p>
-		 	If you want a real-life situation that could be modeled by if <em>m</em> and not <em>p</em>, then <em>r</em>, consider this: 
-		</p>
-		<p>
-		 	Let <em>m</em> = we order meatballs, <em>p</em> = we order pasta, and <em>r</em> = Ruba is happy.
-		</p>
-		<p>
-		 	The statement if <em>m and not p</em>, then <em>r</em> is, <q>if we order meatballs and don't order pasta, then Ruba is happy</q>. If <em>m</em> is true (we order meatballs), <em>p</em> is false (we don't order pasta), and <em>r</em> is false (Ruba is not happy), then the statement is false, because we satisfied the premise, but Ruba did not satisfy the conclusion.
-		</p>
-	</solution>
-	</example> 
-	<p>
-		In this section we have discussed propositions, logical connectors and truth tables. In the next section, we will look at set relationships before we analyze arguments.
-	</p>
-</subsection>
 
 <exercises>
 <title>Exercises</title>
@@ -1012,7 +210,7 @@
 <exercise>
 	<statement>
 	<p>
-		Which of the following are propositions?
+		These have not been edited yet.
 	</p>
 	<p>
 		<ol marker="a">

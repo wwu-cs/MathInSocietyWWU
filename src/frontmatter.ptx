@@ -40,7 +40,9 @@
 				See the Attributions page for details.
     		</entity>
 		</credit>
-    	<edition>1.1</edition>
+		<!-- Todo: Edition change -->
+  <!--   	<edition>1.1</edition> -->
+    	<edition>2.0 Draft</edition>
     	<website>
 			<url href="https://spot.pcc.edu/math/mathinsociety/"
 				visual="spot.pcc.edu/math/mathinsociety"/>

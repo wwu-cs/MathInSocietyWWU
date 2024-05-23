@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <chapter xmlns:xi="http://www.w3.org/2001/XInclude"  xml:id="language_logic_rules">
 	<title>
-		Logic and Sets
+		<!-- Edition 1.1 Title -->
+		<!-- Logic and Sets -->
+		<!-- Edition 2 Title -->
+		Problem Solving, Logic and Sets
 	</title>
-
+<!-- Chapter 1 - change sections below for Edition 1.1 or 2.0 -->
 <introduction>
 	<title>Dr. Jonathan Farley and Partially Ordered Sets</title>
 		<sidebyside valign="top" widths="60% 38%" margins="0%">
@@ -26,10 +29,23 @@
 		</p>
 </introduction>
 
+<!-- Edition 2.0 -->
+<xi:include href="chap_one_problem_solving_percents.ptx" />
+<xi:include href="chap_one_proportional_reasoning.ptx" />
+<xi:include href="chap_one_logic_everyday_life.ptx" />
+<xi:include href="chap_one_sets_venn.ptx" />
+<xi:include href="chap_one_review.ptx" />
+
 <xi:include href="chap_one_language_logic.ptx" />
+<xi:include href="chap_one_arguments.ptx" />
+<xi:include href="chap_one_fallacies.ptx" />
+
+<!-- Edition 1.1 -->
+
+<!-- <xi:include href="chap_one_language_logic.ptx" />
 <xi:include href="chap_one_sets_venn.ptx" />
 <xi:include href="chap_one_arguments.ptx" />
 <xi:include href="chap_one_fallacies.ptx" />
-<xi:include href="chap_one_review.ptx" />
+<xi:include href="chap_one_review.ptx" /> -->
 
 </chapter>
