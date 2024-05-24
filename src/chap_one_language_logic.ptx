@@ -34,6 +34,9 @@
 </objectives>
 
 <introduction>
+	<p>
+		Note: This section begins the same way as, <em>Logic in Everyday Life,</em> but includes truth tables.
+	</p>
 	<figure>
       <caption>Alternative Video Lesson</caption>
       <video youtube="wtaYYd7xE10" label="video-language-logic"/>
@@ -53,7 +56,7 @@
 <title>Propositions</title>
 	<p>
 		A <term>proposition</term> is a complete sentence that is either true or false. Opinions can be propositions, but questions or phrases cannot.
-	</p> 
+	</p>
 	<example>
 		<statement>
 		<p>
@@ -84,12 +87,12 @@
 		</statement>
 		<solution>
 		<p>
-			The first and second items are propositions. The third one is a question and the fourth is a phrase, so they are not. We are not concerned right now about whether a statement is true or false. We will come back to that later when we examine full arguments. 
+			The first and second items are propositions. The third one is a question and the fourth is a phrase, so they are not. We are not concerned right now about whether a statement is true or false. We will come back to that later when we examine full arguments.
 		</p>
 		</solution>
 	</example>
 	<p>
-		Arguments are made of one or more propositions (called <term>premises</term>), along with a <term>conclusion</term>. Propositions may be <term>negated</term>, or combined with <term>connectors</term> like “and”, and “or”. Let's take a closer look at how these negations and logical connectors are used to create more complex statements. 
+		Arguments are made of one or more propositions (called <term>premises</term>), along with a <term>conclusion</term>. Propositions may be <term>negated</term>, or combined with <term>connectors</term> like “and”, and “or”. Let's take a closer look at how these negations and logical connectors are used to create more complex statements.
 	</p>
 </subsection>
 
@@ -120,7 +123,7 @@
 			</li>
 			<li>
 				<p>
-					Cars have wheels
+					Cars have wheels.
 				</p>
 			</li>
 		</ol>
@@ -141,7 +144,7 @@
 				</li>
 				<li>
 					<p>
-						Negation: The sky is green (or <insert>not</insert> not green)
+						Negation: The sky is green (or <insert>not</insert> not green).
 					</p>
 				</li>
 					<li>
@@ -156,19 +159,65 @@
 </subsection>
 
 <subsection>
+	<title>Negation of All and None</title>
+
+	<p>
+		It is worth mentioning these qualifiers and how to negate them. If we were to make the statement, <q><alert>All</alert> students read this book,</q> we could negate it by saying <q><alert>Not all</alert> students read this book.</q> or <q><alert>Some</alert> students <alert>don't</alert> read this book.</q> Notice how this is very different from <q><alert>No</alert> students read this book.</q>
+	</p>
+	<p>
+		If we were to negate, <q><alert>No</alert> students read this book,</q> we could say, <q><alert>A</alert> student is reading this book,</q> or even, <q><alert>Some</alert> students do read this book.</q> It only takes one counterexample to negate an all or nothing statement and the phrases <alert>some do</alert> and <alert>some don't</alert> are often used for this purpose. The same concept applies to similar word like everyone, nobody, always and never.
+	</p>
+	<example>
+		<statement>
+		<p>
+			Write two different negations of each statement.
+			<ol marker="a">
+			<li>
+				<p>
+					All college students take psychology.
+				</p>
+			</li>
+			<li>
+				<p>
+					Dogs are never brown.
+				</p>
+			</li>
+		</ol>
+		</p>
+		</statement>
+		<solution>
+			<p>
+			<ol marker="a">
+			<li>
+				<p>
+					Negations: <insert>Not</insert> all college students take psychology, or, <insert>Some</insert> college students <alert>don't</alert> take psychology.
+				</p>
+			</li>
+			<li>
+				<p>
+					Negations: <insert>There are</insert> brown dogs, or, <insert>Some</insert> dogs are brown.
+				</p>
+			</li>
+		</ol>
+		</p>
+		</solution>
+	</example>
+</subsection>
+
+<subsection>
 	<title>Multiple Negations</title>
 
 	<p>
-		It is possible to use more than one negation in a statement. If you've ever said something like, <q>I can't not go,</q> you are really saying you must go. It's a lot like multiplying two negative numbers which gives a positive result.
+		It is possible to use more than one negation in a statement. If you've ever said something like, <q>I <alert>can't not</alert> go,</q> you are really saying you must go. It's a lot like multiplying two negative numbers which gives a positive result.
 	</p>
 	<p>
-		In the media and in ballot measures we often see multiple negations and it can be confusing to figure out what a statement means. 
+		In the media and in ballot measures we often see multiple negations and it can be confusing to figure out what a statement means.
 	</p>
 
 	<example>
 		<statement>
 		<p>
-			Read the statement to determine the outcome of a yes vote.
+			Read the statement and determine the outcome of a yes vote.
 		</p>
 		<p>
 			<q>Vote for this measure to repeal the ban on plastic bags.</q>
@@ -176,7 +225,7 @@
 		</statement>
 		<solution>
 			<p>
-				If you said that a yes vote would enable plastic bag usage, you are correct. The ban stopped plastic bag usage, so to repeal the ban would allow it again. This measure has a double negation and is also not very good for the environment. 
+				If you said that a yes vote would enable plastic bag usage, you are correct. The ban stopped plastic bag usage, so to repeal the ban would allow it again. This measure has a double negation and is also not very good for the environment.
 			</p>
 		</solution>
 	</example>
@@ -184,7 +233,7 @@
 	<example>
 		<statement>
 		<p>
-			Read the statement to determine the outcome on mandatory minimum sentencing. 
+			Read the statement and determine the outcome on mandatory minimum sentencing.
 		</p>
 		<p>
 			<q>The bill that overturned the ban on mandatory minimum sentencing was vetoed.</q>
@@ -192,7 +241,7 @@
 		</statement>
 		<solution>
 			<p>
-				In this case mandatory minimum sentencing would not be allowed. The ban would stop it, and the bill to overturn it was vetoed. This is an example of a triple negation. 
+				In this case mandatory minimum sentencing would not be allowed. The ban would stop it, and the bill to overturn it was vetoed. This is an example of a triple negation.
 			</p>
 		</solution>
 	</example>
@@ -226,7 +275,7 @@
 				</li>
 				<li>
 					<p>
-						We want to hire someone who speaks Spanish or Chinese
+						We want to hire someone who speaks Spanish or Chinese.
 					</p>
 				</li>
 				<li>
@@ -244,7 +293,7 @@
 		</statement>
 		<solution>
 			<p>
-				The first <em>or</em> statement is a choice of one or the other, but not both, so it is exclusive. The second statement is inclusive because they could find a candidate who speaks both languages. The third statement is exclusive because you can't wear both at the same time. The fourth statement is inclusive because you could visit both countries on your trip. 
+				The first <em>or</em> statement is a choice of one or the other, but not both, so it is exclusive. The second statement is inclusive because they could find a candidate who speaks both languages. The third statement is exclusive because you can't wear both at the same time. The fourth statement is inclusive because you could visit both countries on your trip.
 			</p>
 		</solution>
 	</example>
@@ -256,7 +305,7 @@
 		A <term>conditional</term> statement connects two propositions with <em>if, then</em>. An example of a conditional statement would be <q><em>If</em> it is raining, <em>then</em> we'll go to the mall.</q>
 	</p>
 	<p>
-		The statement <q>If it is raining,</q> may be true or false for any given day. If the condition is true, then we will follow the course of action and go to the mall. If the condition is false, though, we haven't said anything about what we will or won't do. 
+		The statement <q>If it is raining,</q> may be true or false for any given day. If the condition is true, then we will follow the course of action and go to the mall. If the condition is false, though, we haven't said anything about what we will or won't do.
 	</p>
 </subsection>
 
@@ -528,7 +577,7 @@
 			<m>A \text{ or } B</m> is written <m>A \lor B</m>
 		</p>
 		<p>
-			<m>\text{not } A</m> is written ~<m>A</m>
+			<m>\text{not } A</m> may be written as ~<m>A</m> or <m>\lnot A</m>
 		</p>
 		<p>
 			<m>\text{If } A\text{, then } B</m> is written <m>A\rightarrow B</m>
@@ -1689,7 +1738,7 @@
 <exercise><!--  #17 -->
 	<statement>
 	<p>
-		Determine if the entire statement is true or false.
+		Determine whether the compound statement is true or false.
 	</p>
 	<p>
 		<ol marker="a.">
@@ -1727,7 +1776,7 @@
 <exercise><!--  #18 -->
 	<statement>
 	<p>
-		Determine if the entire statement is true or false.
+		Determine whether the compound statement is true or false.
 	</p>
 	<p>
 		<ol marker="a.">
@@ -1738,7 +1787,7 @@
 			</li>
 			<li>
 				<p>
-					If it is warm outside, then it is sunny.
+					If <m>2 + 5 = 10</m>, then <m>2 + 7 = 12</m>.
 				</p>
 			</li>
 		</ol>
@@ -1754,7 +1803,7 @@
 			</li>
 			<li>
 				<p>
-					False
+					True
 				</p>
 			</li>	
 		</ol>
