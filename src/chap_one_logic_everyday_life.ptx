@@ -1177,22 +1177,22 @@
 		<ol marker="a">
 			<li>
 				<p>
-					
+					An apple is a vegetable or an apple is a fruit.
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					Portland is not a city in Oregon.
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					Fish can walk and birds can swim.
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					If <m>2 + 5 = 10</m>, then <m>2 + 7 = 12</m>.
 				</p>
 			</li>
 		</ol>
@@ -1203,22 +1203,22 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					
+					True
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					False
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					False
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					True
 				</p>
 			</li>
 		</ol>
@@ -1235,22 +1235,22 @@
 		<ol marker="a">
 			<li>
 				<p>
-					
+					A horse is not a mammal.
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					If a horse is a mammal, then fish are mammals.
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					A triangle has three sides or four angles.
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					The Eiffel Tower is in London and the Taj Mahal is in India.
 				</p>
 			</li>
 		</ol>
@@ -1261,22 +1261,22 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					
+					False
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					False
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					True
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					False
 				</p>
 			</li>
 		</ol>
@@ -1293,22 +1293,22 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					
+					A square has four sides and all sides are equal.
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					A square is not a triangle.
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					Six is an odd number or a multiple of 5.
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					If dogs have wings, then seven is an even number.
 				</p>
 			</li>
 		</ol>
@@ -1319,22 +1319,22 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					
+					True
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					True
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					False
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					True
 				</p>
 			</li>
 		</ol>
@@ -1351,70 +1351,22 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					
+					An octogon has 8 sides or a rectangle has 5 sides.
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					An octogon does not have 8 sides.
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					If an octogon has 8 sides, then a triangle has three angles.
 				</p>
 			</li>
 			<li>
 				<p>
-					
-				</p>
-			</li>
-		</ol>
-	</p>
-	</statement>
-	<solution>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-		</ol>
-	</p>
-	</solution>
-</exercise>
-
-<exercise><!--  #19 -move 19 and 20 to 15 -->
-	<statement>
-	<p>
-		Determine whether the compound statement is true or false. (Move to 15)
-	</p>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					An apple is a vegetable, or an apple is a fruit.
-				</p>
-			</li>
-			<li>
-				<p>
-					Portland is not a city in Oregon.
+					Whales are not mammals and cats are mammals.
 				</p>
 			</li>
 		</ol>
@@ -1433,42 +1385,14 @@
 					False
 				</p>
 			</li>
-		</ol>
-	</p>
-	</solution>
-</exercise>
-
-<exercise><!--  #20 -->
-	<statement>
-	<p>
-		Determine whether the compound statement is true or false. (Move to 15)
-	</p>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					Fish can walk and birds can swim.
-				</p>
-			</li>
-			<li>
-				<p>
-					If <m>2 + 5 = 10</m>, then <m>2 + 7 = 12</m>.
-				</p>
-			</li>
-		</ol>
-	</p>
-	</statement>
-	<solution>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					False
-				</p>
-			</li>
 			<li>
 				<p>
 					True
+				</p>
+			</li>
+			<li>
+				<p>
+					False
 				</p>
 			</li>
 		</ol>
@@ -1479,20 +1403,58 @@
 <exercise><!--  #19 -->
 	<statement>
 	<p>
-		Write the converse, inverse and contrapositive of the statement.
+		Write the converse, inverse and contrapositive of the statement: <q>If you go to the store, then you will have food for dinner.</q>
 	</p>
 	</statement>
 	<solution>
+		<p>
+		<ol marker="disc">
+			<li>
+				<p>
+					Converse: If you have food for dinner then you did go to the store.
+				</p>
+			</li>
+			<li>
+				<p>
+					Inverse: If you do not go to the store then you will not have food for dinner.
+				</p>
+			</li>
+			<li>
+				<p>
+					Contrapositive: If you do not have food for dinner then you did not go to the store.
+				</p>
+			</li>
+		</ol>
+	</p>
 	</solution>
 </exercise>
 
 <exercise><!--  #20 -->
 	<statement>
 	<p>
-		Write the converse, inverse and contrapositive of the statement.
+		Write the converse, inverse and contrapositive of the statement: <q>If you do your homework, then you will do well on the test.</q>
 	</p>
 	</statement>
 	<solution>
+		<p>
+		<ol marker="disc">
+			<li>
+				<p>
+					Converse: If you do well on the test then you did your homework.
+				</p>
+			</li>
+			<li>
+				<p>
+					Inverse: If you do not do your homework then you will not do well on the test.
+				</p>
+			</li>
+			<li>
+				<p>
+					Contrapositive: If you did not do well on the test then you did not do your homework.
+				</p>
+			</li>
+		</ol>
+	</p>
 	</solution>
 </exercise>
 
@@ -1501,8 +1463,35 @@
 	<p>
 		Identify which pairs of statements are logically equivalent.
 	</p>
+	<p>
+		<ol marker="i">
+			<li>
+				<p>
+					If you do not use your credit well, then you will not have a good credit rating.
+				</p>
+			</li>
+			<li>
+				<p>
+					If you use your credit well, then you will have a good credit rating.
+				</p>
+			</li>
+			<li>
+				<p>
+					If you have a good credit rating, then you use your credit well.
+				</p>
+			</li>
+			<li>
+				<p>
+					If you do not have a good credit rating then you do not use your credit well.
+				</p>
+			</li>
+		</ol>
+	</p>
 	</statement>
 	<solution>
+		<p>
+			Statements i and iii are logically equivalent to each other. Statements ii and iv are logically equivalent to each other.
+		</p>
 	</solution>
 </exercise>
 
@@ -1511,8 +1500,35 @@
 	<p>
 		Identify which pairs of statements are logically equivalent.
 	</p>
+	<p>
+		<ol marker="i">
+			<li>
+				<p>
+					If you are not wearing shorts, then it is not hot outside.
+				</p>
+			</li>
+			<li>
+				<p>
+					If you are wearing shorts, then it is hot outside.
+				</p>
+			</li>
+			<li>
+				<p>
+					If it is not hot ouside, then you are not wearing shorts.
+				</p>
+			</li>
+			<li>
+				<p>
+					If it is hot outside, then you will wear shorts.
+				</p>
+			</li>
+		</ol>
+	</p>
 	</statement>
 	<solution>
+		<p>
+			Statements i and iv are logically equivalent to each other. Statements ii and iii are logically equivalent to each other.
+		</p>
 	</solution>
 </exercise>
 

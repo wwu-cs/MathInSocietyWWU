@@ -41,10 +41,10 @@
 <introduction>
 	<title>Introduction</title>
 	<p>
-		Many decisions can be made more effectively using quantitative information. The goal of this book and course is for you to feel more comfortable and confident with mathematical tools that are applicable to your life now and in the future. From figuring out the best ways to manage money to understanding data and statistics, there are many useful mathematical tools. We'll also work with proportions for comparing and scaling quantities, probability for decisions with uncertain events, and methods for fair group decision-making like apportionment and voting systems. By learning these tools, you'll be better equipped to make smart decisions in college and beyond.
+		Many important decisions in life can be made more effectively using quantitative information. The goal of this book and course is for you to feel more comfortable and confident with mathematical tools that are applicable to your life now and in the future. We will work with proportions for scaling and comparing quantities and  financial tools for managing money and taxes. We will also work with statistics for decisions that involve data, probability for decisions with uncertain events, and methods for fair group decision-making like apportionment and voting systems. By practicing with these tools, you'll be better equipped and feel more empowered to use mathematical tools to help you make decisions in college and beyond.
 	</p>
 	<p>
-		In this chapter we’ll learn several different tools for making decisions. We’ll look at a problem solving structure, percentages and proportions for comparisons, and logic, sets and Venn diagrams for grouping information.
+		In this chapter we’ll learn several different tools for making decisions. We’ll look at a problem solving structure, percentages, rates and proportions for comparisons, and logic, sets and Venn diagrams for grouping information.
 	</p>
 	<figure>
       <caption>Alternative Video Lesson</caption>
@@ -55,10 +55,10 @@
 <subsection>
 <title>A Problem Solving Process</title>
 	<p>
-		This section may be review for you, and it may present math in a different light that is more concrete and applied than math you have had previously. Our goal is to examine math problems that are relevant to your life where you can apply your lived experience. Some of these problems involve a trade-off or more than one right answer. First, we will learn a problem solving process and see how number sense and operation sense ties into the process. Then we will use percentages to compare quantities.
+		This section may be review for you, and it may present math in a different light that is more concrete and applied than math you have had previously. Our goal is to examine math problems that are relevant to your life where you can apply your lived experience. Some of these problems involve a trade-off or more than one right answer. First, we will outline a problem solving process and see how number sense and operation sense ties into the process. Then we will use percentages to compare quantities.
 	</p>
 	<p>
-		There are many ways to write a problem solving process, and you can modify this to suit a decision you are making. Some of the important elements are breaking down complex issues into manageable parts, following a logical reasoning process, and using creativity to think "outside the box" and consider all the possibilities. In real life, problem solving is often an iterative process so evaluation and refinement are important as well.
+		There are many ways to write a problem solving process, so this is just one example. Some of the important elements are breaking down complex issues into manageable parts, following a logical reasoning process, and using creativity to consider all the possibilities. In real life, problem solving is often an iterative process so evaluation and refinement are important elements as well.
 	</p>
 	<assemblage>
 		<title>A Problem Solving Process</title>
@@ -101,19 +101,19 @@
 					You’re comparing two healthcare plans to select one of them for the next year. Plan A has a $200 monthly premium and a $1000 deductible, and plan B has a $150 monthly premium and a $2400 deductible. Which plan is more cost effective and why?
 				</p>
 				<p>
-					There are many ways to approach a problem like this, so this is just one way. Please feel free to try it on your own first before you click on or read our solution. In the online version we have a solution link for each step to reveal one step at a time. You'll see that we go through the steps more than once.
+					There are many ways to approach a problem like this, so this is an example. Please feel free to try it on your own first before you click on or read our solution. In the online version we have a solution link for each step to reveal one step at a time. You'll see that we go through the steps more than once.
 				</p>
 			</statement>
 			<solution>
-				<title>Step 1: The question</title>
+				<title>Step 1: The question and estimation</title>
 				<p>
-					The question we need to answer is which plan is cheaper overall.
+					The question we need to answer is which plan is cheaper overall. We estimate the yearly cost to be in the thousands for each plan. If we got an amount less than a thousand or more then $10,000 we would be surprised and double check our work.
 				</p>
 			</solution>
 			<solution>
 				<title>Step 2: The information</title>
 				<p>
-					We are given the monthly premiums and deductibles for each plan. We will assume this is for one person, or an entire family with a single deductible. Most plans have a deductible for each person which could be an extension of this problem. You might also need to know how much you usually spend on healthcare per year. We will proceed without this for now and return to this step if it becomes relevant. Let's restate the information we have:
+					We are given the monthly premiums and deductibles for each plan. We will assume this is for one person. Most plans have a separate deductible for each person so making this decision for a family could be an extension of this problem. You might also need to know how much you usually spend on healthcare per year. We will proceed without this for now and return to this step if it becomes relevant. Let's restate the information we have:
 				</p>
 				<sidebyside widths="40% 40%">
 					<p>
@@ -196,7 +196,7 @@
 			<solution>
 				<title>Step 5: Check for a reasonable answer</title>
 				<p>
-					We double checked our math and total amount for each plan is reasonable for the given numbers. The totals are not too large or too small to make sense. However, there is another factor to consider. What if you don't use your whole deductible in a year? We noticed that the premiums alone are cheaper for Plan B, so if no healthcare is used during a year then Plan B would be cheaper.
+					We double checked our math and total amount for each plan is within our original estimate. The totals are not too large or too small to make sense. However, there is another factor to consider. What if you don't use your whole deductible in a year? We noticed that the premiums alone are cheaper for Plan B, so if no healthcare is used during a year then Plan B would be cheaper.
 				</p>
 			</solution>
 			<solution>
@@ -208,13 +208,13 @@
 			<solution>
 				<title>Step 3 Again: Consider possible methods</title>
 				<p>
-					We could try some values to see which plan was cheaper, and even find the billed amount that switches from Plan B being cheaper to Plan A being cheaper. In order to do this in a systamatic way, we will make a table. It might be very useful to get a sense of the range of values where each plan is more cost effective.
+					We could try some values to see which plan was cheaper, and even find the billed amount that switches from Plan B being cheaper to Plan A being cheaper. In order to do this in a systematic way, we will make a table. It might be very useful to get a sense of the range of values where each plan is more cost effective.
 				</p>
 			</solution>
 			<solution>
 				<title>Step 4 Again: Choose a method to continue</title>
 				<p>
-					To make a table, we will start with $0 in billed healthcare and go up from there. To be more efficient, we will use increments of $200 and go smaller if needed. A spreadsheet would also be a great tool for this. We will learn about and use spreadsheets in the financial math chapter.
+					To make a table, we will start with $0 in billed healthcare and go up from there. To be more efficient, we will start with increments of $200 and go smaller if needed. A spreadsheet would also be a great tool for this. We will learn about and use spreadsheets in the financial math chapter.
 				</p>
 				<p>
 					To fill in our table we will use the same calculation we did before and combine the two steps into one. For $0 in billed healthcare we have this calculation for each plan.
@@ -364,48 +364,48 @@
 		<ol marker="a">
 			<li>
 				<p>
-					
+					The weight of a stack of paving stones in the back of an SUV.
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					The number of people who can fit in a standard elevator.
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					The total revenue for one showing of a movie at a theater.
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					The number of scales on a fish.
 				</p>
 			</li>
 		</ol>
 		</p>
 	</statement>
 		<solution>
-			<p>
+			<p>We haven't given many details here, so there is a wide range of possible answers. Sometimes it is more useful to think of answers that would not make sense.
 			<ol marker="a">
 				<li>
 					<p>
-
+						The weight would be positive and we think it would have to be less than a couple thousand pounds.
 					</p>
 				</li>
 				<li>
 					<p>
-						
+						The number of people would be 0 to maybe 20, depending on the size of the elevator.
 					</p>
 				</li>
 				<li>
 					<p>
-						
+						The movie revenue would be between $0 and a few thousand. Of course this depends on the size of the theater.
 					</p>
 				</li>
 					<li>
 					<p>
-						
+						Without looking it up, we think it would be in the thousands or maybe ten-thousands. Of course it depends on the type and size of the fish, but we don't think it would be in the hundred-thousands or millions.
 					</p>
 				</li>
 			</ol>
@@ -419,32 +419,126 @@
 
 <subsection>
 	<title>Percents</title>
-	<p>
-		Intro
-	</p>
+		<p>
+			If you went shopping and one shirt was $20 off and another shirt was $30 off it might be hard to tell which is the better value. What if they were 20% off and 30% off? Percentages can make quantities easier to compare.
+		</p>
+		<p>
+			Percent, denoted by %, means “per 100,” or “parts per hundred.” In Spanish it’s literally por ciento. When we write 30% off, that means you save 30 out of every 100 dollars. We can write this percentage as the fraction <m>\frac{30}{100}</m>. When we divide 30 by 100, we get <me>\frac{30}{100}=0.30.</me> We can also say you would save 30 cents out of every dollar. Many equivalent fractions can be written that equal 30%. Notice that 60 out of 200 and 15 out of 50 are also 30%, since <me>\frac{60}{200}=\frac{15}{50}=\frac{30}{100}=0.30.</me>
+		</p>
+		<example>
+			<p>
+				As an example, let’s compare two shirts on sale and add some prices:
+			</p>
+			<sidebyside widths="40% 40%">
+				<p>
+					Shirt 1:
+					<ul marker = "disc">
+						<li>
+							<p>
+							Original Price: $80
+							</p>
+						</li>
+						<li>
+							<p>
+							Sale: $20 off
+							</p>
+						</li>
+					</ul>
+				</p>
+				<p>
+					Shirt 2:
+					<ul marker = "disc">
+						<li>
+							<p>
+							Original Price: $100
+							</p>
+						</li>
+						<li>
+							<p>
+							Sale: 30% off
+							</p>
+						</li>
+					</ul>
+				</p>
+			</sidebyside>
+				<p>
+					What is the sale price and sale percentage for each shirt? Which is the better buy?
+				</p>
+				<sidebyside widths="40% 40%">
+					<paragraphs>
+						<p>
+							Shirt 1:
+						</p>
+					<p>
+						For this shirt we have the dollar amount of the sale so we will subtract it from the original price.
+					</p>
+					<p>
+						<me>\$80-20 = \$60</me>.
+					</p>
+					<p>
+						Now we will divide to find the percentage of the sale: <m>\frac{\$20}{\$80} = 0.25</m> or 25% off.
+					</p>
+					<p>
+						This shirt is 25% off and the sale price is $60.
+					</p>
+					</paragraphs>
+					<paragraphs>
+					<p>
+						Shirt 2:
+					</p>
+					<p>
+						For this shirt we know the percentage off so we need to find 30% of $100. We used a base of 100 so $30 off per $100 is $30.
+					</p>
+					<p>
+						30% off of $100 is $30.
+					</p>
+					<p>
+						Then we subtract the sale amount from the original price to get <m>\$100-30 = \$70</m>.
+					</p>
+					<p>
+						This shirt is 30% off and the sale price is $70.
+					</p>
+					</paragraphs>
+				</sidebyside>
+			<p>
+				Which shirt do you think is the better deal? You would save more with shirt 2, but shirt 1 is cheaper.
+			</p>
+		</example>
+	</subsection>
+	<subsection>
+			<title>Converting Between Percentages and Decimals</title>
+		<p>
+			To convert a percentage to decimal form, we use the definition of "per 100." For example, <m>82\%</m> means <q>82 per 100</q> so we divide by 100 or move the decimal two places to the left and remove the % symbol.
+			<me>82\% = \frac{82}{100}=0.82</me>
+		</p>
+		<p>
+			To go the other way, if we have <m>0.10</m>, we can multiply it by 100% or move the decimal two places to the right and add the % symbol.
+			<me>0.10 = 0.10(100\%)=10\%</me>
+		</p>
+
 	<example>
 		<statement>
 		<p>
-			Example 1
+			Change each percentage into decimal form.
 		<ol marker="a">
 			<li>
 				<p>
-					
+					65%
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					200%
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					5%
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					0.1%
 				</p>
 			</li>
 		</ol>
@@ -455,22 +549,78 @@
 			<ol marker="a">
 				<li>
 					<p>
-
+						<m>65\%=\frac{65}{100}=0.65</m>. Notice this is the same as moving the decimal to the left two places.
 					</p>
 				</li>
 				<li>
 					<p>
-						
+						<m>200\%=\frac{200}{100}=2.0</m> or just <m>2</m>.
 					</p>
 				</li>
 				<li>
 					<p>
-						
+						<m>5\%=\frac{5}{100}=0.05</m>. If we use the method of moving the decimal two places to the left we use a zero to hold the place value and we get 0.05.
 					</p>
 				</li>
 					<li>
 					<p>
-						
+						<m>0.1\%=\frac{0.1}{100}=0.001</m>.
+					</p>
+				</li>
+			</ol>
+			</p>
+		</solution>
+	</example>
+
+	<example>
+		<statement>
+		<p>
+			Change each fraction or decimal into percentage form.
+		<ol marker="a">
+			<li>
+				<p>
+					<m>\frac{4}{5}</m>
+				</p>
+			</li>
+			<li>
+				<p>
+					1.25
+				</p>
+			</li>
+			<li>
+				<p>
+					0.06
+				</p>
+			</li>
+			<li>
+				<p>
+					0.003
+				</p>
+			</li>
+		</ol>
+		</p>
+	</statement>
+		<solution>
+			<p>
+			<ol marker="a">
+				<li>
+					<p>
+						First we divide <m>\frac{4}{5}</m> to get <m>0.80</m> and then <m>0.80(100\%) = 80\%</m>.
+					</p>
+				</li>
+				<li>
+					<p>
+						<m>1.25(100\%)</m> or moving the decimal two places to the right gives 125%.
+					</p>
+				</li>
+				<li>
+					<p>
+						<m>0.06(100\%)</m> or moving the decimal two places to the right gives 6%.
+					</p>
+				</li>
+					<li>
+					<p>
+						<m>0.003(100\%)</m> or moving the decimal two places to the right gives 0.3%. Note this is less than one percent.
 					</p>
 				</li>
 			</ol>
@@ -480,60 +630,298 @@
 </subsection>
 
 <subsection>
-	<title>Absolute and Relative Change</title>
-
+	<title>Calculating Percents</title>
 	<p>
-		Intro
-	</p>
-	<p>
-		
+		If two co-workers make the same hourly rate then it would be easy to compare their raises. But if they make different amounts then a percentage can be more useful. To compare unlike amounts, we can divide each part by the whole amount to find the percentage. The whole amount is also called the <term>base</term> of the percentage. First we will look at how to calculate percents and then how to calculate an amount.
 	</p>
 
+<assemblage>
+			<title>Calculating Percents</title>
+			<p>
+				Percent = <m>\frac{\text{part}}{\text{whole}}</m>
+			</p>
+			<p>
+				Part = percent <m>\cdot</m> whole
+			</p>
+			<!-- <p>
+				Whole = percent <m>\cdot</m> part
+			</p> -->
+		</assemblage>
+	<example>
+		<p>
+			Iryna makes $22 an hour and got a raise of $3 per hour. Sundar currently makes $19 an hour and got a raise of $2.85. Who got a larger raise relatively?
+		</p>
+		<p>
+			Using the formula percent = <m>\frac{\text{part}}{\text{whole}}</m>, we can compare the two raises.
+		</p>
+		<sidebyside widths="40% 40%">
+					<paragraphs>
+						<p>
+							Iryna:
+						</p>
+					<p>
+						<m>\frac{\$3}{\$22} \approx 0.136 \text{ or } 13.6\%</m>.
+					</p>
+					<p>
+						Iryna's raise was about 13.6% of her wage.
+					</p>
+					</paragraphs>
+					<paragraphs>
+					<p>
+						Sundar:
+					</p>
+					<p>
+						<m>\frac{\$2.85}{\$19} = 0.15 \text{ or } 15\%</m>.
+					</p>
+					<p>
+						Sundar's raise was 15% of his wage.
+					</p>
+					</paragraphs>
+				</sidebyside>
+			<p>
+				Iryna had a bigger raise in terms of dollar amount, but in terms of percentage, Sundar's raise was bigger.
+			</p>
+	</example>
 	<example>
 		<statement>
 		<p>
-			Example
+			First estimate which quantity is the larger percentage. Then calculate both percentages.
+		<ol marker="a">
+			<li>
+				<p>
+					A quiz score of 8/10 or 11/15.
+				</p>
+			</li>
+			<li>
+				<p>
+					A cereal with 2 grams of sugar in a 28 gram serving size or 3 grams of sugar in a 32 gram serving size.
+				</p>
+			</li>
+		</ol>
 		</p>
-		<p>
-			
-		</p>
-		</statement>
+	</statement>
 		<solution>
 			<p>
-				
+			<ol marker="a">
+				<li>
+					<p>
+						We are estimating that 8/10 seems larger compared to 11/15 because missing 2 out of 10 is less than 4 out of 15.
+					</p>
+					<p>
+						<m>\frac{8}{10} = 0.80 \text{ or } 80\%</m>
+					</p>
+					<p>
+						<m>\frac{11}{15} \approx 0.733 \text{ or } 73.3\%</m>
+					</p>
+					<p>
+						The score of 8 out of 10 is a higher percentage.
+					</p>
+				</li>
+				<li>
+					<p>
+						We are estimating that 3/32 is a higher percentage than 2/28 because the added gram of sugar seems high compared with only a 4 gram increase in serving size.
+					</p>
+					<p>
+						<m>\frac{2\text{ g}}{28\text{ g}} \approx 0.07 \text{ or about } 7\%</m>
+					</p>
+					<p>
+						<m>\frac{3\text{ g}}{32\text{ g}} \approx 0.09 \text{ or about } 9\%</m>
+					</p>
+					<p>
+						The cereal with 3 grams of sugar out of 32 grams has a higher percentage of sugar.
+					</p>
+				</li>
+			</ol>
 			</p>
 		</solution>
 	</example>
+	<p>
+		Another useful tool is finding the part when we know the percentage and the whole amount.
+	</p>
+	<example>
+		<p>
+			For example, say you have a high yield online savings account that pays an annual interest rate of 4.5%. If you have $3000 in the account for your emergency fund, how much interest will you earn in a year? What would your total balance be with the interest?
+		</p>
+		<p>
+			To perform calculations with percents, we change them into decimal form first. So we divide 4.5 by 100 or move the decimal two places to the left and we get 0.045.
+		</p>
+		<p>
+			Then, using the formula part = percent <m>\cdot</m> whole, we have
+		</p>
+		<p>
+			<m>0.045(\$3000) = \$135</m>
+		</p>
+		<p>
+			You would earn $135 in interest. Interest is added to your account so we will add to find the total balance.
+		</p>
+		<p>
+			<m>\$3000+135 = \$3,135</m>. Your total balance is $3,135 after one year.
+		</p>
+	</example>
+	<p>
+		Note, most interest is compounded daily or monthly so we simplified the example above. We will come back to this and learn how to calculate compund interest in the financial math chapter.
+	</p>
 	
 	<example>
 		<statement>
 		<p>
-			Example
+			Find each amount described and the total or ending amount.
+		<ol marker="a">
+			<li>
+				<p>
+					A stock valued at $83 went down by 15%. Find the amount it decreased by and the ending value.
+				</p>
+			</li>
+			<li>
+				<p>
+					The sales tax in Vancouver, Washington is currently 8.7%. How much tax would you pay on TV that costs $399 and what is the total price?
+				</p>
+			</li>
+		</ol>
 		</p>
+	</statement>
+		<solution>
+			<p>
+			<ol marker="a">
+				<li>
+					<p>
+						First we will find 15% of $83 by multiplying by the decimal form of the percentage: <me>\$83(0.15)=\$12.45</me> Then we will subtract since the stock price went down. <me>\$83-12.45=\$70.55</me> The stock went down by $12.45 to $70.55.
+					</p>
+				</li>
+				<li>
+					<p>
+						We will find 8.7% of $399 by multiplying the amount by the decimal form of the percentage: <me>\$399(0.087)=\$34.71</me> We rounded to the nearest cent. Then we will add since the tax is an additional cost. <me>\$399+34.71=\$433.71</me> The tax on the TV is $34.71 for a total price of $433.71.
+					</p>
+				</li>
+			</ol>
+			</p>
+		</solution>
+		<solution>
+			<p>
+			<ol marker="a">
+				<li>
+					There is a shorter way to go about this type of problem. If we look at a 15% decrease as the stock retaining 85% of its value (100-15=85)%, we can calculate the stock price directly.
+					<md>
+						<mrow>\$83(1-0.15) \amp= \$83(0.85)</mrow>
+						<mrow>\amp= \$70.55</mrow>
+					</md>
+				</li>
+				<li>
+					We can also do this with the TV price using addition for an increase (100+8.7=108.7)%.
+					<md>
+						<mrow>\$399(1+0.087)\amp=\$399(1.087)</mrow>
+						<mrow>\amp=\$433.71</mrow>
+					</md>
+				</li>
+			</ol>
+			</p>
+		</solution>
+</example>
+
+</subsection>
+<subsection>
+	<title>Absolute and Relative Change</title>
+
+	<p>
+		As we saw in the shirt sale prices and the raise comparisons, we can talk about a difference in absolute terms or relative terms. <term>Absolute change</term> is the actual amount of the change in dollars, people, etc. The change is positive if the value goes up or negative if it goes down. <term>Relative change</term> is the amount of change as a percentage of the starting amount.
+	</p>
+	<p>
+		For example, Portland Community College recently increased its tution from $128 to $133 per credit hour. The absolute change is the dollar increase of <me>\$133-\$128 = \$5\text{ per credit.}</me> The relative change is <me>\frac{\$5}{\$128}\approx 0.039</me> or about 3.9%.
+	</p>
+
+	<assemblage>
+		<title>Absolute and Relative Change</title>
+			<p>
+				Absolute Change = Ending Amount - Starting Amount
+			</p>
+			<p>
+				Relative Change = <m>\frac{\text{Ending Amount - Starting Amount}}{\text{Starting Amount}}</m> or <m>\frac{\text{Absolute Change}}{\text{Starting Amount}}</m>
+		</p>
+	</assemblage>
+	<p>
+		The base of a percentage is very important and relative change is calculated as a percentage of the original amount because that was the amount before the change.
+	</p>
+<example>
+		<statement>
 		<p>
-			
+			The U.S. population was 332 million people in 2021 and 333.3 million people in 2022. What is the absolute and relative change?
 		</p>
 		</statement>
 		<solution>
 			<p>
-				
+				First we will subtract to calculate the absolute change:
+			</p>
+			<p>
+				<me>333.3 - 332\text{ million people} = 1.3\text{ million people}</me> The population increased by 1.3 million people.
+			</p>
+			<p>
+				Now we can calculate the relative change:
+			</p>
+			<p>
+				<me>\frac{\text{Absolute Change}}{\text{Starting Amount}}=\frac{1.3\text{ million people}}{332\text{ million people}} \approx 0.0039</me> The U.S. population increased by about 0.39%.
 			</p>
 		</solution>
 	</example>
 </subsection>
-
 <subsection>
-	<title>More Problem Solving Practice with Percentages</title>
+	<title>Multiple Percent Changes</title>
+	<p>
+		We can also calculate values with multiple percent increases and decreases. We must be careful in this case because the base changes with each change. For example, if a stock price drops by 60% in one week and increases by 75% the next week, this is not the same as an increase of 15%. The base for the drop is the original price and the base for the increase is the price after the drop. Let's look at this more closely in the next example.
+	</p>
 
-	<p>
-		
-	</p>
-	<p>
-		
-	</p>
+	<example>
+		<statement>
+		<p>
+			A stock valued at $100 dropped in value by 60% one week, then increased in value the next week by 75%. Is the value higher or lower than where it started? What is the ending value and what is the relative change?
+		</p>
+		</statement>
+		<solution>
+			<p>
+				After one week, the value dropped by 60%:
+			</p>
+			<md>
+				<mrow>\$100 - \$100(0.60) \amp= \$100 - \$60</mrow>
+				<mrow>\amp= \$40</mrow>
+			</md>
+			<p>
+				In the next week, notice that base of the percent has changed to the new value of $40. Computing the 75% increase:
+			</p>
+			<md>
+				<mrow>\$40 + \$40(0.75) \amp= \$40 + \$30</mrow>
+				<mrow>\amp= \$70</mrow>
+			</md>
+			<p>
+				In the end, the stock is $70, which is $30 lower, or 30% lower than it started.
+			</p>
+			<p>
+				This is optional, but if you enjoyed the shorter method we showed before, you can also use it in multi-step percentage problems.
+			</p>
+			<md>
+				<mrow>\$100(1-0.60)(1+0.75) \amp= \$100(0.40)(1.75)</mrow>
+				<mrow>\amp= \$70</mrow>
+			</md>
+		</solution>
+	</example>
 </subsection>
 
-
+<!-- Todo: This example doesn't have an addition or subtraction at the end. Maybe add to exercises? -->
+	<!-- <example>
+		<p>
+			For example, to help aleviate homelessness, voters in the Portland Metro area approved a personal income tax for individuals who make over $125,000 in taxable income. Miguel has a taxable income of $180,000 and the rate for that level of income is 1.5%. How much Miguel will owe for this tax?
+		</p>
+		<p>
+			To perform calculations with percents, we change them into decimal form first. So we divide 1.5 by 100 or move the decimal two places to the left and we get 0.015.
+		</p>
+		<p>
+			Then, using Part = percent <m>\cdot</m> whole, we have
+		</p>
+		<p>
+			<m>0.015(\$180,000) = \$2,700</m>
+		</p>
+		<p>
+			Miguel would owe the City of Portand $2,700 for this metro tax.
+		</p>
+	</example> -->
 
 <exercises>
 <title>Exercises</title>
