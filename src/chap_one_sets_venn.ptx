@@ -446,7 +446,7 @@
 <subsection>
 	<title>Qualified Propositions</title>
 	<p>
-		A <term>qualified proposition</term> is a statement that asserts a relationship between two sets. The three relationships we will be looking at in this section are <q>some</q> (some elements are shared between the two sets), <q>none</q> (none of the elements are shared between the two sets), and <q>all</q> (all elements of one set are contained in the other set). These relationships are especially important in evaluating arguments. 
+		A <term>qualified proposition</term> is a statement that asserts a relationship between two sets. The three relationships we will be looking at in this section are <q>some</q> (some elements are shared between the two sets), <q>none</q> (none of the elements are shared between the two sets), and <q>all</q> (all elements of one set are contained in the other set). These relationships are especially important in evaluating arguments.
 	</p>
 </subsection>
 

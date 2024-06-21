@@ -45,13 +45,82 @@
     </figure>
 </introduction>
 
-
+<p>
+	Another uesful tool in problem solving and decision making is ratio, rate, and proportion. We saw the words per, ratio, and rate in the operation words that indicate division.
+</p>
 
 <subsection>
-<title>Rates and Unit Rates</title>
+<title>Ratios, Rates and Unit Rates</title>
 	<p>
-		
+		When comparing two like quantities with division, we use a <term>ratio</term>. An example of this is a teacher to student ratio of 1 to 25. There are no units on the 1 or 25 because they are both people. When comparing two unlike quantities, we use a <term>rate</term>. If you traveled 15 miles to class and it took half an hour, that's a rate of 15 miles per half hour. We usually refer to speed in miles per hour or mph, so we can also transform that rate into 30 miles per hour and that is a <term>unit rate</term>.
 	</p>
+	<assemblage>
+		<title>Ratios and Rates</title>
+			<p>
+				A <term>ratio</term> is a comparison between two like quantities using division. We often use the word <q>to,</q> a colon or division bar without units.
+			</p>
+			<p>
+				A <term>rate</term> is a comparison of two unlike quantities using division. We often use the word <q>per</q> or a division bar in the units.
+			</p>
+			<p>
+				A <term>unit rate</term> is a rate where the denominator is one unit.
+			</p>
+	</assemblage>
+	<example>
+		<statement>
+		<p>
+			Identify each quantity as a ratio, rate, or unit rate:
+			<ol marker="a">
+				<li>
+					<p>
+						2:5
+					</p>
+				</li>
+				<li>
+					<p>
+						$3.98 per gallon
+					</p>
+				</li>
+				<li>
+					<p>
+						<m>\frac{20 \text{ text messages}}{2\text{ hours}}</m>
+					</p>
+				</li>
+					<li>
+					<p>
+						<m>\frac{1}{2}</m>
+					</p>
+				</li>
+			</ol>
+		</p>
+		</statement>
+		<solution>
+		<p>
+			<ol marker="a">
+				<li>
+					<p>
+						2 to 5 is a ratio.
+					</p>
+				</li>
+				<li>
+					<p>
+						$3.98 per gallon is a unit rate.
+					</p>
+				</li>
+				<li>
+					<p>
+						<m>\frac{18 \text{ text messages}}{2\text{ hours}}</m> is a rate, but not a unit rate.
+					</p>
+				</li>
+					<li>
+					<p>
+						<m>\frac{1}{2}</m> is a ratio.
+					</p>
+				</li>
+			</ol>
+		</p>
+		</solution>
+	</example>
 </subsection>
 
 <subsection>
@@ -103,6 +172,18 @@
 	<p>
 		
 	</p>
+	<example>
+		<statement>
+		<p>
+			
+		</p>
+		</statement>
+		<solution>
+			<p>
+				
+			</p>
+		</solution>
+	</example>
 </subsection>
 
 <subsection>
@@ -110,6 +191,18 @@
 	<p>
 		Talk about a constant multiple
 	</p>
+	<example>
+		<statement>
+		<p>
+			
+		</p>
+		</statement>
+		<solution>
+			<p>
+				
+			</p>
+		</solution>
+	</example>
 </subsection>
 
 <subsection>
@@ -188,9 +281,6 @@
 		<p>
 			
 		</p>
-		<p>
-			
-		</p>
 		</statement>
 		<solution>
 			<p>
@@ -263,28 +353,28 @@
 <exercise>
 	<statement>
 	<p>
-		These have not been edited yet.
+		
 	</p>
 	<p>
 		<ol marker="a">
 			<li>
 				<p>
-					Pigs can fly.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					What?
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					I don't know.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					I like tofu.
+					
 				</p>
 			</li>
 		</ol>
@@ -295,22 +385,22 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					Proposition
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					Not a proposition
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					Proposition
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					Proposition
+					
 				</p>
 			</li>
 		</ol>
@@ -321,28 +411,28 @@
 <exercise>
 	<statement>
 	<p>
-		Which of the following are propositions?
+		
 	</p>
 	<p>
 		<ol marker="a">
 			<li>
 				<p>
-					How far?
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					Portland is not in Oregon.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					Portland Community College.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					It is raining.
+					
 				</p>
 			</li>
 		</ol>
@@ -353,22 +443,22 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					Not a proposition
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					Proposition
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					Not a proposition
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					Proposition
+					
 				</p>
 			</li>
 		</ol>
@@ -379,18 +469,18 @@
 <exercise>
 	<statement>
 	<p>
-		Write the negation of each proposition.
+		
 	</p>
 	<p>
 		<ol marker="a">
 			<li>
 				<p>
-					I ride my bike to campus.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					Portland is not in Oregon.
+					
 				</p>
 			</li>
 		</ol>
@@ -401,12 +491,12 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					I do not ride my bike to campus.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					Portland is in Oregon.
+					
 				</p>
 			</li>
 		</ol>
@@ -417,18 +507,18 @@
 <exercise>
 	<statement>
 	<p>
-		Write the negation of each proposition.
+		
 	</p>
 	<p>
 		<ol marker="a">
 			<li>
 				<p>
-					You should see this movie.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					Lashonda is wearing blue.
+					
 				</p>
 			</li>
 		</ol>
@@ -439,12 +529,12 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					You should not see this movie.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					Lashonda is not wearing blue.
+					
 				</p>
 			</li>
 		</ol>
@@ -454,12 +544,12 @@
 <exercise>
 	<statement>
 	<p>
-		Write a proposition that contains a double negative.
+		
 	</p>
 	</statement>
 	<solution>
 		<p>
-			Answers will vary. Example: You can't not do your homework.
+			
 		</p>
 	</solution>
 </exercise>
@@ -467,12 +557,12 @@
 <exercise>
 	<statement>
 	<p>
-		Write a proposition that contains a triple negative.
+
 	</p>
 	</statement>
 	<solution>
 		<p>
-			Answers will vary. Example: They decided not to cancel the ban on pesticides.
+			
 		</p>
 	</solution>
 </exercise>
@@ -480,18 +570,18 @@
 <exercise>
 	<statement>
 	<p>
-		For each situation, decide whether the “or” is most likely exclusive or inclusive.
+		
 	</p>
 	<p>
 		<ol marker="a">
 			<li>
 				<p>
-					An entrée at a restaurant includes soup or salad.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					You should bring an umbrella or a raincoat with you.
+					
 				</p>
 			</li>
 		</ol>
@@ -502,12 +592,12 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					Exclusive
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					Inclusive
+					
 				</p>
 			</li>
 		</ol>
@@ -518,18 +608,18 @@
 <exercise>
 	<statement>
 	<p>
-		For each situation, decide whether the <q>or</q> is most likely exclusive or inclusive.
+		
 	</p>
 	<p>
 		<ol marker="a">
 			<li>
 				<p>
-					We can keep driving on I-5 or get on I-405 at the next exit.		
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					You should save this document on your computer or a flash drive.
+					
 				</p>
 			</li>
 		</ol>
@@ -540,12 +630,12 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					Exclusive
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					Inclusive
+					
 				</p>
 			</li>
 		</ol>
@@ -556,18 +646,18 @@
 <exercise><!--  #9 -->
 	<statement>
 	<p>
-		For each situation, decide whether the <q>or</q> is most likely exclusive or inclusive.
+		
 	</p>
 	<p>
 		<ol marker="a.">
 			<li>
 				<p>
-					I will wear a sweater or a jacket.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					My next vacation will be on the Oregon Coast or Mount Hood.
+					
 				</p>
 			</li>
 		</ol>
@@ -578,12 +668,12 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					Inclusive
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					Exclusive
+					
 				</p>
 			</li>
 		</ol>
@@ -594,18 +684,18 @@
 <exercise><!--  #10 -->
 	<statement>
 	<p>
-		For each situation, decide whether the <q>or</q> is most likely exclusive or inclusive.
+		
 	</p>
 	<p>
 		<ol marker="a.">
 			<li>
 				<p>
-					While in California I will go to the beach or Disneyland.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					The insurance agent offers car or boat insurance.
+					
 				</p>
 			</li>
 		</ol>
@@ -616,12 +706,12 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					Inclusive
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					Inclusive
+					
 				</p>
 			</li>
 		</ol>
@@ -632,18 +722,18 @@
 <exercise>
 	<statement>
 	<p>
-		Rewrite the statement in the conditional form <em>if p, then q.</em>
+		
 	</p>
 	<p>
 		<ol marker="a.">
 			<li>
 				<p>
-					Whenever it is sunny, I go swimming.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					I go see a movie on Fridays.
+					
 				</p>
 			</li>
 		</ol>
@@ -654,12 +744,12 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					If it is sunny, then I will go swimming.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					If it is Friday, then I will go see a movie.
+					
 				</p>
 			</li>
 		</ol>
@@ -670,18 +760,18 @@
 <exercise> <!-- #12 -->
 	<statement>
 	<p>
-		Rewrite the statement in the conditional form <em>if p, then q.</em>
+		
 	</p>
 	<p>
 		<ol marker="a.">
 			<li>
 				<p>
-					I always carry an umbrella when it rains.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					On the weekend I like to hang out with friends.
+					
 				</p>
 			</li>
 		</ol>
@@ -692,12 +782,12 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					If it is raining, then I carry an umbrella.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					If it is the weekend, then I am hanging out with friends.
+					
 				</p>
 			</li>
 		</ol>
@@ -708,28 +798,28 @@
 <exercise>
 	<statement>
 	<p>
-		Translate each statement from symbolic notation into English sentences. Let A represent <q>Elvis is alive</q> and let K represent <q>Elvis is the King</q>.
+		
 	</p>
 	<p>
 		<ol marker="a">
 			<li>
 				<p>
-					<em>Not A</em>
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					<em>A or K</em>
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					<em>Not A and K</em>
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					<em>If K, then not A</em>
+					
 				</p>
 			</li>
 		</ol>
@@ -740,22 +830,22 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					Elvis is not alive
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					Elvis is alive or Elvis is the King
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					Elvis is not alive and Elvis is the King
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					If Elvis is the King, then Elvis is not alive
+					
 				</p>
 			</li>
 		</ol>
@@ -766,28 +856,28 @@
 <exercise>
 	<statement>
 	<p>
-		Translate each statement from symbolic notation into English sentences. Let A represent <q>It rains in Oregon</q> and let B represent <q>I own an umbrella</q>.
+		
 	</p>
 	<p>
 		<ol marker="a">
 			<li>
 				<p>
-					<em>Not B</em>
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					<em>A and not B</em>
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					<em>If A, then B</em>
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					<em>If not B, then A</em>
+					
 				</p>
 			</li>
 		</ol>
@@ -798,22 +888,22 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					I do not own an umbrella.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					It rains in Oregon and I do not own an umbrella
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					If it rains in Oregon, then I own an umbrella
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					If I do not own an umbrella, then it rains in Oregon
+					
 				</p>
 			</li>
 		</ol>
@@ -824,28 +914,28 @@
 <exercise><!--  #15 -->
 	<statement>
 	<p>
-		Translate each statement from English sentences into symbolic notation. Let A represent <q>I will protest</q> and let B represent <q>There is injustice.</q>
+		
 	</p>
 	<p>
 		<ol marker="a.">
 			<li>
 				<p>
-					There is injustice and I will protest.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					If there is injustice, then I will protest.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					I will protest if there is injustice.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					If there is not injustice, then I will not protest.
+					
 				</p>
 			</li>
 		</ol>
@@ -856,22 +946,22 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					B and A
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					If B, then A
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					If B, then A
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					If not B, then not A
+					
 				</p>
 			</li>
 		</ol>
@@ -882,28 +972,28 @@
 <exercise>
 	<statement>
 	<p>
-		Translate each statement from English sentences into symbolic notation. Let A represent <q>It's time to eat</q> and let B represent <q>I am hungry.</q>
+		
 	</p>
 	<p>
 		<ol marker="a.">
 			<li>
 				<p>
-					It's time to eat and I'm not hungry.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					It's not time to eat.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					If it's time to eat, then I'm hungry.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					If I'm not hungry then it's not time to eat.
+					
 				</p>
 			</li>
 		</ol>
@@ -914,22 +1004,22 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					A and not B
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					Not A
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					If A, then B
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					If not B, then not A
+					
 				</p>
 			</li>
 		</ol>
@@ -940,18 +1030,18 @@
 <exercise><!--  #17 -->
 	<statement>
 	<p>
-		Determine if the entire statement is true or false.
+		
 	</p>
 	<p>
 		<ol marker="a.">
 			<li>
 				<p>
-					An apple is a vegetable, or an apple is a fruit.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					Portland is not a city in Oregon.
+					
 				</p>
 			</li>
 		</ol>
@@ -962,14 +1052,14 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					True
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					False
+					
 				</p>
-			</li>	
+			</li>
 		</ol>
 	</p>
 	</solution>
@@ -978,18 +1068,18 @@
 <exercise><!--  #18 -->
 	<statement>
 	<p>
-		Determine if the entire statement is true or false.
+		
 	</p>
 	<p>
 		<ol marker="a.">
 			<li>
 				<p>
-					Fish can walk and birds can swim.
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					If it is warm outside, then it is sunny.
+					
 				</p>
 			</li>
 		</ol>
@@ -1000,1105 +1090,94 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					False
+					
 				</p>
 			</li>
 			<li>
 				<p>
-					False
+					
 				</p>
-			</li>	
+			</li>
 		</ol>
 	</p>
 	</solution>
 </exercise>
-
-<exercisegroup>
-	<introduction>
-	<p>
-		Complete the truth table for each statement and write the meaning of each statement in the third column.
-	</p>
-	</introduction>
-
 <exercise><!--  #19 -->
 	<statement>
 	<p>
-		Let <em>A</em> be: I live in Oregon.
+		
 	</p>
 	<p>
-		Let <em>B</em> be: I go to Portland Community College
+		<ol marker="a.">
+			<li>
+				<p>
+					
+				</p>
+			</li>
+			<li>
+				<p>
+					
+				</p>
+			</li>
+		</ol>
 	</p>
-		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-		<row header="yes">
-			<cell>A</cell>
-			<cell>B</cell>
-			<cell>A and B</cell>
-		</row>
-		<row>
-			<cell>T</cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>T</cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>F</cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>F</cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-	</tabular>
 	</statement>
 	<solution>
-		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-			<row header="yes">
-				<cell>A</cell>
-				<cell>B</cell>
-				<cell>A and B</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T - I live in Oregon and I go to PCC</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F - I live in Oregon and I don't go to PCC</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F - I don't live in Oregon and I go to PCC</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F - I don't live in Oregon and I don't go to PCC</cell>
-			</row>
-		</tabular>
+	<p>
+		<ol marker="a.">
+			<li>
+				<p>
+					
+				</p>
+			</li>
+			<li>
+				<p>
+					
+				</p>
+			</li>
+		</ol>
+	</p>
+	</solution>
+</exercise>
+<exercise><!--  #20 -->
+	<statement>
+	<p>
+		
+	</p>
+	<p>
+		<ol marker="a.">
+			<li>
+				<p>
+					
+				</p>
+			</li>
+			<li>
+				<p>
+					
+				</p>
+			</li>
+		</ol>
+	</p>
+	</statement>
+	<solution>
+	<p>
+		<ol marker="a.">
+			<li>
+				<p>
+					
+				</p>
+			</li>
+			<li>
+				<p>
+					
+				</p>
+			</li>
+		</ol>
+	</p>
 	</solution>
 </exercise>
 
-<exercise>
-	<statement>
-	<p>
-		Let <em>A</em> be: I am a psychology major
-	</p>
-	<p>
-		Let <em>B</em> be: I'm planning to transfer to Portland State
-	</p>
-	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-		<row header="yes">
-			<cell>A</cell>
-			<cell>B</cell>
-			<cell>A or B</cell>
-		</row>
-		<row>
-			<cell>T</cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>T</cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>F</cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>F</cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-	</tabular>
-	</statement>
-	<solution>
-		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-			<row header="yes">
-				<cell>A</cell>
-				<cell>B</cell>
-				<cell>A or B</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T - I am a psychology major and I'm planning to transfer to PSU</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T - I am a psychology major but I'm not planning to transfer to PSU</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T - I am not a psychology major, but I'm planning to transfer to PSU</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F - I am not a psychology major and I'm not planning to transfer to PSU</cell>
-			</row>
-		</tabular>
-	</solution>
-</exercise>
 
-</exercisegroup>
-
-<exercisegroup>
-	<introduction>
-	<p>
-		Complete the truth table for each statement.
-	</p>
-	</introduction>
-
-<exercise><!--  #21 -->
-	<statement>
-	<p>
-		<em>A and not B</em>
-	</p>
-	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-		<row header="yes">
-			<cell>A</cell>
-			<cell>B</cell>
-			<cell>Not B</cell>
-			<cell>A and not B</cell>
-		</row>
-		<row>
-			<cell>T</cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>T</cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>F</cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>F</cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-	</tabular>
-	</statement>
-	<solution>
-		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-			<row header="yes">
-				<cell>A</cell>
-				<cell>B</cell>
-				<cell>Not B</cell>
-				<cell>A and not B</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-			</row>
-		</tabular>
-	</solution>
-</exercise>
-
-<exercise><!--  #22 -->
-	<statement>
-	<p>
-		<em>Not (not A or B)</em>
-	</p>
-	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-		<row header="yes">
-			<cell>A</cell>
-			<cell>B</cell>
-			<cell>Not A</cell>
-			<cell>Not A or B</cell>
-			<cell>Not (not A or B)</cell>
-		</row>
-		<row>
-			<cell>T</cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>T</cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>F</cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>F</cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-	</tabular>
-	</statement>
-	<solution>
-		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-			<row header="yes">
-				<cell>A</cell>
-				<cell>B</cell>
-				<cell>Not A</cell>
-				<cell>Not A or B</cell>
-				<cell>Not (not A or B)</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-			</row>
-		</tabular>
-	</solution>
-</exercise>
-
-<exercise><!--  #23 -->
-	<statement>
-	<p>
-		<em>Not (A and B and C)</em>
-	</p>
-	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-		<row header="yes">
-			<cell>A</cell>
-			<cell>B</cell>
-			<cell>C</cell>
-			<cell>A and B and C</cell>
-			<cell>Not (A and B and C)</cell>
-		</row>
-		<row>
-			<cell>T</cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>T</cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>T</cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>T</cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>F</cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>F</cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>F</cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>F</cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-	</tabular>
-	</statement>
-	<solution>
-		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-			<row header="yes">
-				<cell>A</cell>
-				<cell>B</cell>
-				<cell>C</cell>
-				<cell>A and B and C</cell>
-				<cell>Not (A and B and C)</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-		</tabular>
-	</solution>
-</exercise>
-
-<exercise><!--  #24 -->
-	<statement>
-	<p>
-		<em>Not A or (not B and C)</em>
-	</p>
-	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-		<row header="yes">
-			<cell>A</cell>
-			<cell>B</cell>
-			<cell>C</cell>
-			<cell>Not A</cell>
-			<cell>Not B</cell>
-			<cell>Not B and C</cell>
-			<cell>Not A or (Not B and C)</cell>
-		</row>
-		<row>
-			<cell>T</cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>T</cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>T</cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>T</cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>F</cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>F</cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>F</cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>F</cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-			<cell></cell>
-		</row>
-	</tabular>
-	</statement>
-	<solution>
-		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-			<row header="yes">
-				<cell>A</cell>
-				<cell>B</cell>
-				<cell>C</cell>
-				<cell>Not A</cell>
-				<cell>Not B</cell>
-				<cell>Not B and C</cell>
-				<cell>Not A or (Not B and C)</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-		</tabular>
-	</solution>
-</exercise>
-
-</exercisegroup>
-
-<exercisegroup>
-	<introduction>
-	<p>
-		Create a complete truth table for each statement.
-	</p>
-	</introduction>
-
-<exercise><!--  #25 -->
-	<statement>
-	<p>
-		<em>Not(A and B) or C</em>
-	</p>
-	</statement>
-	<solution>
-		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-			<row header="yes">
-				<cell>A</cell>
-				<cell>B</cell>
-				<cell>C</cell>
-				<cell>A and B</cell>
-				<cell>Not (A and B)</cell>
-				<cell>Not (A and B) or C</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-		</tabular>
-	</solution>
-</exercise>
-<exercise>
-	<statement>
-	<p>
-		<em>(A or B) and (A or C)</em>
-	</p>
-	</statement>
-	<solution>
-		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-			<row header="yes">
-				<cell>A</cell>
-				<cell>B</cell>
-				<cell>C</cell>
-				<cell>A or B</cell>
-				<cell>A or C</cell>
-				<cell>(A or B) and (A or C)</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-			</row>
-		</tabular>
-	</solution>
-</exercise>
-<exercise>
-	<statement>
-	<p>
-		<em>If (A and B), then C</em>
-	</p>
-	</statement>
-	<solution>
-		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-			<row header="yes">
-				<cell>A</cell>
-				<cell>B</cell>
-				<cell>C</cell>
-				<cell>A and B</cell>
-				<cell>If (A and B), then C</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-		</tabular>
-	</solution>
-</exercise>
-<exercise>
-	<statement>
-	<p>			
-		<em>If (A or B), then not C</em>
-	</p>
-	</statement>
-	<solution>
-		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-			<row header="yes">
-				<cell>A</cell>
-				<cell>B</cell>
-				<cell>C</cell>
-				<cell>A or B</cell>
-				<cell>Not C</cell>
-				<cell>If (A or B), then not C</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-		</tabular>
-	</solution>
-</exercise>
-<exercise>
-	<statement>
-	<p>
-		<em>If (A and C), then not A</em>
-	</p>
-	</statement>
-	<solution>
-		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-			<row header="yes">
-				<cell>A</cell>
-				<cell>C</cell>
-				<cell>A and C</cell>
-				<cell>Not A</cell>
-				<cell>If (A and C), then not A</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-		</tabular>
-	</solution>
-</exercise>
-<exercise>
-	<statement>
-	<p>
-		<em>If (B or C), then (A and B)</em>
-	</p>
-	</statement>
-	<solution>
-		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-			<row header="yes">
-				<cell>A</cell>
-				<cell>B</cell>
-				<cell>C</cell>
-				<cell>B or C</cell>
-				<cell>A and B</cell>
-				<cell>If (B or C), then (A and B)</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-		</tabular>
-	</solution>
-</exercise>
-</exercisegroup>
 
 </exercises>
 </section>
