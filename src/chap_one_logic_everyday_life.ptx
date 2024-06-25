@@ -43,14 +43,21 @@
 	<p>
 		Many important decisions in life can be made more effectively using quantitative information and logic. The goal of this book and course is for you to feel more comfortable and confident with mathematical tools that are applicable to your life now and in the future. We will work with proportions for scaling and comparing quantities and  financial tools for managing money and taxes. We will learn about statistics for decisions that involve data, probability for decisions with uncertain events, and methods for fair group decision-making like apportionment and voting systems. By practicing with these methods, we hope you'll feel more empowered to use math to help you make the best decisions for yourself in college and beyond.
 	</p>
-	<p>
+	<!-- <p>
 		In this chapter we’ll learn several different tools. We’ll look at logic, sets, Venn diagrams, percentages, rates and proportions. Then we'll work with a problem solving process that can be applied to many types of problems.
-	</p>
+	</p> -->
 	<figure>
       <caption>Alternative Video Lesson</caption>
       <!-- <video youtube="wtaYYd7xE10" label="video-language-logic"/> -->
     </figure>
 </introduction>
+
+<introduction>
+	<title>Chapter 1 Introduction</title>
+	<p>
+		In this chapter we’ll learn several different tools. We’ll look at logic, sets, Venn diagrams, percentages, rates and proportions. Then we'll work with a problem solving process that can be applied to many types of problems.
+	</p>
+	</introduction>
 
 
 

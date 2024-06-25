@@ -48,10 +48,10 @@
 		<xi:include href="./language_logic_rules.ptx" />
 <!-- Chapters 2-5 same in both editions -->
 
-		<xi:include href="./financial_math.ptx" />
+		<!-- <xi:include href="./financial_math.ptx" />
 		<xi:include href="./statistics.ptx" />
 		<xi:include href="./probability.ptx" />
-		<xi:include href="./democracy.ptx" />
+		<xi:include href="./democracy.ptx" /> -->
 
 		<xi:include href="./backmatter.ptx" />
 	</book>
