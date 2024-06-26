@@ -600,6 +600,7 @@
 			</md>
 		</solution>
 	</example>
+	Percents are a specific type of comparison by division with a denominator of 100. Now we will expand to more general ratios, rates and proportions.
 </subsection>
 
 <subsection>
@@ -827,7 +828,7 @@
 	</example>
 </subsection>
 
-<!-- todo: cancel function may be an issue with units in html -->
+<!-- todo: cancel function may be an issue with units in html - works in Chrome but not Firefox -->
 <subsection>
 	<title>Solving Proportion Problems with an Algebraic Equation</title>
 	<p>
