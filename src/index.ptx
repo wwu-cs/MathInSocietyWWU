@@ -15,6 +15,7 @@
     		%  Usage: \highlight{x}   		
     		\newcommand{\highlight}[1]{{\color{blue}{{#1}}}}
 		</macros>
+		<math-package latex-name="cancel" mathjax-name="cancel"/>
 		<html>
       		<!-- Expects favicon/favicon-32x32.png, and favicon/favicon-16x16.png -->
       		<favicon/>
@@ -48,10 +49,10 @@
 		<xi:include href="./language_logic_rules.ptx" />
 <!-- Chapters 2-5 same in both editions -->
 
-		<!-- <xi:include href="./financial_math.ptx" />
+		<xi:include href="./financial_math.ptx" />
 		<xi:include href="./statistics.ptx" />
 		<xi:include href="./probability.ptx" />
-		<xi:include href="./democracy.ptx" /> -->
+		<xi:include href="./democracy.ptx" />
 
 		<xi:include href="./backmatter.ptx" />
 	</book>

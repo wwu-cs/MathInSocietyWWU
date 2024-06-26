@@ -827,7 +827,7 @@
 	</example>
 </subsection>
 
-<!-- todo: cancel function may be an issue for the pdf or something here stops it -->
+<!-- todo: cancel function may be an issue with units in html -->
 <subsection>
 	<title>Solving Proportion Problems with an Algebraic Equation</title>
 	<p>
@@ -851,9 +851,9 @@
 			<p>
 				By setting it up this way, there is only one algebraic step. We need to undo the division on the left side by multiplying by 2<nbsp/>1<solidus/>4 inches on both sides. That will maintain equality and isolate the variable.
 			</p>
-			<!-- <md>
+			<md>
 				<mrow>\cancel{\highlight{2\frac{1}{4}\text{ inches}}}\cdot\frac{x\text{ miles}}{\cancel{2\frac{1}{4}\text{ inches}}}=\highlight{2\frac{1}{4}\text{ inches}}\cdot\frac{3\text{ miles}}{\frac{1}{2}\text{ inch}}</mrow>
-			</md> -->
+			</md>
 			<p>
 				After canceling the 2<nbsp/>1<solidus/>4 inches, the variable is isolated and we can calculate the result.
 			</p>
@@ -892,7 +892,7 @@
 				Now we can maintain this equal relationship and solve for <m>x</m> by doing the same operation on both sides of the equation. To undo division, we will multiply by one of the denominators first.
 			</p>
 			
-			<!-- <md>
+			<md>
 				<mrow>\highlight{x}\cdot\frac{300\text{ miles}}{12\text{ gallons}}\amp=\highlight{x}\cdot\frac{1300\text{ miles}}{x}</mrow>
 				<mrow>\highlight{x}\cdot\frac{300\text{ miles}}{12\text{ gallons}}\amp=\cancel{x}\cdot\frac{1300\text{ miles}}{\cancel{x}}</mrow>
 				<mrow>\highlight{x}\cdot\frac{300\text{ miles}}{12\text{ gallons}}\amp=1300\text{ miles}</mrow>
@@ -903,7 +903,7 @@
 			<md>
 				<mrow>\highlight{12}\cdot x\cdot\frac{300\text{ miles}}{12\text{ gallons}}\amp=\highlight{12}\cdot1300</mrow>
 				<mrow>\cancel{12}\cdot x\cdot\frac{300\text{ miles}}{\cancel{12}\text{ gallons}}\amp=\highlight{12}\cdot1300</mrow>
-			</md> -->
+			</md>
 			<p>
 				Now we will simplify again and we see that we have <m>300x</m> on the left side but we want to know what <m>x</m> is. We will isolate the variable by using division to undo the multiplication operation.
 			</p>
@@ -920,8 +920,8 @@
 				We can double check our units by putting them back in the last step to make sure they cancel properly.
 			</p>
 			<md>
-<!-- 				<mrow>x\amp=\frac{12\text{ gallons}\cdot1300\cancel{\text{miles}}}{300\cancel{\text{miles}}}</mrow>
- -->				<mrow>x\amp=52\text{ gallons}</mrow>
+				<mrow>x\amp=\frac{12\text{ gallons}\cdot1300\cancel{\text{ miles}}}{300\cancel{\text{ miles}}}</mrow>
+				<mrow>x\amp=52\text{ gallons}</mrow>
 			</md>
 			<p>
 				The miles cancel out and we are left with gallons so this is a good double check.
