@@ -44,5 +44,6 @@
 		<knowl exercise-inline="no" example="no"/>
 		<index-page ref="frontmatter"/>
 		<video privacy="yes"/>
+		<baseurl href="https://spot.pcc.edu/math/mathinsociety/book-1.html"/>
 	</html>
 </publication>

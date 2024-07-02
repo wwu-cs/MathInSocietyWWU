@@ -22,9 +22,6 @@
       		<!-- There does not need to be a trailing / on the URL             -->
       		<!-- NB Eventually a publisher option will exist to overrule this, -->
       		<!-- so a given source can be installed more than one place        -->
-
-      		<!-- Todo: baseurl supposed to be specified in the publication file? error message -->
-      		<baseurl href="https://spot.pcc.edu/math/mathinsociety/book-1.html" />
   		</html>
 	</docinfo>
 
