@@ -44,7 +44,7 @@
 		Many important decisions in life can be made more effectively using quantitative information. The goal of this book and course is for you to feel more comfortable and confident with mathematical tools that are applicable to your life now and in the future. We will work with proportions for scaling and comparing quantities and  financial tools for managing money and taxes. We will also work with statistics for decisions that involve data, probability for decisions with uncertain events, and methods for fair group decision-making like apportionment and voting systems. By practicing with these tools, you'll be better equipped and feel more empowered to use mathematical tools to help you make decisions in college and beyond.
 	</p>
 	<p>
-		In this chapter we’ll learn several different tools for making decisions. We’ll look at a problem solving structure, percentages, rates and proportions for comparisons, and logic, sets and Venn diagrams for grouping information.
+		In this chapter we'll learn several different tools for making decisions. We'll look at a problem solving structure, percentages, rates and proportions for comparisons, and logic, sets and Venn diagrams for grouping information.
 	</p> -->
 	<figure>
       <caption>Alternative Video Lesson</caption>
@@ -69,7 +69,7 @@
 			<ol marker="1">
 				<li>
 					<p>
-						Identify the question(s) you’re trying to answer. Do any research needed to understand the context. Estimate the range of reasonable answers.
+						Identify the question(s) you're trying to answer. Do any research needed to understand the context. Estimate the range of reasonable answers.
 					</p>
 				</li>
 				<li>
@@ -79,7 +79,7 @@
 				</li>
 				<li>
 					<p>
-						Brainstorm and try out different mathematical tools to see what might be helpful. Use manipulatives, visuals or tables whenever possible. All ideas are useful, even if they don’t work out.
+						Brainstorm and try out different mathematical tools to see what might be helpful. Use manipulatives, visuals or tables whenever possible. All ideas are useful, even if they don't work out.
 					</p>
 				</li>
 				<li>
@@ -101,7 +101,7 @@
 		<example>
 			<statement>
 				<p>
-					You’re comparing two healthcare plans to select one of them for the next year. Plan A has a $200 monthly premium and a $1000 deductible, and plan B has a $150 monthly premium and a $2400 deductible. Which plan is more cost effective and why?
+					You're comparing two healthcare plans to select one of them for the next year. Plan A has a $200 monthly premium and a $1000 deductible, and plan B has a $150 monthly premium and a $2400 deductible. Which plan is more cost effective and why?
 				</p>
 				<p>
 					There are many ways to approach a problem like this, so this is an example. Please feel free to try it on your own first before you click on or read our solution. In the online version we have a solution link for each step to reveal one step at a time. You'll see that we go through the steps more than once.
@@ -169,7 +169,7 @@
 			<solution>
 				<title>Step 4: Choose a method to continue</title>
 				<p>
-					Let’s try calculating the cost of each plan per year.
+					Let's try calculating the cost of each plan per year.
 				</p>
 				<sidebyside widths="40% 40%">
 					<stack>
@@ -330,7 +330,7 @@
 <subsection>
 	<title>Operation Sense</title>
 	<p>
-		In the problem we just did, notice what came intuitively to you. Did you have a sense for which plan would be cheaper? Did you intuitively know that we would use multiplication and addition? These operations are common in totalling values. They also make positive values larger. <term>Operation sense</term> is understanding what mathematical operations do and when to use them. There are many words and phrases that translate to certain operations and results in math. In this class you’ll be practicing your operation sense to determine what steps to take.
+		In the problem we just did, notice what came intuitively to you. Did you have a sense for which plan would be cheaper? Did you intuitively know that we would use multiplication and addition? These operations are common in totalling values. They also make positive values larger. <term>Operation sense</term> is understanding what mathematical operations do and when to use them. There are many words and phrases that translate to certain operations and results in math. In this class you'll be practicing your operation sense to determine what steps to take.
 	</p>
 	<p>
 		In this table we list some words and phrases that can indicate each operation, and what will happen as a result. Here we focus on operations with positive numbers, but some of our problems may use negative quantities as well. As an extension, see if you can explain why we get the results from each operation (especially multiplication and division) and what would happen with negative numbers.
@@ -569,11 +569,11 @@
 			If you went shopping and one shirt was $20 off and another shirt was $30 off it might be hard to tell which is the better value. What if they were 20% off and 30% off? Percentages can make quantities easier to compare.
 		</p>
 		<p>
-			Percent, denoted by %, means “per 100,” or “parts per hundred.” In Spanish it’s literally por ciento. When we write 30% off, that means you save 30 out of every 100 dollars. We can write this percentage as the fraction <m>\frac{30}{100}</m>. When we divide 30 by 100, we get <me>\frac{30}{100}=0.30.</me> We can also say you would save 30 cents out of every dollar. Many equivalent fractions can be written that equal 30%. Notice that 60 out of 200 and 15 out of 50 are also 30%, since <me>\frac{60}{200}=\frac{15}{50}=\frac{30}{100}=0.30.</me>
+			Percent, denoted by %, means “per 100,” or “parts per hundred.” In Spanish it's literally por ciento. When we write 30% off, that means you save 30 out of every 100 dollars. We can write this percentage as the fraction <m>\frac{30}{100}</m>. When we divide 30 by 100, we get <me>\frac{30}{100}=0.30.</me> We can also say you would save 30 cents out of every dollar. Many equivalent fractions can be written that equal 30%. Notice that 60 out of 200 and 15 out of 50 are also 30%, since <me>\frac{60}{200}=\frac{15}{50}=\frac{30}{100}=0.30.</me>
 		</p>
 		<example>
 			<p>
-				As an example, let’s compare two shirts on sale and add some prices:
+				As an example, let's compare two shirts on sale and add some prices:
 			</p>
 			<sidebyside widths="40% 40%">
 				<p>
