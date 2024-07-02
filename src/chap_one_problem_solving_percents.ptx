@@ -485,7 +485,7 @@
 </subsection>
 
 <subsection>
-	<title>Solving Problems with Unit Conversions</title>
+	<title>Solving Problems with Geometry</title>
 
 	<p>
 
@@ -523,7 +523,7 @@
 </subsection>
 
 <subsection>
-	<title>Solving Problems with Geometry</title>
+	<title>Solving Problems with Unit Conversions</title>
 
 	<p>
 
@@ -1122,7 +1122,7 @@
 				<ol marker="a.">
 					<li>
 						<p>
-					
+							
 						</p>
 					</li>
 					<li>
@@ -1264,46 +1264,232 @@
 <exercisegroup>
 	<introduction>
 		<p>
-			Use the problem solving process to solve these problems. Document your steps and thinking.
+			Use a combination of operations to solve these problems. Document your steps and thinking.
 		</p>
 	</introduction>
-	<exercise><!--  #1 -->
+	<exercise><!--  #5 -->
+		<statement>
+			<p>
+				You earn a weekly salary of $550 and $10 for each item after you sell 20 items in a week. How much will you earn if you sell 41 items this week?
+			</p>
+		</statement>
+		<solution>
+			<p>
+				You will earn $760 this week.
+			</p>
+		</solution>
+	</exercise>
+	<exercise><!--  #6 -->
+		<statement>
+			<p>
+				You earn a monthly salary of $2100 and $12 for each item after you sell 50 items in a month. How much will you earn if you sell 130 items this month?
+			</p>
+		</statement>
+		<solution>
+			<p>
+				You will earn $3,060 this month.
+			</p>
+		</solution>
+	</exercise>
+	<exercise><!--  #7 -->
 		<statement>
 			<p>
 				
 			</p>
 		</statement>
 		<solution>
+			<p>
+				
+			</p>
 		</solution>
 	</exercise>
-	<exercise><!--  #2 -->
+	<exercise><!--  #8 -->
 		<statement>
+			<p>
+				
+			</p>
 		</statement>
 		<solution>
+			<p>
+				
+			</p>
 		</solution>
 	</exercise>
-	<exercise><!--  #3 -->
+	<exercise><!--  #9 -->
 		<statement>
+			<p>
+				
+			</p>
 		</statement>
 		<solution>
+			<p>
+				
+			</p>
 		</solution>
 	</exercise>
-	<exercise><!--  #4 -->
+	<exercise><!--  #10 -->
 		<statement>
+			<p>
+				
+			</p>
 		</statement>
 		<solution>
+			<p>
+				
+			</p>
 		</solution>
 	</exercise>
-	<exercise><!--  #5 -->
+	<exercise><!--  #11 -->
 		<statement>
+			<p>
+				
+			</p>
 		</statement>
 		<solution>
+			<p>
+				
+			</p>
 		</solution>
 	</exercise>
-	<exercise><!--  #6 -->
+	<exercise><!--  #12 -->
 		<statement>
+			<p>
+				
+			</p>
 		</statement>
 		<solution>
+			<p>
+				
+			</p>
+		</solution>
+	</exercise>
+</exercisegroup>
+
+<exercisegroup>
+	<introduction>
+		<p>
+			Use the problem solving process to solve these problems. Document your steps and thinking.
+		</p>
+	</introduction>
+	<exercise><!--  #13 -->
+		<statement>
+			<p>
+				
+			</p>
+		</statement>
+		<solution>
+			<p>
+				
+			</p>
+		</solution>
+	</exercise>
+	<exercise><!--  #14 -->
+		<statement>
+			<p>
+				
+			</p>
+		</statement>
+		<solution>
+			<p>
+				
+			</p>
+		</solution>
+	</exercise>
+	<exercise><!--  #15 -->
+		<statement>
+			<p>
+				
+			</p>
+		</statement>
+		<solution>
+			<p>
+				
+			</p>
+		</solution>
+	</exercise>
+	<exercise><!--  #16 -->
+		<statement>
+			<p>
+				
+			</p>
+		</statement>
+		<solution>
+			<p>
+				
+			</p>
+		</solution>
+	</exercise>
+	<exercise><!--  #17 -->
+		<statement>
+			<p>
+				You have two job offers. One pays a salary of $60,000 per year. The other job pays $28 per hour for 40 hours a week with a $500 signing bonus. If the jobs and benefits are similar, which job would you choose?
+			</p>
+		</statement>
+		<solution>
+			<p>
+				The hourly job would pay $58,740 per year. The salary of $60,000 is higher unless there is a lot of overtime pay in the hourly job.
+			</p>
+		</solution>
+	</exercise>
+	<exercise><!--  #18 -->
+		<statement>
+			<p>
+				You have two job offers. One pays a salary of $85,000 per year with a $2,000 yearly bonus that has the possiblity to increase. The other job pays $42.50 per hour for 40 hours a week. If the jobs and benefits are similar, which job would you choose?
+			</p>
+		</statement>
+		<solution>
+			<p>
+				The salaried job pays $87,000 per year and the hourly job pays $88,400 per year so the hourly job pays more.
+			</p>
+		</solution>
+	</exercise>
+	<exercise><!--  #19 -->
+		<statement>
+			<p>
+				In question 17, if the hourly job had overtime pay at time and a half, how many hours of overtime per year would you need to work in a year to get paid as much as the salaried job?
+			</p>
+		</statement>
+		<solution>
+			<p>
+				It would take 30 hours of overtime in a year for the hourly pay to equal the salaried job pay.
+			</p>
+		</solution>
+	</exercise>
+	<exercise><!--  #20 -->
+		<statement>
+			<p>
+				In question 18, how much would the yearly bonus in the salaried job need to be for you to get paid as much as the hourly job?
+			</p>
+		</statement>
+		<solution>
+			<p>
+				The yearly bonus would need to be $3,400 in order for the salaried job to pay as much as the hourly job.
+			</p>
+		</solution>
+	</exercise>
+
+	<exercise><!--  #21 -->
+		<statement>
+			<p>
+				You are organizing a large dinner event. One venue charges $155 per person and you have a prior credit of $4,600. Another venue charges $500 per table of 8 people. Which venue is more cost effective?
+			</p>
+		</statement>
+		<solution>
+			<p>
+				It depends on the size of the party. The per person venue is less expensive up to 52 people. The per table venue is cheaper for 53 or more guests.
+			</p>
+		</solution>
+	</exercise>
+	<exercise><!--  #22 -->
+		<statement>
+			<p>
+				You are organizing a large dinner event. One venue charges $950 per table of 12. Another venue charges a setup fee of $1500 and $40 per person. Which venue is more cost effective?
+			</p>
+		</statement>
+		<solution>
+			<p>
+				It depends on the size of the party. The per table venue is less expensive up to 24 people and from 34 to 36 people. The per person venue is cheaper for 25 to 33 people and groups of 37 or larger.
+			</p>
 		</solution>
 	</exercise>
 </exercisegroup>
@@ -1314,40 +1500,76 @@
 			Use the problem solving process to solve these problems. For this set of questions, after you identify the information you need, go to the end of the exercises to find that information. The details may be imprecise; answer the question the best you can with the provided information. Document your steps and thinking.
 		</p>
 	</introduction>
-	<exercise><!--  #7 -->
+	<exercise><!--  #23 -->
 		<statement>
+			<p>
+				
+			</p>
 		</statement>
 		<solution>
+			<p>
+				
+			</p>
 		</solution>
 	</exercise>
-	<exercise><!--  #8 -->
+	<exercise><!--  #24 -->
 		<statement>
+			<p>
+				
+			</p>
 		</statement>
 		<solution>
+			<p>
+				
+			</p>
 		</solution>
 	</exercise>
-	<exercise><!--  #9 -->
+	<exercise><!--  #25 -->
 		<statement>
 		</statement>
+		<p>
+				
+			</p>
 		<solution>
+			<p>
+				
+			</p>
 		</solution>
 	</exercise>
-	<exercise><!--  #10 -->
+	<exercise><!--  #26 -->
 		<statement>
+			<p>
+				
+			</p>
 		</statement>
 		<solution>
+			<p>
+				
+			</p>
 		</solution>
 	</exercise>
-	<exercise><!--  #11 -->
+	<exercise><!--  #27 -->
 		<statement>
+			<p>
+				
+			</p>
 		</statement>
 		<solution>
+			<p>
+				
+			</p>
 		</solution>
 	</exercise>
-	<exercise><!--  #12 -->
+	<exercise><!--  #28 -->
 		<statement>
+			<p>
+				
+			</p>
 		</statement>
 		<solution>
+			<p>
+				
+			</p>
 		</solution>
 	</exercise>
 </exercisegroup>
@@ -1358,37 +1580,37 @@
 			Use the problem solving process to solve these problems. For this set of questions, research or make educated estimates for any unknown information needed to answer the question. Document your steps and thinking.
 		</p>
 	</introduction>
-	<exercise><!--  #13 -->
+	<exercise><!--  #29 -->
 		<statement>
 		</statement>
 		<solution>
 		</solution>
 	</exercise>
-	<exercise><!--  #14 -->
+	<exercise><!--  #30 -->
 		<statement>
 		</statement>
 		<solution>
 		</solution>
 	</exercise>
-	<exercise><!--  #15 -->
+	<exercise><!--  #31 -->
 		<statement>
 		</statement>
 		<solution>
 		</solution>
 	</exercise>
-	<exercise><!--  #16 -->
+	<exercise><!--  #32 -->
 		<statement>
 		</statement>
 		<solution>
 		</solution>
 	</exercise>
-	<exercise><!--  #17 -->
+	<exercise><!--  #33 -->
 		<statement>
 		</statement>
 		<solution>
 		</solution>
 	</exercise>
-	<exercise><!--  #18 -->
+	<exercise><!--  #34 -->
 		<statement>
 		</statement>
 		<solution>
@@ -1397,7 +1619,7 @@
 </exercisegroup>
 
 
-<exercise><!--  #19 -->
+<exercise><!--  #35 -->
 	<statement>
 	<p>
 		
@@ -1410,7 +1632,7 @@
 	</solution>
 </exercise>
 
-<exercise> <!-- #20 -->
+<exercise> <!-- #36 -->
 	<statement>
 	<p>
 		
@@ -1423,7 +1645,7 @@
 	</solution>
 </exercise>
 
-<exercise><!--  #21 -->
+<exercise><!--  #37 -->
 	<statement>
 	<p>
 		
@@ -1481,7 +1703,7 @@
 	</solution>
 </exercise>
 
-<exercise><!--  #22 -->
+<exercise><!--  #38 -->
 	<statement>
 	<p>
 		
@@ -1539,7 +1761,7 @@
 	</solution>
 </exercise>
 
-<exercise><!--  #23 -->
+<exercise><!--  #39 -->
 	<statement>
 	<p>
 		
@@ -1597,7 +1819,7 @@
 	</solution>
 </exercise>
 
-<exercise><!--  #24 -->
+<exercise><!--  #40 -->
 	<statement>
 	<p>
 		
@@ -1655,7 +1877,7 @@
 	</solution>
 </exercise>
 
-<exercise><!--  #25 -->
+<exercise><!--  #41 -->
 	<statement>
 	<p>
 		
@@ -1693,7 +1915,7 @@
 	</solution>
 </exercise>
 
-<exercise><!--  #26 -->
+<exercise><!--  #42 -->
 	<statement>
 	<p>
 		
@@ -1730,7 +1952,7 @@
 	</p>
 	</solution>
 </exercise>
-<exercise><!--  #27 -->
+<exercise><!--  #43 -->
 	<statement>
 	<p>
 		
@@ -1767,7 +1989,7 @@
 	</p>
 	</solution>
 </exercise>
-<exercise><!--  #28 -->
+<exercise><!--  #44 -->
 	<statement>
 	<p>
 		

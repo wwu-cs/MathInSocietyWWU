@@ -855,19 +855,19 @@
 				By setting it up this way, there is only one algebraic step. We need to undo the division on the left side by multiplying by 2<nbsp/>1<solidus/>4 inches on both sides. That will maintain equality and isolate the variable.
 			</p>
 			<md>
-				<mrow>\cancel{\highlight{2\frac{1}{4}\text{ inches}}}\cdot\frac{x\text{ miles}}{\cancel{2\frac{1}{4}\text{ inches}}}=\highlight{2\frac{1}{4}\text{ inches}}\cdot\frac{3\text{ miles}}{\frac{1}{2}\text{ inch}}</mrow>
+				<mrow>\cancel{\highlight{2\frac{1}{4}\mathrm{ inches}}}\cdot\frac{x\text{ miles}}{\cancel{2\frac{1}{4}\mathrm{ inches}}}=\highlight{2\frac{1}{4}\text{ inches}}\cdot\frac{3\text{ miles}}{\frac{1}{2}\text{ inch}}</mrow>
 			</md>
 			<p>
 				After canceling the 2<nbsp/>1<solidus/>4 inches, the variable is isolated and we can calculate the result.
 			</p>
 			<md>
-				<mrow>x\amp=\frac{2\frac{1}{4}\text{ inches}\cdot{3\text{ miles}}}{\frac{1}{2}\text{ inch}}</mrow>
+				<mrow>x\amp=\frac{2\frac{1}{4}\cancel{\mathrm{ inches}}\cdot{3\text{ miles}}}{\frac{1}{2}\cancel{\mathrm{ inch}}}</mrow>
 			</md>
 			<p>
 				We can use the fraction feature on a calculator or the division bar with parentheses.
 			</p>
 			<md>
-				<mrow>x\amp=(2+1/4)\cdot3/(1/2)</mrow>
+				<mrow>x\amp=(2+1/4)\cdot3/(1/2)\text{ miles}</mrow>
 				<mrow>x\amp=13.5\text{ miles}</mrow>
 			</md>
 			<p>
@@ -892,23 +892,23 @@
 				<mrow>\frac{300\text{ miles}}{12\text{ gallons}}=\frac{1300\text{ miles}}{x\text{ gallons}}</mrow>
 			</md>
 			<p>
-				Now we can maintain this equal relationship and solve for <m>x</m> by doing the same operation on both sides of the equation. To undo division, we will multiply by one of the denominators first.
+				Now we can maintain this equal relationship and solve for <m>x</m> by doing the same operation on both sides of the equation. To undo division, we will multiply by one of the denominators first. To simplify the process we will remove the units for now and check them at the end.
 			</p>
 			
 			<md>
-				<mrow>\highlight{x}\cdot\frac{300\text{ miles}}{12\text{ gallons}}\amp=\highlight{x}\cdot\frac{1300\text{ miles}}{x}</mrow>
-				<mrow>\highlight{x}\cdot\frac{300\text{ miles}}{12\text{ gallons}}\amp=\cancel{x}\cdot\frac{1300\text{ miles}}{\cancel{x}}</mrow>
-				<mrow>\highlight{x}\cdot\frac{300\text{ miles}}{12\text{ gallons}}\amp=1300\text{ miles}</mrow>
+				<mrow>\highlight{x}\cdot\frac{300}{12}\amp=\highlight{x}\cdot\frac{1300}{x}</mrow>
+				<mrow>\highlight{x}\cdot\frac{300}{12}\amp=\cancel{x}\cdot\frac{1300}{\cancel{x}}</mrow>
+				<mrow>\frac{300x}{12}\amp=1300</mrow>
 			</md>
 			<p>
-				After canceling the <m>x</m>'s on the right side we will multiply by the other denominator. You could do these at the same time if you prefer.
+				After canceling the <m>x</m>'s on the right side and simplifying the left side, we will multiply by the other denominator. You could do these at the same time if you prefer.
 			</p>
 			<md>
-				<mrow>\highlight{12}\cdot x\cdot\frac{300\text{ miles}}{12\text{ gallons}}\amp=\highlight{12}\cdot1300</mrow>
-				<mrow>\cancel{12}\cdot x\cdot\frac{300\text{ miles}}{\cancel{12}\text{ gallons}}\amp=\highlight{12}\cdot1300</mrow>
+				<mrow>\highlight{12}\cdot\frac{300x}{12}\amp=\highlight{12}\cdot1300</mrow>
+				<mrow>\cancel{12}\cdot\frac{300x}{\cancel{12}}\amp=\highlight{12}\cdot1300</mrow>
 			</md>
 			<p>
-				Now we will simplify again and we see that we have <m>300x</m> on the left side but we want to know what <m>x</m> is. We will isolate the variable by using division to undo the multiplication operation.
+				After canceling the <m>12</m>'s we see that we have <m>300x</m> on the left side but we want to know what <m>x</m> is. We will isolate the variable by using division to undo the multiplication operation.
 			</p>
 			<md>
 				<mrow>300x\amp=12\cdot1300</mrow>
@@ -923,7 +923,7 @@
 				We can double check our units by putting them back in the last step to make sure they cancel properly.
 			</p>
 			<md>
-				<mrow>x\amp=\frac{12\text{ gallons}\cdot1300\cancel{\text{ miles}}}{300\cancel{\text{ miles}}}</mrow>
+				<mrow>x\amp=\frac{12\text{ gallons}\cdot1300\cancel{\mathrm{  miles}}}{300\cancel{\mathrm{  miles}}}</mrow>
 				<mrow>x\amp=52\text{ gallons}</mrow>
 			</md>
 			<p>

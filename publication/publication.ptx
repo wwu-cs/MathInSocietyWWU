@@ -32,6 +32,7 @@
 		<tableofcontents level="2"/>
 		<exercise-inline hint="no" answer="no" solution="yes"/>
 		<exercise-divisional hint="no" answer="no" solution="no"/>
+		<!-- Note: to print answers, see code in backmatter -->
 	</common>
 	<latex print="yes" sides="two" pageref="no">
 		<page>

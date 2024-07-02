@@ -103,7 +103,11 @@
 <!-- <solutions divisional="solution" admit="odd">
 	<title>Odd Answers</title>
 </solutions>
- -->
+
+<solutions divisional="solution" admit="all">
+	<title>All Answers for Instructors Only</title>
+</solutions> -->
+
 <!-- sample syntax -->
 <!-- <references xml:id="references-section">
                 <title>References</title>
