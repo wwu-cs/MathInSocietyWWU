@@ -580,28 +580,24 @@
 		<solution>
 			<p>
 				After one week, the value dropped by 60%:
-			</p>
-			<md>
-				<mrow>\$100 - \$100(0.60) \amp= \$100 - \$60</mrow>
-				<mrow>\amp= \$40</mrow>
-			</md>
-			<p>
+				<md>
+					<mrow>\$100 - \$100(0.60) \amp= \$100 - \$60</mrow>
+					<mrow>\amp= \$40</mrow>
+				</md>
 				In the next week, notice that base of the percent has changed to the new value of $40. Computing the 75% increase:
-			</p>
-			<md>
-				<mrow>\$40 + \$40(0.75) \amp= \$40 + \$30</mrow>
-				<mrow>\amp= \$70</mrow>
-			</md>
-			<p>
+				<md>
+					<mrow>\$40 + \$40(0.75) \amp= \$40 + \$30</mrow>
+					<mrow>\amp= \$70</mrow>
+				</md>
 				In the end, the stock is $70, which is $30 lower, or 30% lower than it started.
 			</p>
 			<p>
 				This is optional, but if you enjoyed the shorter method we showed before, you can also use it for multiple percent changes.
+				<md>
+					<mrow>\$100(1-0.60)(1+0.75) \amp= \$100(0.40)(1.75)</mrow>
+					<mrow>\amp= \$70</mrow>
+				</md>
 			</p>
-			<md>
-				<mrow>\$100(1-0.60)(1+0.75) \amp= \$100(0.40)(1.75)</mrow>
-				<mrow>\amp= \$70</mrow>
-			</md>
 		</solution>
 	</example>
 	<p>
@@ -851,30 +847,22 @@
 		<solution>
 			<p>
 				First, we write our equation and we will purposely organize it to put the variable, <m>x</m>, in the numerator on the left side. Our unknown quantity goes with the map distance of 2<nbsp/>1<solidus/>4 inches so we put that in the denominator on the left side. Then we match up our two known quantities to match the units on the left side.
-			</p>
-			<md>
-				<mrow>\frac{x\text{ miles}}{2\frac{1}{4}\text{ inches}}=\frac{3\text{ miles}}{\frac{1}{2}\text{ inch}}</mrow>
-			</md>
-			<p>
+				<md>
+					<mrow>\frac{x\text{ miles}}{2\frac{1}{4}\text{ inches}}=\frac{3\text{ miles}}{\frac{1}{2}\text{ inch}}</mrow>
+				</md>
 				By setting it up this way, there is only one algebraic step. We need to undo the division on the left side by multiplying by 2<nbsp/>1<solidus/>4 inches on both sides. That will maintain equality and isolate the variable.
-			</p>
-			<md>
-				<mrow>\cancel{\highlight{2\frac{1}{4}\mathrm{ inches}}}\cdot\frac{x\text{ miles}}{\cancel{2\frac{1}{4}\mathrm{ inches}}}=\highlight{2\frac{1}{4}\text{ inches}}\cdot\frac{3\text{ miles}}{\frac{1}{2}\text{ inch}}</mrow>
-			</md>
-			<p>
+				<md>
+					<mrow>\cancel{\highlight{2\frac{1}{4}\mathrm{ inches}}}\cdot\frac{x\text{ miles}}{\cancel{2\frac{1}{4}\mathrm{ inches}}}=\highlight{2\frac{1}{4}\text{ inches}}\cdot\frac{3\text{ miles}}{\frac{1}{2}\text{ inch}}</mrow>
+				</md>
 				After canceling the 2<nbsp/>1<solidus/>4 inches, the variable is isolated and we can calculate the result.
-			</p>
-			<md>
-				<mrow>x\amp=\frac{2\frac{1}{4}\cancel{\mathrm{ inches}}\cdot{3\text{ miles}}}{\frac{1}{2}\cancel{\mathrm{ inch}}}</mrow>
-			</md>
-			<p>
+				<md>
+					<mrow>x\amp=\frac{2\frac{1}{4}\cancel{\mathrm{ inches}}\cdot{3\text{ miles}}}{\frac{1}{2}\cancel{\mathrm{ inch}}}</mrow>
+				</md>
 				We can use the fraction feature on a calculator or the division bar with parentheses.
-			</p>
-			<md>
-				<mrow>x\amp=(2+1/4)\cdot3/(1/2)\text{ miles}</mrow>
-				<mrow>x\amp=13.5\text{ miles}</mrow>
-			</md>
-			<p>
+				<md>
+					<mrow>x\amp=(2+1/4)\cdot3/(1/2)\text{ miles}</mrow>
+					<mrow>x\amp=13.5\text{ miles}</mrow>
+				</md>
 				The length of the hike is 13.5 miles.
 			</p>
 		</solution>
@@ -891,46 +879,35 @@
 		<solution>
 			<p>
 				For this equation we will start with the given information and write that as a rate on one side. For the corresponding rate, we know the trip is 1,300 miles so we line that up with the 300 miles in the numerator. We will use a variable, <m>x</m>, for the unknown quantity. We are looking for an answer in gallons so we will use that as a double check.
-			</p>
-			<md>
-				<mrow>\frac{300\text{ miles}}{12\text{ gallons}}=\frac{1300\text{ miles}}{x\text{ gallons}}</mrow>
-			</md>
-			<p>
+				<md>
+					<mrow>\frac{300\text{ miles}}{12\text{ gallons}}=\frac{1300\text{ miles}}{x\text{ gallons}}</mrow>
+				</md>
 				Now we can maintain this equal relationship and solve for <m>x</m> by doing the same operation on both sides of the equation. To undo division, we will multiply by one of the denominators first. To simplify the process we will remove the units for now and check them at the end.
-			</p>
-			
-			<md>
-				<mrow>\highlight{x}\cdot\frac{300}{12}\amp=\highlight{x}\cdot\frac{1300}{x}</mrow>
-				<mrow>\highlight{x}\cdot\frac{300}{12}\amp=\cancel{x}\cdot\frac{1300}{\cancel{x}}</mrow>
-				<mrow>\frac{300x}{12}\amp=1300</mrow>
-			</md>
-			<p>
+				<md>
+					<mrow>\highlight{x}\cdot\frac{300}{12}\amp=\highlight{x}\cdot\frac{1300}{x}</mrow>
+					<mrow>\highlight{x}\cdot\frac{300}{12}\amp=\cancel{x}\cdot\frac{1300}{\cancel{x}}</mrow>
+					<mrow>\frac{300x}{12}\amp=1300</mrow>
+				</md>
 				After canceling the <m>x</m>'s on the right side and simplifying the left side, we will multiply by the other denominator. You could do these at the same time if you prefer.
-			</p>
-			<md>
-				<mrow>\highlight{12}\cdot\frac{300x}{12}\amp=\highlight{12}\cdot1300</mrow>
-				<mrow>\cancel{12}\cdot\frac{300x}{\cancel{12}}\amp=\highlight{12}\cdot1300</mrow>
-			</md>
-			<p>
+				<md>
+					<mrow>\highlight{12}\cdot\frac{300x}{12}\amp=\highlight{12}\cdot1300</mrow>
+					<mrow>\cancel{12}\cdot\frac{300x}{\cancel{12}}\amp=\highlight{12}\cdot1300</mrow>
+				</md>
 				After canceling the <m>12</m>'s we see that we have <m>300x</m> on the left side but we want to know what <m>x</m> is. We will isolate the variable by using division to undo the multiplication operation.
-			</p>
-			<md>
-				<mrow>300x\amp=12\cdot1300</mrow>
-				<mrow></mrow>
-				<mrow>\frac{300x}{\highlight{300}}\amp=\frac{12\cdot1300}{\highlight{300}}</mrow>
-				<mrow>\frac{\cancel{300}x}{\cancel{300}}\amp=\frac{12\cdot1300}{300}</mrow>
-				<mrow>x\amp=\frac{12\cdot1300}{300}</mrow>
-				<mrow></mrow>
-				<mrow>x\amp=52\text{ gallons}</mrow>
-			</md>
-			<p>
+				<md>
+					<mrow>300x\amp=12\cdot1300</mrow>
+					<mrow></mrow>
+					<mrow>\frac{300x}{\highlight{300}}\amp=\frac{12\cdot1300}{\highlight{300}}</mrow>
+					<mrow>\frac{\cancel{300}x}{\cancel{300}}\amp=\frac{12\cdot1300}{300}</mrow>
+					<mrow>x\amp=\frac{12\cdot1300}{300}</mrow>
+					<mrow></mrow>
+					<mrow>x\amp=52\text{ gallons}</mrow>
+				</md>
 				We can double check our units by putting them back in the last step to make sure they cancel properly.
-			</p>
-			<md>
-				<mrow>x\amp=\frac{12\text{ gallons}\cdot1300\cancel{\mathrm{  miles}}}{300\cancel{\mathrm{  miles}}}</mrow>
-				<mrow>x\amp=52\text{ gallons}</mrow>
-			</md>
-			<p>
+				<md>
+					<mrow>x\amp=\frac{12\text{ gallons}\cdot1300\cancel{\mathrm{  miles}}}{300\cancel{\mathrm{  miles}}}</mrow>
+					<mrow>x\amp=52\text{ gallons}</mrow>
+				</md>
 				The miles cancel out and we are left with gallons so this is a good double check.
 			</p>
 		</solution>
