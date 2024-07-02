@@ -238,27 +238,57 @@
 		</p>
 	</preface> -->
 
+	<preface>
+		<title>Introduction to this Book</title>
+		<p>
+			Many important decisions in life can be made more effectively using quantitative
+			information and logic. The goal of this book and course is for you to feel more
+			comfortable and confident with mathematical tools that are applicable to your life now
+			and in the future. We will work with proportions for scaling and comparing quantities
+			and financial tools for managing money and taxes. We will learn about statistics for
+			decisions that involve data, probability for decisions with uncertain events, and
+			methods for fair group decision-making like apportionment and voting systems. By
+			practicing with these methods, we hope you'll feel more empowered to use math to help
+			you make the best decisions for yourself in college and beyond.
+		</p>
+	</preface>
+
 	<preface xml:id="Notes">
-	<title>Project Notes</title>
+		<title>Project Notes</title>
     	<blockquote>
     		<p>
-    			<em>We dedicate this book to our students. May you have greater ease in paying for college and grow your proficiency and confidence in math.</em>
+    			We dedicate this book to our students. May you have greater ease in paying for
+				college and grow your proficiency and confidence in math.
 			</p>
     	</blockquote>
 		<paragraphs>
 			<title>Acknowledgements</title>
 			<p>
 				We would like to thank Amy Hofer and grant support from
-				<url href="https://openoregon.org/" visual="openoregon.org">Open Oregon Educational Resources</url> and the PCC librarians and OER steering committee. Thanks also to Kaela Parks and Michael Cantino of Accessible Education and Disability Resources for their expertise on accessibility. Extended thanks to Alex Jordan for continued support with <url href="https://pretextbook.org/" visual="pretextbook.org">PreTeXt</url>.
+				<url href="https://openoregon.org/"
+					visual="openoregon.org">Open Oregon Educational Resources</url>
+				and the PCC librarians and OER steering committee. Thanks also to Kaela Parks and
+				Michael Cantino of Accessible Education and Disability Resources for their expertise
+				on accessibility. Extended thanks to Alex Jordan for continued support with
+				<url href="https://pretextbook.org/" visual="pretextbook.org">PreTeXt</url>.
 			</p>
 		</paragraphs>
 		<paragraphs>
 			<title>Antiracist and Culturally Responsive Elements</title>
 			<p>
-				Our goal is for our students to see themselves in this book. We have added stories of mathematicians and economists with identities that have traditionally been underrepresented in textbooks. We use local places and culturally diverse names in the examples and exercises. We have examples with they/them/their pronouns and same-sex couples.
+				Our goal is for our students to see themselves in this book. We have added stories
+				of mathematicians and economists with identities that have traditionally been
+				underrepresented in textbooks. We use local places and culturally diverse names in
+				the examples and exercises. We have examples with they/them/their pronouns and
+				same-sex couples.
 			</p>
    			<p>
-   				In the democracy chapter we have included the Native American genocide and slavery which are often left out of math texts. We have also emphasized the names of civil rights leaders and African Americans killed by the police in our examples. We recognize there is more to do in this area and welcome contributions and feedback. Please email Cara Lee at <email>cara.lee@pcc.edu</email> or use the Google Form link below.
+   				In the democracy chapter we have included the Native American genocide and slavery
+				which are often left out of math texts. We have also emphasized the names of civil
+				rights leaders and African Americans killed by the police in our examples. We
+				recognize there is more to do in this area and welcome contributions and feedback.
+				Please email Cara Lee at <email>cara.lee@pcc.edu</email> or use the Google Form link
+				below.
 			</p>
 		</paragraphs>
 		<paragraphs>
@@ -295,8 +325,9 @@
 			<title>Accessibility</title>
 			<p>
 				The <init>HTML</init> version of this book is intended to meet or exceed web
-				accessibility standards. If you find anything that can improve the accessibility of this book, please email Cara Lee at
-				<email>cara.lee@pcc.edu</email> or use the Google Form link below.
+				accessibility standards. If you find anything that can improve the accessibility of
+				this book, please email Cara Lee at <email>cara.lee@pcc.edu</email> or use the
+				Google Form link below.
 			</p>
 		</paragraphs>
 		<paragraphs>
