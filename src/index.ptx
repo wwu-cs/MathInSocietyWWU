@@ -36,6 +36,10 @@
 		<!-- <subtitle>Quantitative tools for making decisions in your life</subtitle> -->
 		<!-- <subtitle>Quantitative tools for decision making</subtitle> -->
 		<!-- <subtitle>Quantitative tools for life</subtitle> -->
+
+		<!-- TODO: the following is not PTX schema-compliant. This is a temporary hack that makes
+		 the HTML have this picture on the book's landing page, and has no impact on the PDF. There
+		 should ulimately be explicit support for an image like this on the landing page. -->
 		<introduction>
 			<p>
 				<image source="images/Portland_Oregon_Skyline.jpg">
