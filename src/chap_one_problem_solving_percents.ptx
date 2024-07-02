@@ -3,7 +3,6 @@
 <title>Problem Solving</title>
 
 <objectives>
-<title><xref ref="chap_one_problem_solving_percents"></xref> Problem Solving and Percentages</title>
 	<introduction>
 		<p>
 			Students will be able to:
@@ -336,6 +335,9 @@
 		In this table we list some words and phrases that can indicate each operation, and what will happen as a result. Here we focus on operations with positive numbers, but some of our problems may use negative quantities as well. As an extension, see if you can explain why we get the results from each operation (especially multiplication and division) and what would happen with negative numbers.
 	</p>
 		<tabular row-headers="yes" top="minor" left="minor" right="minor" bottom="minor" halign="left">
+			<col/>
+			<col width="40%"/>
+			<col width="40%"/>
 			<row header="yes">
 				<cell>Operation</cell>
 				<cell>Key phrases</cell>
