@@ -255,43 +255,39 @@
 		<p>
 			Use the following quiz scores in points:
 		</p>
-		<p>
-				<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-					<row>
-						<cell>5</cell>
-						<cell>10</cell>
-						<cell>8</cell>
-						<cell>6</cell>
-						<cell>4</cell>
-						<cell>8</cell>
-						<cell>2</cell>
-						<cell>5</cell>
-						<cell>7</cell>
-						<cell>7</cell>
-						<cell>6</cell>
-					</row>
-				</tabular>
-		</p>
+		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+			<row>
+				<cell>5</cell>
+				<cell>10</cell>
+				<cell>8</cell>
+				<cell>6</cell>
+				<cell>4</cell>
+				<cell>8</cell>
+				<cell>2</cell>
+				<cell>5</cell>
+				<cell>7</cell>
+				<cell>7</cell>
+				<cell>6</cell>
+			</row>
+		</tabular>
 		<p>
 			We must start by listing the data in order:
 		</p>
-		<p>
-				<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-					<row>
-						<cell>2</cell>
-						<cell>4</cell>
-						<cell>5</cell>
-						<cell>5</cell>
-						<cell>6</cell>
-						<cell>6</cell>
-						<cell>7</cell>
-						<cell>7</cell>
-						<cell>8</cell>
-						<cell>8</cell>
-						<cell>10</cell>
-					</row>
-				</tabular>
-		</p>
+		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+			<row>
+				<cell>2</cell>
+				<cell>4</cell>
+				<cell>5</cell>
+				<cell>5</cell>
+				<cell>6</cell>
+				<cell>6</cell>
+				<cell>7</cell>
+				<cell>7</cell>
+				<cell>8</cell>
+				<cell>8</cell>
+				<cell>10</cell>
+			</row>
+		</tabular>
 		<p>
 			It is helpful to mark or cross off the numbers as you list them to make sure you don't miss any. Also, be sure to count the number of data values in your ordered list to make sure it matches the number of data values in the original list.
 		</p>
@@ -315,24 +311,22 @@
 		<p>
 			Use the following quiz scores in points:
 		</p>
-		<p>
-				<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-					<row>
-						<cell>2</cell>
-						<cell>4</cell>
-						<cell>5</cell>
-						<cell>5</cell>
-						<cell>6</cell>
-						<cell>6</cell>
-						<cell>7</cell>
-						<cell>7</cell>
-						<cell>8</cell>
-						<cell>8</cell>
-						<cell>10</cell>
-						<cell>20</cell>
-					</row>
-				</tabular>
-		</p>
+		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+			<row>
+				<cell>2</cell>
+				<cell>4</cell>
+				<cell>5</cell>
+				<cell>5</cell>
+				<cell>6</cell>
+				<cell>6</cell>
+				<cell>7</cell>
+				<cell>7</cell>
+				<cell>8</cell>
+				<cell>8</cell>
+				<cell>10</cell>
+				<cell>20</cell>
+			</row>
+		</tabular>
 		<p>
 			There are now 12 quiz scores in our sample. When the distribution contains an even number of data values there will be a pair of values in the middle rather than a single value. Then we take the average of the middle two values.
 		</p>
@@ -373,31 +367,27 @@
 	<p>
 		Let's continue with our peanut butter example and find the median both by hand and with a spreadsheet. The price of peanut butter at 5 stores in dollars was:
 	</p>
-	<p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row>
-					<cell>3.29</cell>
-					<cell>3.59</cell>
-					<cell>3.79</cell>
-					<cell>3.75</cell>
-					<cell>3.99</cell>
-				</row>
-			</tabular>
-	</p>
+	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+		<row>
+			<cell>3.29</cell>
+			<cell>3.59</cell>
+			<cell>3.79</cell>
+			<cell>3.75</cell>
+			<cell>3.99</cell>
+		</row>
+	</tabular>
 	<p>
 		To find the median by hand, we must first list the prices in order. This give us:
 	</p>
-	<p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row>
-					<cell>3.29</cell>
-					<cell>3.59</cell>
-					<cell>3.75</cell>
-					<cell>3.79</cell>
-					<cell>3.99</cell>
-				</row>
-			</tabular>
-	</p>
+	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+		<row>
+			<cell>3.29</cell>
+			<cell>3.59</cell>
+			<cell>3.75</cell>
+			<cell>3.79</cell>
+			<cell>3.99</cell>
+		</row>
+	</tabular>
 	<p>
 		Since there are an odd number of data values in the sample (<m>n=5</m>), we know that the median will be the single data value in the middle of the ordered list.
 	</p>
@@ -510,27 +500,25 @@
 	<p>
 		A group of diners were asked how much they would pay for a breakfast in dollars. Their responses were:
 	</p>
-	<p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row>
-					<cell>7.50</cell>
-					<cell>25</cell>
-					<cell>10</cell>
-					<cell>10</cell>
-					<cell>7.50</cell>
-					<cell>8.25</cell>
-					<cell>9</cell>
-					<cell>5</cell>
-					<cell>15</cell>
-					<cell>8</cell>
-					<cell>7.25</cell>
-					<cell>7.50</cell>
-					<cell>8</cell>
-					<cell>7</cell>
-					<cell>12</cell>
-				</row>
-			</tabular>
-	</p>
+	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+		<row>
+			<cell>7.50</cell>
+			<cell>25</cell>
+			<cell>10</cell>
+			<cell>10</cell>
+			<cell>7.50</cell>
+			<cell>8.25</cell>
+			<cell>9</cell>
+			<cell>5</cell>
+			<cell>15</cell>
+			<cell>8</cell>
+			<cell>7.25</cell>
+			<cell>7.50</cell>
+			<cell>8</cell>
+			<cell>7</cell>
+			<cell>12</cell>
+		</row>
+	</tabular>
 	<p>
 	<ol marker="a.">
 			<li>
@@ -609,24 +597,22 @@
 	<p>
 		The amount of commercials in an hour of television varies by channel. The total length (in minutes) of all commercials from 8 pm to 9 pm for some randomly selected broadcast and cable channels on a weekday evening were:
 	</p>
-	<p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row>
-					<cell>10</cell>
-					<cell>12.75</cell>
-					<cell>7</cell>
-					<cell>9</cell>
-					<cell>9.75</cell>
-					<cell>6.5</cell>
-					<cell>12.5</cell>
-					<cell>12.5</cell>
-					<cell>8.75</cell>
-					<cell>17</cell>
-					<cell>10.5</cell>
-					<cell>2</cell>
-				</row>
-			</tabular>
-	</p>
+	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+		<row>
+			<cell>10</cell>
+			<cell>12.75</cell>
+			<cell>7</cell>
+			<cell>9</cell>
+			<cell>9.75</cell>
+			<cell>6.5</cell>
+			<cell>12.5</cell>
+			<cell>12.5</cell>
+			<cell>8.75</cell>
+			<cell>17</cell>
+			<cell>10.5</cell>
+			<cell>2</cell>
+		</row>
+	</tabular>
 	<p>
 		<ol marker="a.">
 			<li>
@@ -708,20 +694,18 @@
 	<p>
 		You recorded the time in seconds it took for 8 participants to solve a puzzle. The times were:
 	</p>
-	<p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row>
-					<cell>15.2</cell>
-					<cell>18.8</cell>
-					<cell>19.3</cell>
-					<cell>19.7</cell>
-					<cell>20.2</cell>
-					<cell>21.8</cell>
-					<cell>22.1</cell>
-					<cell>29.4</cell>
-				</row>
-			</tabular>
-	</p>
+	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+		<row>
+			<cell>15.2</cell>
+			<cell>18.8</cell>
+			<cell>19.3</cell>
+			<cell>19.7</cell>
+			<cell>20.2</cell>
+			<cell>21.8</cell>
+			<cell>22.1</cell>
+			<cell>29.4</cell>
+		</row>
+	</tabular>
 	<p>
 	<ol marker="a.">
 			<li>
@@ -803,21 +787,19 @@
 	<p>
 		You weigh 9 Oreo cookies, and you find the weights (in grams) are:
 	</p>
-	<p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row>
-					<cell>3.49</cell>
-					<cell>3.51</cell>
-					<cell>3.51</cell>
-					<cell>3.51</cell>
-					<cell>3.52</cell>
-					<cell>3.54</cell>
-					<cell>3.55</cell>
-					<cell>3.58</cell>
-					<cell>3.61</cell>
-				</row>
-			</tabular>
-	</p>
+	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+		<row>
+			<cell>3.49</cell>
+			<cell>3.51</cell>
+			<cell>3.51</cell>
+			<cell>3.51</cell>
+			<cell>3.52</cell>
+			<cell>3.54</cell>
+			<cell>3.55</cell>
+			<cell>3.58</cell>
+			<cell>3.61</cell>
+		</row>
+	</tabular>
 	<p>
 		<ol marker="a.">
 			<li>
@@ -1145,107 +1127,103 @@
 	<p>
 		Researcher 1 Patients (in months):
 	</p>
+	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+		<row>
+			<cell>3</cell>
+			<cell>4</cell>
+			<cell>11</cell>
+			<cell>15</cell>
+			<cell>16</cell>
+			<cell>17</cell>
+			<cell>22</cell>
+			<cell>44</cell>
+			<cell>37</cell>
+			<cell>16</cell>
+			<cell>14</cell>
+			<cell>24</cell>
+			<cell>25</cell>
+			<cell>15</cell>
+			<cell>26</cell>
+			<cell>27</cell>
+			<cell>33</cell>
+			<cell>29</cell>
+			<cell>35</cell>
+			<cell>44</cell>
+		</row>
+		<row>
+			<cell>13</cell>
+			<cell>21</cell>
+			<cell>22</cell>
+			<cell>10</cell>
+			<cell>12</cell>
+			<cell>8</cell>
+			<cell>40</cell>
+			<cell>32</cell>
+			<cell>26</cell>
+			<cell>27</cell>
+			<cell>31</cell>
+			<cell>34</cell>
+			<cell>29</cell>
+			<cell>17</cell>
+			<cell>8</cell>
+			<cell>24</cell>
+			<cell>18</cell>
+			<cell>47</cell>
+			<cell>33</cell>
+			<cell>34</cell>
+		</row>
+	</tabular>
 	<p>
-				<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-					<row>
-						<cell>3</cell>
-						<cell>4</cell>
-						<cell>11</cell>
-						<cell>15</cell>
-						<cell>16</cell>
-						<cell>17</cell>
-						<cell>22</cell>
-						<cell>44</cell>
-						<cell>37</cell>
-						<cell>16</cell>
-						<cell>14</cell>
-						<cell>24</cell>
-						<cell>25</cell>
-						<cell>15</cell>
-						<cell>26</cell>
-						<cell>27</cell>
-						<cell>33</cell>
-						<cell>29</cell>
-						<cell>35</cell>
-						<cell>44</cell>
-					</row>
-					<row>
-						<cell>13</cell>
-						<cell>21</cell>
-						<cell>22</cell>
-						<cell>10</cell>
-						<cell>12</cell>
-						<cell>8</cell>
-						<cell>40</cell>
-						<cell>32</cell>
-						<cell>26</cell>
-						<cell>27</cell>
-						<cell>31</cell>
-						<cell>34</cell>
-						<cell>29</cell>
-						<cell>17</cell>
-						<cell>8</cell>
-						<cell>24</cell>
-						<cell>18</cell>
-						<cell>47</cell>
-						<cell>33</cell>
-						<cell>34</cell>
-					</row>
-				</tabular>
-				</p>
-				<p>
-					Researcher 2 Patients (in months):
-				</p>
-				<p>
-				<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-					<row>
-						<cell>3</cell>
-						<cell>14</cell>
-						<cell>11</cell>
-						<cell>5</cell>
-						<cell>16</cell>
-						<cell>17</cell>
-						<cell>28</cell>
-						<cell>41</cell>
-						<cell>31</cell>
-						<cell>18</cell>
+		Researcher 2 Patients (in months):
+	</p>
+	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+		<row>
+			<cell>3</cell>
+			<cell>14</cell>
+			<cell>11</cell>
+			<cell>5</cell>
+			<cell>16</cell>
+			<cell>17</cell>
+			<cell>28</cell>
+			<cell>41</cell>
+			<cell>31</cell>
+			<cell>18</cell>
 
-						<cell>14</cell>
-						<cell>14</cell>
-						<cell>26</cell>
-						<cell>25</cell>
-						<cell>21</cell>
-						<cell>22</cell>
-						<cell>31</cell>
-						<cell>2</cell>
-						<cell>35</cell>
-						<cell>44</cell>
-					</row>
-					<row>
-						<cell>23</cell>
-						<cell>21</cell>
-						<cell>21</cell>
-						<cell>16</cell>
-						<cell>12</cell>
-						<cell>18</cell>
-						<cell>41</cell>
-						<cell>22</cell>
-						<cell>16</cell>
-						<cell>25</cell>
+			<cell>14</cell>
+			<cell>14</cell>
+			<cell>26</cell>
+			<cell>25</cell>
+			<cell>21</cell>
+			<cell>22</cell>
+			<cell>31</cell>
+			<cell>2</cell>
+			<cell>35</cell>
+			<cell>44</cell>
+		</row>
+		<row>
+			<cell>23</cell>
+			<cell>21</cell>
+			<cell>21</cell>
+			<cell>16</cell>
+			<cell>12</cell>
+			<cell>18</cell>
+			<cell>41</cell>
+			<cell>22</cell>
+			<cell>16</cell>
+			<cell>25</cell>
 
-						<cell>33</cell>
-						<cell>34</cell>
-						<cell>29</cell>
-						<cell>13</cell>
-						<cell>18</cell>
-						<cell>24</cell>
-						<cell>23</cell>
-						<cell>42</cell>
-						<cell>33</cell>
-						<cell>29</cell>
-					</row>
-				</tabular>
-			</p>
+			<cell>33</cell>
+			<cell>34</cell>
+			<cell>29</cell>
+			<cell>13</cell>
+			<cell>18</cell>
+			<cell>24</cell>
+			<cell>23</cell>
+			<cell>42</cell>
+			<cell>33</cell>
+			<cell>29</cell>
+		</row>
+	</tabular>
 	<p>
 		<ol marker="a.">
 		<li>
@@ -1326,41 +1304,37 @@
 	<p>
 		Income in dollars for people who identify as female:
 	</p>
-	<p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row>
-					<cell>1,600</cell>
-					<cell>1,200</cell>
-					<cell>20,000</cell>
-					<cell>25,000</cell>
-					<cell>670</cell>
-					<cell>29,000</cell>
-					<cell>44,000</cell>
-					<cell>30,000</cell>
-					<cell>5,800</cell>
-					<cell>50,000</cell>
-				</row>
-			</tabular>
-	</p>
+	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+		<row>
+			<cell>1,600</cell>
+			<cell>1,200</cell>
+			<cell>20,000</cell>
+			<cell>25,000</cell>
+			<cell>670</cell>
+			<cell>29,000</cell>
+			<cell>44,000</cell>
+			<cell>30,000</cell>
+			<cell>5,800</cell>
+			<cell>50,000</cell>
+		</row>
+	</tabular>
 	<p>
 		Income in dollars for people who identify as male:
 	</p>
-	<p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row>
-					<cell>53,000</cell>
-					<cell>70,000</cell>
-					<cell>12,800</cell>
-					<cell>30,000</cell>
-					<cell>4,500</cell>
-					<cell>42,000</cell>
-					<cell>48,000</cell>
-					<cell>60,000</cell>
-					<cell>108,000</cell>
-					<cell>11,000</cell>
-				</row>
-			</tabular>
-	</p>
+	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+		<row>
+			<cell>53,000</cell>
+			<cell>70,000</cell>
+			<cell>12,800</cell>
+			<cell>30,000</cell>
+			<cell>4,500</cell>
+			<cell>42,000</cell>
+			<cell>48,000</cell>
+			<cell>60,000</cell>
+			<cell>108,000</cell>
+			<cell>11,000</cell>
+		</row>
+	</tabular>
 	<p>
 		<ol marker="a.">
 			<li>

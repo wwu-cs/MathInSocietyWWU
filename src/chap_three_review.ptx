@@ -705,27 +705,25 @@
 	<p>
 		A group of college students were asked what the price of gas would need to be before they would start using public transportation to get to school instead of driving. Their responses in dollars per gallon ($/gal) are listed below:
 	</p>
-	<p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row>
-					<cell>5.25</cell>
-					<cell>5.00</cell>
-					<cell>4.25</cell>
-					<cell>3.75</cell>
-					<cell>5.00</cell>
-					<cell>4.50</cell>
-					<cell>3.95</cell>
-					<cell>3.75</cell>
-					<cell>5.75</cell>
-					<cell>4.75</cell>
-					<cell>3.25</cell>
-					<cell>3.75</cell>
-					<cell>4.75</cell>
-					<cell>5.00</cell>
-					<cell>8.95</cell>
-				</row>
-			</tabular>
-	</p>
+	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+		<row>
+			<cell>5.25</cell>
+			<cell>5.00</cell>
+			<cell>4.25</cell>
+			<cell>3.75</cell>
+			<cell>5.00</cell>
+			<cell>4.50</cell>
+			<cell>3.95</cell>
+			<cell>3.75</cell>
+			<cell>5.75</cell>
+			<cell>4.75</cell>
+			<cell>3.25</cell>
+			<cell>3.75</cell>
+			<cell>4.75</cell>
+			<cell>5.00</cell>
+			<cell>8.95</cell>
+		</row>
+	</tabular>
 	<p>
 		<ol marker="a.">
 			<li>
@@ -824,30 +822,28 @@
 	<p>
 		The following is a sample of scores from a recent Math 105 exam:
 	</p>
-	<p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row>
-					<cell>32</cell>
-					<cell>71</cell>
-					<cell>72</cell>
-					<cell>73</cell>
-					<cell>73</cell>
-					<cell>73</cell>
-					<cell>76</cell>
-					<cell>77</cell>
-					<cell>78</cell>
-					<cell>78</cell>
-					<cell>79</cell>
-					<cell>86</cell>
-					<cell>88</cell>
-					<cell>88</cell>
-					<cell>88</cell>
-					<cell>94</cell>
-					<cell>94</cell>
-					<cell>99</cell>
-				</row>
-			</tabular>
-	</p>
+	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+		<row>
+			<cell>32</cell>
+			<cell>71</cell>
+			<cell>72</cell>
+			<cell>73</cell>
+			<cell>73</cell>
+			<cell>73</cell>
+			<cell>76</cell>
+			<cell>77</cell>
+			<cell>78</cell>
+			<cell>78</cell>
+			<cell>79</cell>
+			<cell>86</cell>
+			<cell>88</cell>
+			<cell>88</cell>
+			<cell>88</cell>
+			<cell>94</cell>
+			<cell>94</cell>
+			<cell>99</cell>
+		</row>
+	</tabular>
 	<p>
 		<ol marker="a.">
 			<li>
@@ -1197,25 +1193,23 @@
 	<p>
 		This data set is a sample of the average number of minutes per week that a driver is delayed by road congestion in 13 cities:
 	</p>
-	<p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row>
-					<cell>66</cell>
-					<cell>55</cell>
-					<cell>53</cell>
-					<cell>50</cell>
-					<cell>36</cell>
-					<cell>45</cell>
-					<cell>34</cell>
-					<cell>43</cell>
-					<cell>52</cell>
-					<cell>40</cell>
-					<cell>76</cell>
-					<cell>45</cell>
-					<cell>63</cell>
-				</row>
-			</tabular>
-	</p>
+	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+		<row>
+			<cell>66</cell>
+			<cell>55</cell>
+			<cell>53</cell>
+			<cell>50</cell>
+			<cell>36</cell>
+			<cell>45</cell>
+			<cell>34</cell>
+			<cell>43</cell>
+			<cell>52</cell>
+			<cell>40</cell>
+			<cell>76</cell>
+			<cell>45</cell>
+			<cell>63</cell>
+		</row>
+	</tabular>
 	<p>
 		<ol marker="a.">
 			<li>

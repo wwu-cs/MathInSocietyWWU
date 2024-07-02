@@ -49,60 +49,54 @@
 	<p>
 		Section A:
 	</p>
-	<p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row>
-					<cell>5</cell>
-					<cell>5</cell>
-					<cell>5</cell>
-					<cell>5</cell>
-					<cell>5</cell>
-					<cell>5</cell>
-					<cell>5</cell>
-					<cell>5</cell>
-					<cell>5</cell>
-					<cell>5</cell>
-				</row>
-			</tabular>
-	</p>
+	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+		<row>
+			<cell>5</cell>
+			<cell>5</cell>
+			<cell>5</cell>
+			<cell>5</cell>
+			<cell>5</cell>
+			<cell>5</cell>
+			<cell>5</cell>
+			<cell>5</cell>
+			<cell>5</cell>
+			<cell>5</cell>
+		</row>
+	</tabular>
 	<p>
 		Section B:
 	</p>
-	<p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row>
-					<cell>0</cell>
-					<cell>0</cell>
-					<cell>0</cell>
-					<cell>0</cell>
-					<cell>0</cell>
-					<cell>10</cell>
-					<cell>10</cell>
-					<cell>10</cell>
-					<cell>10</cell>
-					<cell>10</cell>
-				</row>
-			</tabular>
-	</p>
+	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+		<row>
+			<cell>0</cell>
+			<cell>0</cell>
+			<cell>0</cell>
+			<cell>0</cell>
+			<cell>0</cell>
+			<cell>10</cell>
+			<cell>10</cell>
+			<cell>10</cell>
+			<cell>10</cell>
+			<cell>10</cell>
+		</row>
+	</tabular>
 	<p>
 		Section C:
 	</p>
-	<p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row>
-					<cell>4</cell>
-					<cell>4</cell>
-					<cell>4</cell>
-					<cell>5</cell>
-					<cell>5</cell>
-					<cell>5</cell>
-					<cell>5</cell>
-					<cell>6</cell>
-					<cell>6</cell>
-					<cell>6</cell>
-				</row>
-			</tabular>
-	</p>
+	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+		<row>
+			<cell>4</cell>
+			<cell>4</cell>
+			<cell>4</cell>
+			<cell>5</cell>
+			<cell>5</cell>
+			<cell>5</cell>
+			<cell>5</cell>
+			<cell>6</cell>
+			<cell>6</cell>
+			<cell>6</cell>
+		</row>
+	</tabular>
 	<p>
 		All three data sets have a mean of 5 points and median of 5 points, yet the sets of scores are clearly quite different. In Section A, everyone had the same score; in Section B half the class got no points and the other half got a perfect score. Section C was not as consistent as section A, but not as widely varied as section B.
 	</p>
@@ -135,22 +129,20 @@
 	<p>
 		Section D:
 	</p>
-	<p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row>
-					<cell>0</cell>
-					<cell>5</cell>
-					<cell>5</cell>
-					<cell>5</cell>
-					<cell>5</cell>
-					<cell>5</cell>
-					<cell>5</cell>
-					<cell>5</cell>
-					<cell>5</cell>
-					<cell>10</cell>
-				</row>
-			</tabular>
-	</p>
+	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+		<row>
+			<cell>0</cell>
+			<cell>5</cell>
+			<cell>5</cell>
+			<cell>5</cell>
+			<cell>5</cell>
+			<cell>5</cell>
+			<cell>5</cell>
+			<cell>5</cell>
+			<cell>5</cell>
+			<cell>10</cell>
+		</row>
+	</tabular>
 	<p>
 		The mean quiz score, like Sections A, B and C, is 5 points.
 	</p>
@@ -432,52 +424,50 @@
 		<p>
 			The total cost of textbooks, in dollars, for the term was collected from 36 students. Use a spreadsheet to find the mean, median, and standard deviation of the sample.
 		</p>
-		<p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row>
-					<cell>140</cell>
-					<cell>160</cell>
-					<cell>160</cell>
-					<cell>165</cell>
-					<cell>180</cell>
-					<cell>220</cell>
-					<cell>235</cell>
-					<cell>240</cell>
-					<cell>250</cell>
-					<cell>260</cell>
-					<cell>280</cell>
-					<cell>285</cell>
-				</row>
-				<row>
-					<cell>285</cell>
-					<cell>285</cell>
-					<cell>290</cell>
-					<cell>300</cell>
-					<cell>300</cell>
-					<cell>305</cell>
-					<cell>310</cell>
-					<cell>310</cell>
-					<cell>315</cell>
-					<cell>315</cell>
-					<cell>320</cell>
-					<cell>320</cell>
-				</row>
-				<row>
-					<cell>330</cell>
-					<cell>340</cell>
-					<cell>345</cell>
-					<cell>350</cell>
-					<cell>355</cell>
-					<cell>360</cell>
-					<cell>360</cell>
-					<cell>380</cell>
-					<cell>395</cell>
-					<cell>420</cell>
-					<cell>460</cell>
-					<cell>460</cell>
-				</row>
-			</tabular>
-	</p>
+		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+			<row>
+				<cell>140</cell>
+				<cell>160</cell>
+				<cell>160</cell>
+				<cell>165</cell>
+				<cell>180</cell>
+				<cell>220</cell>
+				<cell>235</cell>
+				<cell>240</cell>
+				<cell>250</cell>
+				<cell>260</cell>
+				<cell>280</cell>
+				<cell>285</cell>
+			</row>
+			<row>
+				<cell>285</cell>
+				<cell>285</cell>
+				<cell>290</cell>
+				<cell>300</cell>
+				<cell>300</cell>
+				<cell>305</cell>
+				<cell>310</cell>
+				<cell>310</cell>
+				<cell>315</cell>
+				<cell>315</cell>
+				<cell>320</cell>
+				<cell>320</cell>
+			</row>
+			<row>
+				<cell>330</cell>
+				<cell>340</cell>
+				<cell>345</cell>
+				<cell>350</cell>
+				<cell>355</cell>
+				<cell>360</cell>
+				<cell>360</cell>
+				<cell>380</cell>
+				<cell>395</cell>
+				<cell>420</cell>
+				<cell>460</cell>
+				<cell>460</cell>
+			</row>
+		</tabular>
 		<p>
 			Since we are finding more than one statistic for this data set, it is much more efficient to enter the data values into a row or column and reference the range in each of the formulas. We enter the data into column A.
 		</p>
@@ -596,10 +586,9 @@
 
 	<example>
 		<statement>
-		<p>
-			For an even number of data values: Suppose we have measured the height, in inches, of 12 people who identify as female. The data values are listed below. Find the interquartile range.
-		</p>
-		<p>
+			<p>
+				For an even number of data values: Suppose we have measured the height, in inches, of 12 people who identify as female. The data values are listed below. Find the interquartile range.
+			</p>
 			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
 				<row>
 					<cell>59</cell>
@@ -616,13 +605,11 @@
 					<cell>61</cell>
 				</row>
 			</tabular>
-		</p>
 		</statement>
 		<solution>
-		<p>
-			Just like when finding the median, we must first order the data.
-		</p>
-		<p>
+			<p>
+				Just like when finding the median, we must first order the data.
+			</p>
 			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
 				<row>
 					<cell>59</cell>
@@ -639,28 +626,27 @@
 					<cell>72</cell>
 				</row>
 			</tabular>
-		</p>
-		<p>
-			Then we divide the data into two halves. In the case of an even sample size, we split the distribution down the middle. The first 6 data values are the lower half and the next 6 data values are the upper half. Then we find the median of each. The median of the lower half is Q1 and the median of the upper half is Q3.
-		</p>
-		<!-- Todo: can't figure out why the text isn't centered like it is in section 3.3-->
-		<p>
-			<md>
-			<mrow>\overbrace{59,60,\underbrace{61,63,}^{Q1=\frac{61+63}{2}=62} 64,64,}^{\text{Lower Half}} \overbrace{66,66,\underbrace{67, 69,}^{Q3 =\frac{67+69}{2}=68} 70,72}^{\text{Upper Half}}</mrow>
-		</md>
-		</p>
-
-		<p>
-			In this data <m>Q_{1}=62</m> inches, and <m>Q_{3}=68</m> inches. Then we subtract to find the IQR.
-		</p>
-		<p>
-			<md>
-			<mrow>IQR=Q_{3}-Q_{1}=68-62=6\text{ inches}</mrow>
+			<p>
+				Then we divide the data into two halves. In the case of an even sample size, we split the distribution down the middle. The first 6 data values are the lower half and the next 6 data values are the upper half. Then we find the median of each. The median of the lower half is Q1 and the median of the upper half is Q3.
+			</p>
+			<!-- Todo: can't figure out why the text isn't centered like it is in section 3.3-->
+			<p>
+				<md>
+				<mrow>\overbrace{59,60,\underbrace{61,63,}^{Q1=\frac{61+63}{2}=62} 64,64,}^{\text{Lower Half}} \overbrace{66,66,\underbrace{67, 69,}^{Q3 =\frac{67+69}{2}=68} 70,72}^{\text{Upper Half}}</mrow>
 			</md>
-		</p>
-		<p>
-			This tells us the that the middle 50% of the women's heights lie within an interval of 6 inches.
-		</p>
+			</p>
+
+			<p>
+				In this data <m>Q_{1}=62</m> inches, and <m>Q_{3}=68</m> inches. Then we subtract to find the IQR.
+			</p>
+			<p>
+				<md>
+				<mrow>IQR=Q_{3}-Q_{1}=68-62=6\text{ inches}</mrow>
+				</md>
+			</p>
+			<p>
+				This tells us the that the middle 50% of the women's heights lie within an interval of 6 inches.
+			</p>
 		</solution>
 	</example>
 
@@ -669,7 +655,6 @@
 			<p>
 				For an odd number of data values: Suppose we added one more height (68 inches) to the data set from the previous example. We will again find the interquartile range of the heights.
 			</p>
-			<p>
 			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
 				<row>
 					<cell>59</cell>
@@ -687,7 +672,6 @@
 					<cell>72</cell>
 				</row>
 			</tabular>
-			</p>
 		</statement>
 		<solution>
 		<p>
@@ -757,52 +741,50 @@
 		<p>
 			Let's continue with the cost of textbook data in dollars from <xref ref="textbook_example_mean_median_sd"></xref>. Use GeoGebra to find the five-number summary for this sample and draw a boxplot by hand.
 		</p>
-		<p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row>
-					<cell>140</cell>
-					<cell>160</cell>
-					<cell>160</cell>
-					<cell>165</cell>
-					<cell>180</cell>
-					<cell>220</cell>
-					<cell>235</cell>
-					<cell>240</cell>
-					<cell>250</cell>
-					<cell>260</cell>
-					<cell>280</cell>
-					<cell>285</cell>
-				</row>
-				<row>
-					<cell>285</cell>
-					<cell>285</cell>
-					<cell>290</cell>
-					<cell>300</cell>
-					<cell>300</cell>
-					<cell>305</cell>
-					<cell>310</cell>
-					<cell>310</cell>
-					<cell>315</cell>
-					<cell>315</cell>
-					<cell>320</cell>
-					<cell>320</cell>
-				</row>
-				<row>
-					<cell>330</cell>
-					<cell>340</cell>
-					<cell>345</cell>
-					<cell>350</cell>
-					<cell>355</cell>
-					<cell>360</cell>
-					<cell>360</cell>
-					<cell>380</cell>
-					<cell>395</cell>
-					<cell>420</cell>
-					<cell>460</cell>
-					<cell>460</cell>
-				</row>
-			</tabular>
-		</p>
+		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+			<row>
+				<cell>140</cell>
+				<cell>160</cell>
+				<cell>160</cell>
+				<cell>165</cell>
+				<cell>180</cell>
+				<cell>220</cell>
+				<cell>235</cell>
+				<cell>240</cell>
+				<cell>250</cell>
+				<cell>260</cell>
+				<cell>280</cell>
+				<cell>285</cell>
+			</row>
+			<row>
+				<cell>285</cell>
+				<cell>285</cell>
+				<cell>290</cell>
+				<cell>300</cell>
+				<cell>300</cell>
+				<cell>305</cell>
+				<cell>310</cell>
+				<cell>310</cell>
+				<cell>315</cell>
+				<cell>315</cell>
+				<cell>320</cell>
+				<cell>320</cell>
+			</row>
+			<row>
+				<cell>330</cell>
+				<cell>340</cell>
+				<cell>345</cell>
+				<cell>350</cell>
+				<cell>355</cell>
+				<cell>360</cell>
+				<cell>360</cell>
+				<cell>380</cell>
+				<cell>395</cell>
+				<cell>420</cell>
+				<cell>460</cell>
+				<cell>460</cell>
+			</row>
+		</tabular>
 		</statement>
 		<solution>
 		<p>
@@ -857,36 +839,34 @@
 		</p>
 		</statement>
 		<solution>
-		<p>
-				<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-					<row>
-						<cell>59</cell>
-						<cell>60</cell>
-						<cell>69</cell>
-						<cell>64</cell>
-						<cell>70</cell>
-						<cell>72</cell>
-						<cell>66</cell>
-						<cell>64</cell>
-						<cell>67</cell>
-						<cell>66</cell>
-						<cell>63</cell>
-						<cell>61</cell>
-					</row>
-				</tabular>
-		</p>
-		<p>
-			Following the steps above we have the following GeoGebra output. The last five entries in the statistics table are the five-number summary and we have the boxplot on the right.
-		</p>
-		<sidebyside width="50%">
-			<image source="images/statistics/3_4/five_num3.png">
-			<shortdescription>A screenshot of GeoGebra showint the data, summary statistics and the boxplot.</shortdescription>
-			</image>
-		</sidebyside>
+			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+				<row>
+					<cell>59</cell>
+					<cell>60</cell>
+					<cell>69</cell>
+					<cell>64</cell>
+					<cell>70</cell>
+					<cell>72</cell>
+					<cell>66</cell>
+					<cell>64</cell>
+					<cell>67</cell>
+					<cell>66</cell>
+					<cell>63</cell>
+					<cell>61</cell>
+				</row>
+			</tabular>
+			<p>
+				Following the steps above we have the following GeoGebra output. The last five entries in the statistics table are the five-number summary and we have the boxplot on the right.
+			</p>
+			<sidebyside width="50%">
+				<image source="images/statistics/3_4/five_num3.png">
+				<shortdescription>A screenshot of GeoGebra showint the data, summary statistics and the boxplot.</shortdescription>
+				</image>
+			</sidebyside>
 
-		<p>
-			Here is the five-number summary:
-		</p>
+			<p>
+				Here is the five-number summary:
+			</p>
 			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
 				<row header="yes">
 					<cell>Min</cell>
@@ -903,21 +883,21 @@
 					<cell>72in</cell>
 				</row>
 			</tabular>
-		<p>
-			For this data, the two sides of the box and the two whiskers are approximately the same width. This suggests that the distribution is symmetric. We can verify this by noticing that the mean is approximately equal to the median.
-		</p>
-		<p>
-			The boxplot can tell us the shape of the distribution, but we cannot tell how many peaks the data has. For that we need a histogram. We can see the histogram and boxplot together by selecting the icon that looks like two rectangles stacked, or an = sign.
-		</p>
-		<sidebyside width="50%">
-			<image source="images/statistics/3_4/five_num4.png">
-			<shortdescription>A screenshot of GeoGebra showing the histogram and boxplot stacked.</shortdescription>
-			</image>
-		</sidebyside>
-	
-		<p>
-			Now we have a full picture of the data.
-		</p>
+			<p>
+				For this data, the two sides of the box and the two whiskers are approximately the same width. This suggests that the distribution is symmetric. We can verify this by noticing that the mean is approximately equal to the median.
+			</p>
+			<p>
+				The boxplot can tell us the shape of the distribution, but we cannot tell how many peaks the data has. For that we need a histogram. We can see the histogram and boxplot together by selecting the icon that looks like two rectangles stacked, or an = sign.
+			</p>
+			<sidebyside width="50%">
+				<image source="images/statistics/3_4/five_num4.png">
+				<shortdescription>A screenshot of GeoGebra showing the histogram and boxplot stacked.</shortdescription>
+				</image>
+			</sidebyside>
+		
+			<p>
+				Now we have a full picture of the data.
+			</p>
 		</solution>
 	</example>
 
@@ -1128,27 +1108,25 @@
 	<p>
 		A group of diners were asked how much they would pay for a breakfast in dollars. Their responses were:
 	</p>
-	<p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row>
-					<cell>7.50</cell>
-					<cell>25</cell>
-					<cell>10</cell>
-					<cell>10</cell>
-					<cell>7.50</cell>
-					<cell>8.25</cell>
-					<cell>9</cell>
-					<cell>5</cell>
-					<cell>15</cell>
-					<cell>8</cell>
-					<cell>7.25</cell>
-					<cell>7.50</cell>
-					<cell>8</cell>
-					<cell>7</cell>
-					<cell>12</cell>
-				</row>
-			</tabular>
-	</p>
+	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+		<row>
+			<cell>7.50</cell>
+			<cell>25</cell>
+			<cell>10</cell>
+			<cell>10</cell>
+			<cell>7.50</cell>
+			<cell>8.25</cell>
+			<cell>9</cell>
+			<cell>5</cell>
+			<cell>15</cell>
+			<cell>8</cell>
+			<cell>7.25</cell>
+			<cell>7.50</cell>
+			<cell>8</cell>
+			<cell>7</cell>
+			<cell>12</cell>
+		</row>
+	</tabular>
 	<p>
 		<ol marker="a.">
 			<li>
@@ -1397,24 +1375,22 @@
 	<p>
 		The amount of commercials in an hour of television varies by channel. The total length (in minutes) of all commercials from 8 pm to 9 pm for some randomly selected broadcast and cable channels on a weekday evening were:
 	</p>
-	<p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row>
-					<cell>10</cell>
-					<cell>12.75</cell>
-					<cell>7</cell>
-					<cell>9</cell>
-					<cell>9.75</cell>
-					<cell>6.5</cell>
-					<cell>12.5</cell>
-					<cell>12.5</cell>
-					<cell>8.75</cell>
-					<cell>17</cell>
-					<cell>10.5</cell>
-					<cell>2</cell>
-				</row>
-			</tabular>
-	</p>
+	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+		<row>
+			<cell>10</cell>
+			<cell>12.75</cell>
+			<cell>7</cell>
+			<cell>9</cell>
+			<cell>9.75</cell>
+			<cell>6.5</cell>
+			<cell>12.5</cell>
+			<cell>12.5</cell>
+			<cell>8.75</cell>
+			<cell>17</cell>
+			<cell>10.5</cell>
+			<cell>2</cell>
+		</row>
+	</tabular>
 	<p>
 		<ol marker="a.">
 			<li>
@@ -1522,20 +1498,18 @@
 	<p>
 		You recorded the time in seconds it took for 8 participants to solve a puzzle. The times were:
 	</p>
-	<p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row>
-					<cell>15.2</cell>
-					<cell>18.8</cell>
-					<cell>19.3</cell>
-					<cell>19.7</cell>
-					<cell>20.2</cell>
-					<cell>21.8</cell>
-					<cell>22.1</cell>
-					<cell>29.4</cell>
-				</row>
-			</tabular>
-	</p>
+	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+		<row>
+			<cell>15.2</cell>
+			<cell>18.8</cell>
+			<cell>19.3</cell>
+			<cell>19.7</cell>
+			<cell>20.2</cell>
+			<cell>21.8</cell>
+			<cell>22.1</cell>
+			<cell>29.4</cell>
+		</row>
+	</tabular>
 	<p>
 		<ol marker="a.">
 			<li>
@@ -1643,21 +1617,19 @@
 	<p>
 		You weigh 9 Oreo cookies, and you find the weights (in grams) are:
 	</p>
-	<p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row>
-					<cell>3.49</cell>
-					<cell>3.51</cell>
-					<cell>3.51</cell>
-					<cell>3.51</cell>
-					<cell>3.52</cell>
-					<cell>3.54</cell>
-					<cell>3.55</cell>
-					<cell>3.58</cell>
-					<cell>3.61</cell>
-				</row>
-			</tabular>
-	</p>
+	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+		<row>
+			<cell>3.49</cell>
+			<cell>3.51</cell>
+			<cell>3.51</cell>
+			<cell>3.51</cell>
+			<cell>3.52</cell>
+			<cell>3.54</cell>
+			<cell>3.55</cell>
+			<cell>3.58</cell>
+			<cell>3.61</cell>
+		</row>
+	</tabular>
 	<p>
 		<ol marker="a.">
 			<li>
@@ -2101,107 +2073,103 @@
 	<p>
 		Researcher 1 Patients (in months):
 	</p>
-	<p>
-				<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-					<row>
-						<cell>3</cell>
-						<cell>4</cell>
-						<cell>11</cell>
-						<cell>15</cell>
-						<cell>16</cell>
-						<cell>17</cell>
-						<cell>22</cell>
-						<cell>44</cell>
-						<cell>37</cell>
-						<cell>16</cell>
-						<cell>14</cell>
-						<cell>24</cell>
-						<cell>25</cell>
-						<cell>15</cell>
-						<cell>26</cell>
-						<cell>27</cell>
-						<cell>33</cell>
-						<cell>29</cell>
-						<cell>35</cell>
-						<cell>44</cell>
-					</row>
-					<row>
-						<cell>13</cell>
-						<cell>21</cell>
-						<cell>22</cell>
-						<cell>10</cell>
-						<cell>12</cell>
-						<cell>8</cell>
-						<cell>40</cell>
-						<cell>32</cell>
-						<cell>26</cell>
-						<cell>27</cell>
-						<cell>31</cell>
-						<cell>34</cell>
-						<cell>29</cell>
-						<cell>17</cell>
-						<cell>8</cell>
-						<cell>24</cell>
-						<cell>18</cell>
-						<cell>47</cell>
-						<cell>33</cell>
-						<cell>34</cell>
-					</row>
-				</tabular>
-				</p>
-				<p>
-					Researcher 2 Patients (in months):
-				</p>
-				<p>
-				<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-					<row>
-						<cell>3</cell>
-						<cell>14</cell>
-						<cell>11</cell>
-						<cell>5</cell>
-						<cell>16</cell>
-						<cell>17</cell>
-						<cell>28</cell>
-						<cell>41</cell>
-						<cell>31</cell>
-						<cell>18</cell>
+		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+			<row>
+				<cell>3</cell>
+				<cell>4</cell>
+				<cell>11</cell>
+				<cell>15</cell>
+				<cell>16</cell>
+				<cell>17</cell>
+				<cell>22</cell>
+				<cell>44</cell>
+				<cell>37</cell>
+				<cell>16</cell>
+				<cell>14</cell>
+				<cell>24</cell>
+				<cell>25</cell>
+				<cell>15</cell>
+				<cell>26</cell>
+				<cell>27</cell>
+				<cell>33</cell>
+				<cell>29</cell>
+				<cell>35</cell>
+				<cell>44</cell>
+			</row>
+			<row>
+				<cell>13</cell>
+				<cell>21</cell>
+				<cell>22</cell>
+				<cell>10</cell>
+				<cell>12</cell>
+				<cell>8</cell>
+				<cell>40</cell>
+				<cell>32</cell>
+				<cell>26</cell>
+				<cell>27</cell>
+				<cell>31</cell>
+				<cell>34</cell>
+				<cell>29</cell>
+				<cell>17</cell>
+				<cell>8</cell>
+				<cell>24</cell>
+				<cell>18</cell>
+				<cell>47</cell>
+				<cell>33</cell>
+				<cell>34</cell>
+			</row>
+		</tabular>
+		<p>
+			Researcher 2 Patients (in months):
+		</p>
+		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+			<row>
+				<cell>3</cell>
+				<cell>14</cell>
+				<cell>11</cell>
+				<cell>5</cell>
+				<cell>16</cell>
+				<cell>17</cell>
+				<cell>28</cell>
+				<cell>41</cell>
+				<cell>31</cell>
+				<cell>18</cell>
 
-						<cell>14</cell>
-						<cell>14</cell>
-						<cell>26</cell>
-						<cell>25</cell>
-						<cell>21</cell>
-						<cell>22</cell>
-						<cell>31</cell>
-						<cell>2</cell>
-						<cell>35</cell>
-						<cell>44</cell>
-					</row>
-					<row>
-						<cell>23</cell>
-						<cell>21</cell>
-						<cell>21</cell>
-						<cell>16</cell>
-						<cell>12</cell>
-						<cell>18</cell>
-						<cell>41</cell>
-						<cell>22</cell>
-						<cell>16</cell>
-						<cell>25</cell>
+				<cell>14</cell>
+				<cell>14</cell>
+				<cell>26</cell>
+				<cell>25</cell>
+				<cell>21</cell>
+				<cell>22</cell>
+				<cell>31</cell>
+				<cell>2</cell>
+				<cell>35</cell>
+				<cell>44</cell>
+			</row>
+			<row>
+				<cell>23</cell>
+				<cell>21</cell>
+				<cell>21</cell>
+				<cell>16</cell>
+				<cell>12</cell>
+				<cell>18</cell>
+				<cell>41</cell>
+				<cell>22</cell>
+				<cell>16</cell>
+				<cell>25</cell>
 
-						<cell>33</cell>
-						<cell>34</cell>
-						<cell>29</cell>
-						<cell>13</cell>
-						<cell>18</cell>
-						<cell>24</cell>
-						<cell>23</cell>
-						<cell>42</cell>
-						<cell>33</cell>
-						<cell>29</cell>
-					</row>
-				</tabular>
-			</p>
+				<cell>33</cell>
+				<cell>34</cell>
+				<cell>29</cell>
+				<cell>13</cell>
+				<cell>18</cell>
+				<cell>24</cell>
+				<cell>23</cell>
+				<cell>42</cell>
+				<cell>33</cell>
+				<cell>29</cell>
+			</row>
+		</tabular>
 		<p>
 		<ol marker="a.">
 			<li>
@@ -2358,41 +2326,37 @@
 	<p>
 		Income in dollars for people who identify as female:
 	</p>
-	<p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row>
-					<cell>1,600</cell>
-					<cell>1,200</cell>
-					<cell>20,000</cell>
-					<cell>25,000</cell>
-					<cell>670</cell>
-					<cell>29,000</cell>
-					<cell>44,000</cell>
-					<cell>30,000</cell>
-					<cell>5,800</cell>
-					<cell>50,000</cell>
-				</row>
-			</tabular>
-	</p>
+	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+		<row>
+			<cell>1,600</cell>
+			<cell>1,200</cell>
+			<cell>20,000</cell>
+			<cell>25,000</cell>
+			<cell>670</cell>
+			<cell>29,000</cell>
+			<cell>44,000</cell>
+			<cell>30,000</cell>
+			<cell>5,800</cell>
+			<cell>50,000</cell>
+		</row>
+	</tabular>
 	<p>
 		Income in dollars for people who identify as male:
 	</p>
-	<p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row>
-					<cell>53,000</cell>
-					<cell>70,000</cell>
-					<cell>12,800</cell>
-					<cell>30,000</cell>
-					<cell>4,500</cell>
-					<cell>42,000</cell>
-					<cell>48,000</cell>
-					<cell>60,000</cell>
-					<cell>108,000</cell>
-					<cell>11,000</cell>
-				</row>
-			</tabular>
-	</p>
+	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+		<row>
+			<cell>53,000</cell>
+			<cell>70,000</cell>
+			<cell>12,800</cell>
+			<cell>30,000</cell>
+			<cell>4,500</cell>
+			<cell>42,000</cell>
+			<cell>48,000</cell>
+			<cell>60,000</cell>
+			<cell>108,000</cell>
+			<cell>11,000</cell>
+		</row>
+	</tabular>
 	<p>
 	<ol marker="a.">
 		<li>
@@ -3502,23 +3466,21 @@
 	<p>
 		This data set is a sample of the average number of hours per year that a driver is delayed by road congestion in 11 cities:
 	</p>
-	<p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row>
-					<cell>56</cell>
-					<cell>53</cell>
-					<cell>53</cell>
-					<cell>50</cell>
-					<cell>46</cell>
-					<cell>45</cell>
-					<cell>44</cell>
-					<cell>43</cell>
-					<cell>42</cell>
-					<cell>40</cell>
-					<cell>36</cell>
-				</row>
-			</tabular>
-	</p>
+	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+		<row>
+			<cell>56</cell>
+			<cell>53</cell>
+			<cell>53</cell>
+			<cell>50</cell>
+			<cell>46</cell>
+			<cell>45</cell>
+			<cell>44</cell>
+			<cell>43</cell>
+			<cell>42</cell>
+			<cell>40</cell>
+			<cell>36</cell>
+		</row>
+	</tabular>
 	<p>
 		<ol marker="a.">
 			<li>
@@ -3570,24 +3532,22 @@
 	<p>
 		In a survey of 12 companies recruiting for recent college graduates, they reported the following numbers of job applicants per job posting:
 	</p>
-	<p>
-			<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-				<row>
-					<cell>123</cell>
-					<cell>123</cell>
-					<cell>134</cell>
-					<cell>127</cell>
-					<cell>115</cell>
-					<cell>122</cell>
-					<cell>125</cell>
-					<cell>101</cell>
-					<cell>130</cell>
-					<cell>143</cell>
-					<cell>110</cell>
-					<cell>122</cell>
-				</row>
-			</tabular>
-	</p>
+	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+		<row>
+			<cell>123</cell>
+			<cell>123</cell>
+			<cell>134</cell>
+			<cell>127</cell>
+			<cell>115</cell>
+			<cell>122</cell>
+			<cell>125</cell>
+			<cell>101</cell>
+			<cell>130</cell>
+			<cell>143</cell>
+			<cell>110</cell>
+			<cell>122</cell>
+		</row>
+	</tabular>
 	<p>
 		<ol marker="a.">
 			<li>

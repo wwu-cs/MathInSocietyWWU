@@ -442,44 +442,42 @@
 		<p>
 			A teacher records scores on a 20-point quiz for the 30 students in their class. The scores in points are:
 		</p>
-		<p>
-				<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-					<row>
-						<cell>19</cell>
-						<cell>20</cell>
-						<cell>18</cell>
-						<cell>18</cell>
-						<cell>17</cell>
-						<cell>18</cell>
-						<cell>19</cell>
-						<cell>17</cell>
-						<cell>20</cell>
-						<cell>18</cell>
-						<cell>20</cell>
-						<cell>16</cell>
-						<cell>20</cell>
-						<cell>15</cell>
-						<cell>17</cell>
-					</row>
-					<row>
-						<cell>12</cell>
-						<cell>18</cell>
-						<cell>19</cell>
-						<cell>18</cell>
-						<cell>19</cell>
-						<cell>17</cell>
-						<cell>20</cell>
-						<cell>18</cell>
-						<cell>16</cell>
-						<cell>15</cell>
-						<cell>18</cell>
-						<cell>20</cell>
-						<cell>5</cell>
-						<cell>0</cell>
-						<cell>0</cell>
-					</row>
-				</tabular>
-		</p>
+		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+			<row>
+				<cell>19</cell>
+				<cell>20</cell>
+				<cell>18</cell>
+				<cell>18</cell>
+				<cell>17</cell>
+				<cell>18</cell>
+				<cell>19</cell>
+				<cell>17</cell>
+				<cell>20</cell>
+				<cell>18</cell>
+				<cell>20</cell>
+				<cell>16</cell>
+				<cell>20</cell>
+				<cell>15</cell>
+				<cell>17</cell>
+			</row>
+			<row>
+				<cell>12</cell>
+				<cell>18</cell>
+				<cell>19</cell>
+				<cell>18</cell>
+				<cell>19</cell>
+				<cell>17</cell>
+				<cell>20</cell>
+				<cell>18</cell>
+				<cell>16</cell>
+				<cell>15</cell>
+				<cell>18</cell>
+				<cell>20</cell>
+				<cell>5</cell>
+				<cell>0</cell>
+				<cell>0</cell>
+			</row>
+		</tabular>
 		<p>
 			Here is a frequency table with the scores grouped and put in order.
 		</p>
@@ -1907,8 +1905,7 @@
 				</p>
 				<p>
 					Researcher 1 Patients (in months):
-					</p>
-					<p>
+				</p>
 				<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
 					<row>
 						<cell>3</cell>
@@ -1955,11 +1952,9 @@
 						<cell>34</cell>
 					</row>
 				</tabular>
-				</p>
 				<p>
 					Researcher 2 Patients (in months):
 				</p>
-				<p>
 				<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
 					<row>
 						<cell>3</cell>
@@ -2008,7 +2003,6 @@
 						<cell>29</cell>
 					</row>
 				</tabular>
-				</p>
 			</li>
 		</ol>
 	</p>
