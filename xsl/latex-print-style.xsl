@@ -22,6 +22,7 @@
 
 <xsl:output method="text"/>
 
+<!-- Todo: add this back in to break urls across a line -->
 <xsl:param name="latex.preamble.early" select="'
     \usepackage{xcolor,euler,xurl}&#xa;
 '"/>

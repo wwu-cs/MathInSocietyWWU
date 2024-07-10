@@ -26,6 +26,16 @@
 		</li>
 		<li>
 			<p>
+				Solve problems that involve a combination of the four basic operations
+			</p>
+		</li>
+		<li>
+			<p>
+				Solve problems that involve percents, rates and/or proportions
+			</p>
+		</li>
+		<li>
+			<p>
 				Solve problems that involve unit conversions
 			</p>
 		</li>
@@ -487,631 +497,242 @@
 </subsection>
 
 <subsection>
+	<title>Solving Problems with Unit Conversions</title>
+
+	<p>
+		Many situations also require unit conversions. You can use your number and operation sense to know whether to multiply or divide or you can line up the units so they cancel out. Here are some unit conversions for reference.
+	</p>
+	<assemblage>
+		<title>Unit Conversions for Length</title>
+		<sidebyside>
+			<paragraphs>
+				<p>
+					1 foot (ft) = 12 inches (in)
+				</p>
+				<p>
+					1 mile (mi) = 5,280 feet (ft)
+				</p>
+				<p>
+					1000 millimeters (mm) = 1 meter (m)
+				</p>
+				<p>
+					1000 meters (m) = 1 kilometer (km)
+				</p>
+			</paragraphs>
+			<paragraphs>
+				<p>
+					1 yard (yd) = 3 feet (ft)
+				</p>
+				<p>
+					2.54 centimeters (cm) = 1 inch (in)
+				</p>
+				<p>
+					100 centimeters (cm) = 1 meter (m)
+				</p>
+			</paragraphs>
+		</sidebyside>
+	</assemblage>
+	<assemblage>
+		<title>Unit Conversions for Weight and Mass</title>
+		<sidebyside>
+			<paragraphs>
+				<p>
+					1 pound (lb) = 16 ounces (oz)
+				</p>
+				<p>
+					1000 millgrams (mg) = 1 gram (g)
+				</p>
+				<p>
+					1 kilogram (kg) = 2.2 pounds (on Earth)
+				</p>
+			</paragraphs>
+			<paragraphs>
+				<p>
+					1 ton = 2000 pounds (lbs)
+				</p>
+				<p>
+					1000 grams (g) = 1 kilogram (kg)
+				</p>
+			</paragraphs>
+		</sidebyside>
+	</assemblage>
+	<assemblage>
+		<title>Unit Conversions for Volume and Capacity</title>
+		<sidebyside>
+			<paragraphs>
+				<p>
+					1 gallon (gal) = 4 quarts (qt)
+				</p>
+				<p>
+					1 quart (qt) = 2 pints (pt)
+				</p>
+				<p>
+					1 pint (pt) = 2 cups (c)
+				</p>
+				<p>
+					1000 milliliters (ml) = 1 liter (L)
+				</p>
+			</paragraphs>
+			<paragraphs>
+				<p>
+					1 cup (c) = 8 fluid ounces (fl oz)
+				</p>
+				<p>
+					1 cup (c) = 16 Tablespoons (T)
+				</p>
+				<p>
+					1 Tablespoon (T) = 3 Teaspoons (t)
+				</p>
+			</paragraphs>
+		</sidebyside>
+		<p>
+			Note: Fluid ounces are a capacity measurement for liquids. 1 fluid ounce weighs about 1 ounce for water only.
+		</p>
+	</assemblage>
+	<example>
+		<statement>
+		<p>
+			
+		</p>
+		</statement>
+		<solution>
+			<p>
+				
+			</p>
+		</solution>
+	</example>
+	
+	<example>
+		<statement>
+		<p>
+		</p>
+		<p>
+		</p>
+		</statement>
+		<solution>
+			<p>
+				
+			</p>
+		</solution>
+	</example>
+</subsection>
+
+<subsection>
 	<title>Solving Problems with Geometry</title>
 
 	<p>
 
 	</p>
-	<p>
-		
-	</p>
-
-	<example>
-		<statement>
-		<p>
-			
-		</p>
-		</statement>
-		<solution>
-			<p>
-				
-			</p>
-		</solution>
-	</example>
-	
-	<example>
-		<statement>
-		<p>
-		</p>
-		<p>
-		</p>
-		</statement>
-		<solution>
-			<p>
-				
-			</p>
-		</solution>
-	</example>
-</subsection>
-
-<subsection>
-	<title>Solving Problems with Unit Conversions</title>
-
-	<p>
-
-	</p>
-	<p>
-		
-	</p>
-
-	<example>
-		<statement>
-		<p>
-			
-		</p>
-		<p>
-			
-		</p>
-		</statement>
-		<solution>
-			<p>
-				
-			</p>
-		</solution>
-	</example>
-	
-	<example>
-		<statement>
-		<p>
-		</p>
-		<p>
-		</p>
-		</statement>
-		<solution>
-			<p>
-				
-			</p>
-		</solution>
-	</example>
-</subsection>
-
-<!-- <subsection>
-	<title>Percents</title>
-		<p>
-			If you went shopping and one shirt was $20 off and another shirt was $30 off it might be hard to tell which is the better value. What if they were 20% off and 30% off? Percentages can make quantities easier to compare.
-		</p>
-		<p>
-			Percent, denoted by %, means “per 100,” or “parts per hundred.” In Spanish it's literally por ciento. When we write 30% off, that means you save 30 out of every 100 dollars. We can write this percentage as the fraction <m>\frac{30}{100}</m>. When we divide 30 by 100, we get <me>\frac{30}{100}=0.30.</me> We can also say you would save 30 cents out of every dollar. Many equivalent fractions can be written that equal 30%. Notice that 60 out of 200 and 15 out of 50 are also 30%, since <me>\frac{60}{200}=\frac{15}{50}=\frac{30}{100}=0.30.</me>
-		</p>
-		<example>
-			<p>
-				As an example, let's compare two shirts on sale and add some prices:
-			</p>
-			<sidebyside widths="40% 40%">
-				<p>
-					Shirt 1:
-					<ul marker = "disc">
-						<li>
-							<p>
-							Original Price: $80
-							</p>
-						</li>
-						<li>
-							<p>
-							Sale: $20 off
-							</p>
-						</li>
-					</ul>
-				</p>
-				<p>
-					Shirt 2:
-					<ul marker = "disc">
-						<li>
-							<p>
-							Original Price: $100
-							</p>
-						</li>
-						<li>
-							<p>
-							Sale: 30% off
-							</p>
-						</li>
-					</ul>
-				</p>
-			</sidebyside>
-				<p>
-					What is the sale price and sale percentage for each shirt? Which is the better buy?
-				</p>
-				<sidebyside widths="40% 40%">
-					<stack>
-						<p>
-							Shirt 1:
-						</p>
-					<p>
-						For this shirt we have the dollar amount of the sale so we will subtract it from the original price.
-					</p>
-					<p>
-						<me>\$80-20 = \$60</me>.
-					</p>
-					<p>
-						Now we will divide to find the percentage of the sale:
-						<me>\frac{\$20}{\$80} = 0.25</me>.
-					</p>
-					<p>
-						This shirt is 25% off and the sale price is $60.
-					</p>
-					</stack>
-					<stack>
-					<p>
-						Shirt 2:
-					</p>
-					<p>
-						For this shirt we know the percentage off so we need to find 30% of $100. We used a base of 100 so $30 off per $100 is $30.
-					</p>
-					<p>
-						<m>30\% \text{ off of } \$100 \text{ is } \$30</m>.
-					</p>
-					<p>
-						Then we subtract the sale amount from the original price to get:
-						<me>\$100-30 = \$70</me>.
-					</p>
-					<p>
-						This shirt is 30% off and the sale price is $70.
-					</p>
-					</stack>
-				</sidebyside>
-			<p>
-				Which shirt do you think is the better deal? You would save more with shirt 2, but shirt 1 is cheaper.
-			</p>
-		</example>
-	</subsection>
-	<subsection>
-			<title>Converting Between Percentages and Decimals</title>
-		<p>
-			To convert a percentage to decimal form, we use the definition of "per 100." For example, <m>82\%</m> means <q>82 per 100</q> so we divide by 100 or move the decimal two places to the left and remove the % symbol.
-			<me>82\% = \frac{82}{100}=0.82</me>
-		</p>
-		<p>
-			To go the other way, if we have <m>0.10</m>, we can multiply it by 100% or move the decimal two places to the right and add the % symbol.
-			<me>0.10 = 0.10(100\%)=10\%</me>
-		</p>
-
-	<example>
-		<statement>
-		<p>
-			Change each percentage into decimal form.
-		<ol marker="a">
-			<li>
-				<p>
-					65%
-				</p>
-			</li>
-			<li>
-				<p>
-					200%
-				</p>
-			</li>
-			<li>
-				<p>
-					5.2%
-				</p>
-			</li>
-			<li>
-				<p>
-					0.1%
-				</p>
-			</li>
-		</ol>
-		</p>
-	</statement>
-		<solution>
-			<p>
-			<ol marker="a">
-				<li>
-					<p>
-						<m>65\%=\frac{65}{100}=0.65</m>. Notice this is the same as moving the decimal to the left two places.
-					</p>
-				</li>
-				<li>
-					<p>
-						<m>200\%=\frac{200}{100}=2.0</m> or just <m>2</m>.
-					</p>
-				</li>
-				<li>
-					<p>
-						<m>5.2\%=\frac{5.2}{100}=0.052</m>. If we use the method of moving the decimal two places to the left we use a zero to hold the place value and we get 0.052.
-					</p>
-				</li>
-					<li>
-					<p>
-						<m>0.1\%=\frac{0.1}{100}=0.001</m>.
-					</p>
-				</li>
-			</ol>
-			</p>
-		</solution>
-	</example>
-
-	<example>
-		<statement>
-		<p>
-			Change each fraction or decimal into percentage form.
-		<ol marker="a">
-			<li>
-				<p>
-					<m>\frac{4}{5}</m>
-				</p>
-			</li>
-			<li>
-				<p>
-					1.25
-				</p>
-			</li>
-			<li>
-				<p>
-					0.06
-				</p>
-			</li>
-			<li>
-				<p>
-					0.003
-				</p>
-			</li>
-		</ol>
-		</p>
-	</statement>
-		<solution>
-			<p>
-			<ol marker="a">
-				<li>
-					<p>
-						First we divide <m>\frac{4}{5}</m> to get <m>0.80</m> and then multiply by 100%. <m>0.80(100\%) = 80\%</m>.
-					</p>
-				</li>
-				<li>
-					<p>
-						<m>1.25(100\%)</m> or moving the decimal two places to the right gives 125%.
-					</p>
-				</li>
-				<li>
-					<p>
-						<m>0.06(100\%)</m> or moving the decimal two places to the right gives 6%.
-					</p>
-				</li>
-					<li>
-					<p>
-						<m>0.003(100\%)</m> or moving the decimal two places to the right gives 0.3%. Note this is less than one percent.
-					</p>
-				</li>
-			</ol>
-			</p>
-		</solution>
-	</example>
-</subsection>
-
-<subsection>
-	<title>Calculating Percents</title>
-	<p>
-		When calculating percents, we divide the <term>part</term> by the <term>whole</term> amount. The whole amount is also called the <term>base</term> of the percentage. First we will look at how to calculate percents and then how to calculate a part.
-	</p>
-
-<assemblage>
-			<title>Calculating Percents</title>
-			<p>
-				<me>\text{Percent} = \frac{\text{part}}{\text{whole}}</me>
-			</p>
-			<p>
-				<me>\text{Part} = \text{percent} \cdot \text{whole}</me>
-			</p>
-			<p>
-				Whole = percent <m>\cdot</m> part
-			</p>
-		</assemblage>
-		<p>
-			We can also think of these formulas as sentences. The word <term>is</term> means equals, <term>per</term> means divide, and <term>of</term> often means multiplication. So we can also say, <q>Percent is part per whole,</q> and, <q>Part is percent of whole.</q>
-		</p>
-		<example>
-			<statement>
-			<p>
-				In a survey of 1,031 randomly chosen adults, 577 said they would feel better if they got more sleep (<url href="https://news.gallup.com/poll/642704/americans-sleeping-less-stressed.aspx"
-					visual="news.gallup.com/poll/642704/americans-sleeping-less-stressed">source</url>). What percent is this?
-			</p>
-			</statement>
-			<solution>
-				<p>
-					First, we need to identify the part and the whole. The whole is the total number of adults surveyed. The part is the 577 adults who said they would feel better if they got more sleep.
-				</p>
-				<p>
-					Using the formula <me>\text{Percent} = \frac{\text{part}}{\text{whole}}</me> we can calculate:
-						<me>\frac{577}{1013} \approx 0.570 \text{ or } 57\%</me>.
-				</p>
-				<p>
-					About 57% of the adults surveyed said they would feel better if they got more sleep.
-				</p>
-			</solution>
-	</example>
-	<example>
-		<statement>
-		<p>
-			First estimate which quantity is the larger percentage. Then calculate both percentages.
-		<ol marker="a">
-			<li>
-				<p>
-					A quiz score of 8 out of 10 or 11 out of 15.
-				</p>
-			</li>
-			<li>
-				<p>
-					A cereal with 2 grams of sugar in a 28 gram serving size or 3 grams of sugar in a 32 gram serving size.
-				</p>
-			</li>
-		</ol>
-		</p>
-	</statement>
-		<solution>
-			<p>
-			<ol marker="a">
-				<li>
-					<p>
-						We are estimating that 8 out of 10 seems larger compared to 11 out of 15 because missing 2 out of 10 seems like less than 4 out of 15.
-					</p>
-					<p>
-						<me>\frac{8}{10} = 0.80 \text{ or } 80\%</me>.
-					</p>
-					<p>
-						<me>\frac{11}{15} \approx 0.733 \text{ or } 73.3\%</me>.
-					</p>
-					<p>
-						The score of 8 out of 10 is a higher percentage.
-					</p>
-				</li>
-				<li>
-					<p>
-						We are estimating that 3 out of 32 is a higher percentage than 2 out of 28 because the added gram of sugar seems high compared with only a 4 gram increase in serving size.
-					</p>
-					<p>
-						<me>\frac{2\text{ g}}{28\text{ g}} \approx 0.07 \text{ or about } 7\%</me>.
-					</p>
-					<p>
-						<me>\frac{3\text{ g}}{32\text{ g}} \approx 0.09 \text{ or about } 9\%</me>.
-					</p>
-					<p>
-						The cereal with 3 grams of sugar out of 32 grams has a higher percentage of sugar.
-					</p>
-				</li>
-			</ol>
-			</p>
-		</solution>
-	</example>
-	<p>
-		Another useful tool is finding the part when we know the percentage and the whole amount.
-	</p>
-	<example>
-		<statement>
-		<p>
-			For example, say you have a high yield online savings account that pays an annual interest rate of 4.5%. If you have $3000 in the account for your emergency fund, how much interest will you earn in a year? What would your total balance be with the interest?
-		</p>
-		</statement>
-		<solution>
-		<p>
-			To perform calculations with percents, we change them into decimal form first. So we divide 4.5 by 100 or move the decimal two places to the left and we get 0.045.
-		</p>
-		<p>
-			Then, using the formula <me>\text{part} = \text{percent} \cdot \text{whole}</me> we have:
-		</p>
-		<p>
-			<me>0.045(\$3000) = \$135</me>.
-		</p>
-		<p>
-			You would earn $135 in interest. Interest is added to your account so we will add to find the total balance.
-		</p>
-		<p>
-			<me>\$3000+135 = \$3,135</me>. Your total balance is $3,135 after one year.
-		</p>
-		</solution>
-	</example>
-	<p>
-		Note, most interest is compounded daily or monthly so we simplified the example above. We will come back to this and learn how to calculate compound interest in the financial math chapter.
-	</p>
-	
-	<example>
-		<statement>
-		<p>
-			Find each part described and the total or ending amount.
-		<ol marker="a">
-			<li>
-				<p>
-					A smartphone's battery life of 12 hours decreased by 20% after a year of use. Find the amount it decreased by and the current battery life.
-				</p>
-			</li>
-			<li>
-				<p>
-					The sales tax in Vancouver, Washington is currently 8.7%. How much tax would you pay on TV that costs $399 and what is the total price?
-				</p>
-			</li>
-		</ol>
-		</p>
-	</statement>
-		<solution>
-			<p>
-			<ol marker="a">
-				<li>
-					<p>
-						First we will find 20% of 12 hours by multiplying by the decimal form of the percentage: <me>12(0.20)=2.4\text{ hours}</me> Then we will subtract since the battery life went down. <me>12-2.4=9.6\text{ hours}</me>. The phone battery life went down by 2.4 hours to 9.6 hours.
-					</p>
-				</li>
-				<li>
-					<p>
-						We will find 8.7% of $399 by multiplying the amount by the decimal form of the percentage: <me>\$399(0.087)=\$34.71</me> We rounded to the nearest cent. Then we will add since the tax is an additional cost. <me>\$399+34.71=\$433.71</me> The tax on the TV is $34.71, which gives a total price of $433.71.
-					</p>
-				</li>
-			</ol>
-			</p>
-		</solution>
-		<solution>
-			<p>
-				There is an optional shorter way to go about this type of problem if you are interested.
-			<ol marker="a">
-				<li>
-					If we look at a 20% decrease as the battery retaining 80% of its life (100-20=80)%, we can calculate the new battery life directly:
-					<md>
-						<mrow>12(1-0.20) \amp= 12(0.80)</mrow>
-						<mrow>\amp= 9.6\text{ hours.}</mrow>
-					</md>
-				</li>
-				<li>
-					We can also do this with the TV price using addition for an increase (100+8.7=108.7)%:
-					<md>
-						<mrow>\$399(1+0.087)\amp=\$399(1.087)</mrow>
-						<mrow>\amp=\$433.71.</mrow>
-					</md>
-				</li>
-			</ol>
-			</p>
-		</solution>
-</example>
-
-</subsection>
-<subsection>
-	<title>Absolute and Relative Change</title>
-
-	<p>
-		As we saw in the shirt sale prices, we can talk about a difference in absolute terms or relative terms. <term>Absolute change</term> is the actual amount of the change in dollars, people, etc. The change is positive if the value goes up or negative if it goes down. <term>Relative change</term> is the amount of change as a percentage of the starting amount.
-	</p>
-	<p>
-		For example, Portland Community College recently increased its tution from $128 to $133 per credit hour. The absolute change is the dollar increase of <me>\$133-\$128 = \$5\text{ per credit.}</me> The relative change is <me>\frac{\$5}{\$128}\approx 0.039</me> or about 3.9%.
-	</p>
-
 	<assemblage>
-		<title>Absolute and Relative Change</title>
-			<p>
-				<md>
-				<mrow>\text{Absolute Change} \amp= \text{Ending Amount} - \text{Starting Amount}</mrow>
-				<mrow></mrow>
-				<mrow>\text{Relative Change} \amp= \frac{\text{Ending Amount} - \text{Starting Amount}}{\text{Starting Amount}} = \frac{\text{Absolute Change}}{\text{Starting Amount}}</mrow>
-			</md>
-		</p>
+		<title>Perimeter and Area</title>
+		<sidebyside>
+			<paragraphs>
+				<p>
+					<term>Rectangle</term>
+				</p>
+				<p>
+					Perimeter = <m>2L + 2W\text{ units}</m>
+				</p>
+				<p>
+					Area = <m>L\cdot W\text{ units}^2</m>
+				</p>
+			</paragraphs>
+			<paragraphs>
+				<p>
+					<term>Circle</term>
+				</p>
+				<p>
+					Circumference = <m>2\pi r\text{ units}</m>
+				</p>
+				<p>
+					Area = <m>\pi r^2\text{ units}^2</m>
+				</p>
+			</paragraphs>
+		</sidebyside>
+		<sidebyside widths="30% 18%">
+				<image source="images/language_logic_rules/problem_solving/rectangle.png">
+					<shortdescription>A rectangle with the width labeled W and the length labeled L.</shortdescription>
+				</image>
+				<image source="images/language_logic_rules/problem_solving/circle.png">
+					<shortdescription>A circle with the radius labeled r.</shortdescription>
+				</image>
+		</sidebyside>
+	</assemblage>
+	<assemblage>
+		<title>Volume</title>
+		<sidebyside>
+			<paragraphs>
+				<p>
+					<term>Rectangular Box</term>
+				</p>
+				<p>
+					Volume = <m>L\cdot W\cdot H\text{ units}^3</m>
+				</p>
+			</paragraphs>
+			<paragraphs>
+				<p>
+					<term>Cylinder</term>
+				</p>
+				<p>
+					Volume = <m>\pi r^2 H\text{ units}^3</m>
+				</p>
+			</paragraphs>
+		</sidebyside>
+		<sidebyside widths="26% 20%">
+			<image source="images/language_logic_rules/problem_solving/rectangular_box.png">
+					<shortdescription>A rectangular box with the width labeled W, length labeled L, and height labeled H</shortdescription>
+			</image>
+			<image source="images/language_logic_rules/problem_solving/cylinder.png">
+					<shortdescription>A cylinder with the radius labeled r and height labeled H</shortdescription>
+					</image>
+		</sidebyside>
 	</assemblage>
 	<p>
-		The base of a percentage is very important and relative change is calculated as a percentage of the original amount because that was the amount before the change.
-	</p>
-<example>
-		<statement>
-		<p>
-			Maria has been thinking about selling her car. The value went from $7400 to $6800 over the last year. What is the absolute and relative change in the car's value?
-		</p>
-		</statement>
-		<solution>
-			<p>
-				First we will subtract to calculate the absolute change:
-				<md>
-					<mrow>\text{Absolute Change} \amp= \text{Ending Amount} - \text{Starting Amount}</mrow>
-					<mrow>\amp=\$6800 - \$7400</mrow>
-					<mrow>\amp=-\$600</mrow>
-				</md>
-			The absolute change is a decrease of $600.
-			</p>
-			<p>
-				Now we can calculate the relative change:
-			</p>
-			<p>
-				<md>
-					<mrow>\text{Relative Change} \amp= \frac{\text{Absolute Change}}{\text{Starting Amount}}</mrow>
-					<mrow>\amp= \frac{-\$600}{\$7400}</mrow>
-					<mrow>\amp\approx -0.081</mrow>
-				</md>
-				The relative change in the price of the car was a decrease of about 8.1%.
-			</p>
-		</solution>
-	</example>
-	<p>
-		Notice in the last example we either used the negative sign or the word decrease to show the direction of the change. We could say the car's value changed by -8.1% or decreased by 8.1%. We wouldn't use both at the same time because that would be a double negative. Let's look at another example.
-	</p>
-	<example>
-		<statement>
-			<p>
-				After raises, Iryna's wage went from $22 to $25 per hour. Sundar's hourly wage went from $19 to $21.85. Calculate their absolute and relative raises. Who got a larger absolute raise? Who got a larger relative raise?
-			</p>
-		</statement>
-		<solution>
-			<p>
-				First we will calculate the absolute raises:
-			</p>
-			<sidebyside widths="40% 40%">
-					<stack>
-						<p>
-							Iryna:
-						</p>
-					<p>
-						<m>\$25 - \$22 = \$3</m>.
-					</p>
-					</stack>
-					<stack>
-					<p>
-						Sundar:
-					</p>
-					<p>
-						<m>\$21.85 - \$19 = \$2.85</m>.
-					</p>
-					</stack>
-				</sidebyside>
-			<p>
-				Iryna got a larger absolute raise of $3 per hour compared with $2.85 for Sundar. Now we will calculate the relative raises.
-			</p>
-				<sidebyside widths="40% 40%">
-					<stack>
-					<p>
-						<m>\frac{\$3}{\$22} \approx 0.136 \text{ or } 13.6\%</m>.
-					</p>
-					<p>
-						Iryna's raise was about 13.6% of her pay.
-					</p>
-					</stack>
-					<stack>
-					<p>
-						<m>\frac{\$2.85}{\$19} = 0.15 \text{ or } 15\%</m>.
-					</p>
-					<p>
-						Sundar's raise was 15% of his pay.
-					</p>
-					</stack>
-				</sidebyside>
-			<p>
-				Sundar had a relative raise of 15% of his pay and Iryna's raise was about 13.6% of her pay. Iryna had the larger absolute raise but Sundar had the larger raise relative to their starting wages.
-			</p>
-		</solution>
-	</example>
-</subsection>
-<subsection>
-	<title>Multiple Percent Changes</title>
-	<p>
-		We can also calculate values with multiple percent increases and decreases. We must be careful here because the base changes each time. For example, if a stock price drops by 60% in one week and increases by 75% the next week, this is not the same as an increase of 15%. The base for the drop is the original price and the base for the increase is the price after the drop. Let's look at this more closely in the next example.
+		
 	</p>
 
 	<example>
 		<statement>
 		<p>
-			A stock valued at $100 dropped in value by 60% one week, then increased in value the next week by 75%. Is the value higher or lower than where it started? What is the ending value and what is the relative change?
+			You need to replace the boards on your deck and you'd like to do it yourself to save money. You want to estimate how much you will need to save up for the wood.
 		</p>
 		</statement>
 		<solution>
 			<p>
-				After one week, the value dropped by 60%:
-			</p>
-			<md>
-				<mrow>\$100 - \$100(0.60) \amp= \$100 - \$60</mrow>
-				<mrow>\amp= \$40</mrow>
-			</md>
-			<p>
-				In the next week, notice that base of the percent has changed to the new value of $40. Computing the 75% increase:
-			</p>
-			<md>
-				<mrow>\$40 + \$40(0.75) \amp= \$40 + \$30</mrow>
-				<mrow>\amp= \$70</mrow>
-			</md>
-			<p>
-				In the end, the stock is $70, which is $30 lower, or 30% lower than it started.
+				Step 1: We want to know how much the wood for the deck will cost. This will probably be in the thousands of dollars, possibly about $1000-2000, depending on the size of the deck and wood prices. In this context, estimates usually add 10% for parts of boards that don't get used so we will do that as well.
 			</p>
 			<p>
-				This is optional, but if you enjoyed the shorter method we showed before, you can also use it in multi-step percentage problems.
+				Step 2: We need to know the size and shape of the deck, the type of boards and cost per board. You measure your deck and it's a 16 ft by 24 ft rectangle. Looking up prices online, you find 5/4-inch by 4-inch by 8-foot cedar deck boards for $11.99 each.
 			</p>
-			<md>
-				<mrow>\$100(1-0.60)(1+0.75) \amp= \$100(0.40)(1.75)</mrow>
-				<mrow>\amp= \$70</mrow>
-			</md>
+			<p>
+				Step 3: There are a few approaches we could take to this problem: 1) Go out to your deck and count the boards, 2) calculate the number of boards you will need using the area of the deck, or 3) calculate the area of the deck and find the approximate cost per square foot for deck boards.
+			</p>
+			<p>
+				Step 4: Option 3 seems like the most efficient approach so we will try that. The area of the deck is <me>16\text{ feet} \cdot 24\text{ feet} = 384\text{ feet}^2</me>.
+			</p>
+			<p>
+				To find the cost per square foot for decking boards, we could compute the area of the top of a single board, and then divide the cost by the area. Since the width of a board is 4 inches we also need to convert that into feet. So the area of a single board is
+			</p>
+			<p>
+				<me>8\text{ feet}\cdot4\cancel{\mathrm{ inches}}\cdot\frac{1\text{ foot}}{12\cancel{\mathrm{ inches}}}=2.667\text{ ft}^2</me>
+  				The cost per square foot of one board is
+  				<me>\frac{\$11.99}{2.667\text{ ft}^2}\approx \$4.4957\text{ per square foot}</me>.
+			</p>
+			<p>
+				This will allow us to estimate the material cost for the whole deck by multiplying
+				<me>384\cancel{\mathrm{ feet}^2}\cdot\frac{\$4.4957}{\cancel{\mathrm{ feet}^2}}\approx\$1726.35</me>.
+  			</p>
+  			<p>
+				Then we will add 10% to the cost. We can calculate the 10% and then add, or multiply by 1.10.
+				<me>\$1726.35(1.10)\approx \$1898.99</me>.
+				Step 5: This answer is reasonable and fits with our original estimate. You should save up or set aside about $1900 for this project. This is just the cost of the wood and doesn't include nails, screws or any foundation materials.
+			</p>
+			<p>
+				For confirmation with a second method, we could use option 2. We divide 
+			</p>
 		</solution>
 	</example>
-</subsection>-->
+</subsection>
 
 <exercises>
 <title>Exercises</title>
@@ -1124,11 +745,12 @@
 				<ol marker="a.">
 					<li>
 						<p>
-							
+							The number of buses needed for a field trip.
 						</p>
 					</li>
 					<li>
 						<p>
+							How much you spend on groceries in a year.
 						</p>
 					</li>
 				</ol>
@@ -1139,12 +761,12 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					
+					Division.
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					Addition and/or multiplication.
 				</p>
 			</li>
 		</ol>
@@ -1160,12 +782,12 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					
+					The number of college credits you have left to take before transferring.
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					The number of months it will take to pay off a credit card.
 				</p>
 			</li>
 		</ol>
@@ -1176,12 +798,12 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					
+					Subtraction.
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					Division.
 				</p>
 			</li>
 		</ol>
@@ -1197,12 +819,12 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					
+					The number of steps to walk around a city block.
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					The number of soda cans tht will fit in a large garbage bag.
 				</p>
 			</li>
 		</ol>
@@ -1234,12 +856,12 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					
+					The distance from Portland, Oregon to New York City in miles.
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					The number of servings in a standard cereal box.
 				</p>
 			</li>
 		</ol>
@@ -1296,72 +918,78 @@
 	<exercise><!--  #7 -->
 		<statement>
 			<p>
-				
+				You are selling sandwiches for $10 each and your cost is $45 per dozen sandwiches. Find the profit on 120 sandwiches.
 			</p>
 		</statement>
 		<solution>
 			<p>
-				
+				Your profit is $750.
 			</p>
 		</solution>
 	</exercise>
 	<exercise><!--  #8 -->
 		<statement>
 			<p>
-				
+				You are selling lemonade for $3 each and your cost is $12.50 for 10 servings. Find the profit on 80 servings of lemonade.
 			</p>
 		</statement>
 		<solution>
 			<p>
-				
+				Your profit is $140.
 			</p>
 		</solution>
 	</exercise>
 	<exercise><!--  #9 -->
 		<statement>
 			<p>
-				
+				You ordered 50 shirts that you plan to sell for $18 each at an event. The cost was $9 per shirt. You sold 43 shirts and returned the rest but had to pay a $2 restocking fee on each shirt returned. What is your profit?
 			</p>
 		</statement>
 		<solution>
 			<p>
-				
+				Your profit is $373.
 			</p>
 		</solution>
 	</exercise>
 	<exercise><!--  #10 -->
 		<statement>
 			<p>
-				
+				You ordered 70 hats that you plan to sell for $20 each at an event. The cost was $8 per hat. You sold 65 of them and returned the rest but had to pay a $3 restocking fee on each hat returned. What is your profit?
 			</p>
 		</statement>
 		<solution>
 			<p>
-				
+				Your profit is $765.
 			</p>
 		</solution>
 	</exercise>
 	<exercise><!--  #11 -->
 		<statement>
 			<p>
-				
+				The grocery store has bulk pecans on sale, which is great since you’re planning on making 10 pecan pies for a wedding. Your recipe calls for 1<nbsp/>3<solidus/>4 cups of pecans per pie. However, in the bulk section there’s only a scale available, not a measuring cup. You run over to the baking aisle and find a bag of pecans, and look at the nutrition label to gather some info. How many pounds of pecans should you buy?
 			</p>
+			<image width="45%" source="images/language_logic_rules/problem_solving/pecans.png">
+			<shortdescription>Nutrition label for a package of pecans; Serving size of 1 cup is 0.22 pounds, Amount per serving: 64 calories, 71 grams of fat.</shortdescription>
+		</image>
 		</statement>
 		<solution>
 			<p>
-				
+				You would need about 3.85 pounds of pecans.
 			</p>
 		</solution>
 	</exercise>
 	<exercise><!--  #12 -->
 		<statement>
 			<p>
-				
+				Soda is often sold in 20-ounce bottles. The nutrition label for one of these bottles is shown below. A packet of sugar (the kind they have at restaurants for your coffee or tea) typically contain 4 grams of sugar in the U.S. Drinking a 20-oz soda is equivalent to eating how many packets of sugar?
 			</p>
+			<image width="45%" source="images/language_logic_rules/problem_solving/soda.png" >
+			<shortdescription>Nutrition label for a bottle of soda; Serving size of 8 fluid ounces is 240 ml. Amount per serving: 110 calories, 0 grams of fat, 30 grams of sugar.</shortdescription>
+		</image>
 		</statement>
 		<solution>
 			<p>
-				
+				You would be drinking 18.75 packets of sugar in a 20-ounce bottle of soda.
 			</p>
 		</solution>
 	</exercise>
@@ -1370,7 +998,7 @@
 <exercisegroup>
 	<introduction>
 		<p>
-			Use the problem solving process to solve these problems. Document your steps and thinking.
+			Use the problem solving process to decide between the two options. Document your steps and thinking.
 		</p>
 	</introduction>
 	<exercise><!--  #13 -->
@@ -1499,13 +1127,13 @@
 <exercisegroup>
 	<introduction>
 		<p>
-			Use the problem solving process to solve these problems. For this set of questions, after you identify the information you need, go to the end of the exercises to find that information. The details may be imprecise; answer the question the best you can with the provided information. Document your steps and thinking.
+			Use the problem solving process to solve these problems. For this set of questions, after you identify the information you need, click on the link in the question or go to <xref ref="subsubsection-information" /> to find that information. The details may be imprecise; answer the question the best you can with the provided information. Document your steps and thinking.
 		</p>
 	</introduction>
 	<exercise><!--  #23 -->
 		<statement>
 			<p>
-				
+				You’re planning on making 6 meatloafs for a party. You go to the store to buy breadcrumbs, and see they are sold by the canister. How many canisters do you need to buy? Information: <xref ref="list-breadcrumbs" />
 			</p>
 		</statement>
 		<solution>
@@ -1517,8 +1145,11 @@
 	<exercise><!--  #24 -->
 		<statement>
 			<p>
-				
+				Your friend wants to cover their car in bottle caps, like in this picture.  How many bottle caps are you going to need? Information: <xref ref="list-bottlecaps" />
 			</p>
+				<image width="70%" source="images/language_logic_rules/problem_solving/bottlecaps.png">
+					<shortdescription>A car covered in metal bottle caps with a sun design.</shortdescription>
+					</image>
 		</statement>
 		<solution>
 			<p>
@@ -1529,7 +1160,7 @@
 	<exercise><!--  #25 -->
 		<statement>
 			<p>
-
+				You need to buy some chicken for dinner tonight. You found an ad showing that the store across town has it on sale for $2.99 a pound, which is cheaper than your usual neighborhood store, which sells it for $3.79 a pound. Is it worth the extra drive? Information: <xref ref="list-chicken" />
 			</p>
 		</statement>
 		<solution>
@@ -1541,7 +1172,7 @@
 	<exercise><!--  #26 -->
 		<statement>
 			<p>
-				
+				I have an old gas furnace, and am considering replacing it with a new, high efficiency model. Is upgrading worth it? Information: <xref ref="list-furnace" />
 			</p>
 		</statement>
 		<solution>
@@ -1553,7 +1184,7 @@
 	<exercise><!--  #27 -->
 		<statement>
 			<p>
-				
+				Janine is considering buying a water filter and a reusable water bottle rather than buying bottled water. Will doing so save her money? Information: <xref ref="list-filter" />
 			</p>
 		</statement>
 		<solution>
@@ -1565,7 +1196,7 @@
 	<exercise><!--  #28 -->
 		<statement>
 			<p>
-				
+				Marcus is considering going car-free to save money and be more environmentally friendly. Is this financially a good decision? Information: <xref ref="list-carfree" />
 			</p>
 		</statement>
 		<solution>
@@ -1585,7 +1216,7 @@
 	<exercise><!--  #29 -->
 		<statement>
 			<p>
-
+				You want to travel from Portland, OR to San Francisco, CA for a wedding. Compare the costs and time involved with driving, flying, and taking a train. Assume that if you fly or take the train you’ll need to rent a car while you’re there. Which option is best?
 			</p>
 		</statement>
 		<solution>
@@ -1597,7 +1228,7 @@
 	<exercise><!--  #30 -->
 		<statement>
 			<p>
-
+				You want to paint the walls of a 6ft by 9ft storage room that has one door and one window. You want to put on two coats of paint. How many gallons and/or quarts of paint should you buy to paint the room as cheaply as possible?
 			</p>
 		</statement>
 		<solution>
@@ -1609,7 +1240,7 @@
 	<exercise><!--  #31 -->
 		<statement>
 			<p>
-
+				A restaurant in New York tiled their floor with pennies. Just for the materials, is this more expensive than using a more traditional material like ceramic tiles? If each penny has to be laid by hand, estimate how long it would take to lay the pennies for a 12ft by 10ft room. Considering material and labor costs, are pennies a cost-effective replacement for ceramic tiles?
 			</p>
 		</statement>
 		<solution>
@@ -1621,7 +1252,7 @@
 	<exercise><!--  #32 -->
 		<statement>
 			<p>
-
+				You are considering taking up part of your back yard and turning it into a vegetable garden, to grow broccoli, tomatoes, and zucchini. Will doing so save you money, or cost you more than buying vegetables from the store?
 			</p>
 		</statement>
 		<solution>
@@ -1633,7 +1264,7 @@
 	<exercise><!--  #33 -->
 		<statement>
 			<p>
-
+				Barry is trying to decide whether to keep his 1993 Honda Civic with 140,000 miles, or trade it in for a used 2008 Honda Civic. Consider gas, maintenance, and insurance costs in helping him make a decision.
 			</p>
 		</statement>
 		<solution>
@@ -1645,7 +1276,7 @@
 	<exercise><!--  #34 -->
 		<statement>
 			<p>
-
+				Some people claim it costs more to eat vegetarian, while some claim it costs less. Examine your own grocery habits, and compare your current costs to the costs of switching your diet (from omnivore to vegetarian or vice versa as appropriate). Which diet is more cost effective based on your eating habits?
 			</p>
 		</statement>
 		<solution>
@@ -1656,414 +1287,328 @@
 	</exercise>
 </exercisegroup>
 
+<subsubsection xml:id="subsubsection-information">
+<title>Information for Problem Solving Problems</title>
+<p>
+<list xml:id="list-breadcrumbs">
+	<title>Breadcrumb Information</title>
+		<ul>
+			<li>
+				<p>How much breadcrumbs does the recipe call for?</p>
+				<ul>
+					<li>It calls for 1 and a half cups of breadcrumbs.</li>
+				</ul>
+			</li>
+			<li>
+				<p>How many meatloafs does the recipe make?</p>
+				<ul>
+					<li>It makes 1 meatloaf.</li>
+				</ul>
+			</li>
+			<li>
+				<p>How many servings does that recipe make?
+					<ul>
+						<li>It says it serves 8.</li>
+					</ul>
+				</p>
+			</li>
+			<li>
+				<p>How big is the canister?
+					<ul>
+						<li>It is cylindrical, 3.5 inches across and 7 inches tall.</li>
+					</ul>
+				</p>
+			</li>
+			<li>
+				<p>What is the net weight of the contents of 1 canister?
+					<ul>
+						<li>15 ounces.</li>
+					</ul>
+				</p>
+			</li>
+			<li>
+				<p>How much does a canister cost?
+					<ul>
+						<li>$2.39.</li>
+					</ul>
+				</p>
+			</li>
+			<li>
+				<p>
+				How much does a cup of breadcrumbs weigh?
+				</p>
+				<image width="45%" source="images/language_logic_rules/problem_solving/breadcrumbs.png">
+				<shortdescription>Nutrition label for cannister of breadcrumbs; Serving size of 1/3 cup is 30g; Servings per container about 14; Amount per serving: 110 calories, 1.5 grams of fat.</shortdescription>
+				</image>
+			</li>
+		</ul>
+</list>
+</p>
+<p>
+<list xml:id="list-bottlecaps">
+	<title>Car and Bottle Cap Information</title>
+		<ul>
+			<li>
+				<p>What kind of car is that?
+					<ul>
+						<li>A 1993 Honda Accord.</li>
+					</ul>
+				</p>
+			</li>
+			<li>
+				<p>How big is the car or what are the dimensions?
+					<ul>
+						<li>Weight: 2800lb</li>
+						<li>Length: 185.2 in</li>
+						<li>Width: 67.1 in</li>
+						<li>Height: 55.2 in</li>
+					</ul>
+				</p>
+			</li>
+			<li>
+				<p>How much of the car was covered with caps?
+					<ul>
+						<li>Everything but the windows, lights and the underside.</li>
+					</ul>
+				</p>
+			</li>
+			<li>
+				<p>How big is a bottle cap?
+					<ul>
+						<li>Caps are 1 inch in diameter.</li>
+					</ul>
+				</p>
+			</li>
+		</ul>
+</list>
+</p>
+<p>
+<list xml:id="list-chicken">
+	<title>Chicken Information</title>
+		<ul>
+			<li>
+				<p>How much chicken is needed?
+					<ul>
+						<li>Four pounds.</li>
+					</ul>
+				</p>
+			</li>
+			<li>
+				<p>How far are the two stores?
+					<ul>
+						<li>The neighborhood store is 2.2 miles away, and takes about 7 minutes.</li>
+						<li>The store across town is 8.9 miles away, and takes about 25 minutes.</li>
+					</ul>
+				</p>
+			</li>
+			<li>
+				<p>What kind of mileage does the car get?
+					<ul>
+						<li>It averages about 24 miles/gallon in the city.</li>
+					</ul>
+				</p>
+			</li>
+			<li>
+				<p>How many gallons does the car hold?
+					<ul>
+						<li>About 14 gallons.</li>
+					</ul>
+				</p>
+			</li>
+			<li>
+				<p>How much does gas cost?
+					<ul>
+						<li>About $3.69/gallon right now.</li>
+					</ul>
+				</p>
+			</li>
+		</ul>
+</list>
+</p>
+<p>
+<list xml:id="list-furnace">
+	<title>Furnace Information</title>
+		<ul>
+			<li>
+				<p>How efficient is the current furnace?</p>
+				<ul>
+					<li>It is a 60% efficient furnace.</li>
+				</ul>
+			</li>
+			<li>
+				<p>How efficient is the new furnace?</p>
+				<ul>
+					<li>It is 94% efficient.</li>
+				</ul>
+			</li>
+			<li>
+				<p>What is your gas bill?
+					<ul>
+						<li>Here is the history for 2 years:</li>
+					</ul>
+					<image width="100%" source="images/language_logic_rules/problem_solving/gas_dollars.png">
+					<shortdescription>Nutrition label for cannister of breadcrumbs; Serving size of 1/3 cup is 30g; Servings per container about 14; Amount per serving: 110 calories, 1.5 grams of fat.</shortdescription>
+					</image>
+					<p>
+					</p>
+					<image width="100%" source="images/language_logic_rules/problem_solving/gas_therms.png">
+					<shortdescription>Nutrition label for cannister of breadcrumbs; Serving size of 1/3 cup is 30g; Servings per container about 14; Amount per serving: 110 calories, 1.5 grams of fat.</shortdescription>
+					</image>
+				</p>
+			</li>
+			<li>
+				<p>How much do you pay for gas?
+					<ul>
+						<li>There is $10.34 base charge, plus $0.39097 per Therm for a delivery charge, and $0.65195 per Therm for cost of gas.</li>
+					</ul>
+				</p>
+			</li>
+			<li>
+				<p>How much does the new furnace cost?
+					<ul>
+						<li>It will cost $7,450.</li>
+					</ul>
+				</p>
+			</li>
+			<li>
+				<p>How long do you plan to live in the house?
+					<ul>
+						<li>Probably at least 15 years.</li>
+					</ul>
+				</p>
+			</li>
+		</ul>
+</list>
+</p>
+<p>
+<list xml:id="list-filter">
+	<title>Water Filter Information</title>
+		<ul>
+			<li>
+				<p>How much water does Janine drink in a day?</p>
+				<ul>
+					<li>She normally drinks 3 bottles a day, each 16.9 ounces.</li>
+				</ul>
+			</li>
+		</ul>
+		<ul>
+			<li>
+				<p>How much does a bottle of water cost?</p>
+				<ul>
+					<li>She buys 24-packs of 16.9 ounce bottles for $3.99.</li>
+				</ul>
+			</li>
+		</ul>
+		<ul>
+			<li>
+				<p>How much does a reusable water bottle cost?</p>
+				<ul>
+					<li>About $10.</li>
+				</ul>
+			</li>
+		</ul>
+		<ul>
+			<li>
+				<p>How long does a reusable water bottle last?</p>
+				<ul>
+					<li>Basically forever (or until you lose it).</li>
+				</ul>
+			</li>
+		</ul>
+		<ul>
+			<li>
+				<p>How much does a water filter cost?  How much water will they filter?</p>
+				<ul>
+					<li>A faucet-mounted filter costs about $28. Refill filters cost about $33 for a 3-pack. The box says each filter will filter up to 100 gallons (378 liters)</li>
+					<li>A water filter pitcher costs about $22. Refill filters cost about $20 for a 4-pack. The box says each filter lasts for 40 gallons or 2 months</li>
+					<li>An under-sink filter costs $130. Refill filters cost about $60 each. The filter lasts for 500 gallons.</li>
+				</ul>
+			</li>
+		</ul>
+	</list>
+</p>
 
-<exercise><!--  #35 -->
-	<statement>
-	<p>
-		
-	</p>
-	</statement>
-	<solution>
-	<p>
-		
-	</p>
-	</solution>
-</exercise>
+<p>
+<list xml:id="list-carfree">
+	<title>Car Information</title>
+		<ul>
+			<li>
+				<p>Where does Marcus currently drive?</p>
+				<ul>
+					<li>He drives to work 5 days a week, located 4 miles from his house.</li>
+					<li>He drives to the store twice a week, located 7 miles from his house.</li>
+					<li>He drives to other locations on average 5 days a week, with locations ranging from 1 mile to 20 miles.</li>
+					<li>He drives to his parent’s house 80 miles away once a month.</li>
+				</ul>
+			</li>
+		</ul>
+		<ul>
+			<li>
+				<p>How will he get to these locations without a car?</p>
+				<ul>
+					<li>For work, he can walk when it’s sunny and he gets up early enough.  Otherwise he can take a bus, which takes about 20 minutes.</li>
+					<li>For the store, he can take a bus, which takes about 35 minutes.</li>
+					<li>Some of the other locations he can bus to.  Sometimes he’ll be able to get a friend to pick him up.  A few locations he is able to walk to.  A couple locations are hard to get to by bus, but there is a ZipCar (short term car rental) location within a few blocks.</li>
+					<li>He’ll need to get a ZipCar to visit his parents.</li>
+				</ul>
+			</li>
+		</ul>
+		<ul>
+			<li>
+				<p>How much does gas cost?</p>
+				<ul>
+					<li>About $3.70/gallon.</li>
+				</ul>
+			</li>
+		</ul>
+		<ul>
+			<li>
+				<p>How much does he pay for insurance and maintenance?</p>
+				<ul>
+					<li>He pays $95/month for insurance.</li>
+					<li>He pays $30 every 3 months for an oil change, and has averaged about $300/year for other maintenance costs.</li>
+				</ul>
+			</li>
+		</ul>
+		<ul>
+			<li>
+				<p>How much is he paying for the car?</p>
+				<ul>
+					<li>He’s paying $220/month on his car loan right now, and has 3 years left on the loan.</li>
+					<li>If he sold the car, he’d be able to make enough to pay off the loan.</li>
+					<li>If he keeps the car, he’s planning on trading the car in for a newer model in a couple years.</li>
+				</ul>
+			</li>
+		</ul>
+		<ul>
+			<li>
+				<p>What mileage does his car get?</p>
+				<ul>
+					<li>About 26 miles per gallon on average.</li>
+				</ul>
+			</li>
+		</ul>
+		<ul>
+			<li>
+				<p>How much does a bus ride cost?</p>
+				<ul>
+					<li>$2.50 per trip, or $90 for an unlimited monthly pass.</li>
+				</ul>
+			</li>
+		</ul>
+		<ul>
+			<li>
+				<p>How much does a ZipCar rental cost?</p>
+				<ul>
+					<li>The “occasional driving plan”: $25 application fee and $60 annual fee, with no monthly commitment. Monday-Thursday the cost is $8/hour, or $72 per day. Friday-Sunday the cost is $8/hour or $78/day. Gas, insurance, and 180 miles are included in the cost. Additional miles are $0.45/mile.</li>
+					<li>The “extra value plan”: Same as above, but with a $50 monthly commitment, getting you a 10% discount on the usage costs.</li>
+				</ul>
+			</li>
+		</ul>
+	</list>
+</p>
 
-<exercise> <!-- #36 -->
-	<statement>
-	<p>
-		
-	</p>
-	</statement>
-	<solution>
-	<p>
-		
-	</p>
-	</solution>
-</exercise>
 
-<exercise><!--  #37 -->
-	<statement>
-	<p>
-		
-	</p>
-	<p>
-		<ol marker="a">
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-		</ol>
-	</p>
-	</statement>
-	<solution>
-		<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-		</ol>
-		</p>
-	</solution>
-</exercise>
-
-<exercise><!--  #38 -->
-	<statement>
-	<p>
-		
-	</p>
-	<p>
-		<ol marker="a">
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-		</ol>
-	</p>
-	</statement>
-	<solution>
-		<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-		</ol>
-		</p>
-	</solution>
-</exercise>
-
-<exercise><!--  #39 -->
-	<statement>
-	<p>
-		
-	</p>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-		</ol>
-	</p>
-	</statement>
-	<solution>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-		</ol>
-	</p>
-	</solution>
-</exercise>
-
-<exercise><!--  #40 -->
-	<statement>
-	<p>
-		
-	</p>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-		</ol>
-	</p>
-	</statement>
-	<solution>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-		</ol>
-	</p>
-	</solution>
-</exercise>
-
-<exercise><!--  #41 -->
-	<statement>
-	<p>
-		
-	</p>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-		</ol>
-	</p>
-	</statement>
-	<solution>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-		</ol>
-	</p>
-	</solution>
-</exercise>
-
-<exercise><!--  #42 -->
-	<statement>
-	<p>
-		
-	</p>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-		</ol>
-	</p>
-	</statement>
-	<solution>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-		</ol>
-	</p>
-	</solution>
-</exercise>
-<exercise><!--  #43 -->
-	<statement>
-	<p>
-		
-	</p>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-		</ol>
-	</p>
-	</statement>
-	<solution>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-		</ol>
-	</p>
-	</solution>
-</exercise>
-<exercise><!--  #44 -->
-	<statement>
-	<p>
-		
-	</p>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-		</ol>
-	</p>
-	</statement>
-	<solution>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					
-				</p>
-			</li>
-			<li>
-				<p>
-					
-				</p>
-			</li>
-		</ol>
-	</p>
-	</solution>
-</exercise>
-
+</subsubsection>
 </exercises>
 </section>

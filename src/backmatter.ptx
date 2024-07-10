@@ -100,11 +100,11 @@
 	</biblio>
 </references>
 
-<!-- <solutions divisional="solution" admit="odd">
+<solutions divisional="solution" admit="odd">
 	<title>Odd Answers</title>
 </solutions>
 
-<solutions divisional="solution" admit="all">
+<!-- <solutions divisional="solution" admit="all">
 	<title>All Answers for Instructors Only</title>
 </solutions> -->
 
