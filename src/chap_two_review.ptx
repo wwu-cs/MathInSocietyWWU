@@ -46,7 +46,7 @@
 				</li>
 				<li>
 					<p>
-						<m>A=1525(1+\frac{0.056}{4})^{4*14}</m>
+						<m>A=1525(1+\frac{0.056}{4})^{4\cdot14}</m>
 					</p>
 					<p>
 						Or, <c>=FV(0.056/4, 4*14, 0, 1525)</c>
@@ -57,7 +57,7 @@
 				</li>
 				<li>
 					<p>
-						<m>A=1525(1+\frac{0.056}{52})^{52*14}</m>
+						<m>A=1525(1+\frac{0.056}{52})^{52\cdot14}</m>
 					</p>
 					<p>
 						Or, <c>=FV(0.056/52, 52*14, 0, 1525)</c>
@@ -68,7 +68,7 @@
 				</li>
 				<li>
 					<p>
-						<m>A=1525e^{0.056*14}</m>
+						<m>A=1525e^{0.056\cdot14}</m>
 					</p>
 					<p>
 						Or, <c>=1525*EXP(0.056*14)</c>
@@ -109,7 +109,7 @@
 		</statement>
 		<solution>
 			<p>
-				<m>A=25000(1+\frac{0.065}{4})^{4*15}</m>
+				<m>A=25000(1+\frac{0.065}{4})^{4\cdot15}</m>
 			</p>
 			<p>
 				<m>I=65761.77-25000=40761.77</m>
@@ -161,27 +161,27 @@
 			<ol marker="a.">
 				<li>
 					<p>
-						<m>A=3.49e^{0.0292*10}</m>. Or, <c>=3.49*EXP(0.0292*10)</c>. The cost of gas would be $4.67.
+						<m>A=3.49e^{0.0292\cdot10}</m>. Or, <c>=3.49*EXP(0.0292*10)</c>. The cost of gas would be $4.67.
 					</p>
 				</li>
 				<li>
 					<p>
-						<m>A=1.99e^{0.0292*10}</m>. Or, <c>=1.99*EXP(0.0292*10)</c>. The cost of eggs would be $2.66.
+						<m>A=1.99e^{0.0292\cdot10}</m>. Or, <c>=1.99*EXP(0.0292*10)</c>. The cost of eggs would be $2.66.
 					</p>
 				</li>
 				<li>
 					<p>
-						<m>A=3.29e^{0.0292*10}</m>. Or, <c>=3.29*EXP(0.0292*10)</c>. The cost of bread would be $4.41.
+						<m>A=3.29e^{0.0292\cdot10}</m>. Or, <c>=3.29*EXP(0.0292*10)</c>. The cost of bread would be $4.41.
 					</p>
 				</li>
 				<li>
 					<p>
-						<m>A=79.99e^{0.0292*10}</m>. Or, <c>=79.99*EXP(0.0292*10)</c> The cell phone bill would be $107.11.
+						<m>A=79.99e^{0.0292\cdot10}</m>. Or, <c>=79.99*EXP(0.0292*10)</c> The cell phone bill would be $107.11.
 					</p>
 				</li>
 				<li>
 					<p>
-						<m>A=1.99e^{0.0292*10}</m>. Or, <c>=1.99*EXP(0.0292*10)</c> The cost of a song download would be $2.66.
+						<m>A=1.99e^{0.0292\cdot10}</m>. Or, <c>=1.99*EXP(0.0292*10)</c> The cost of a song download would be $2.66.
 					</p>
 				</li>
 			</ol>
@@ -252,7 +252,7 @@
 			<ol marker="a.">
 				<li>
 					<p>
-						<m>A= \frac{350((1+\frac{0.065}{12})^{12*25}-1)}{\frac{0.065}{12}}</m>
+						<m>A= \frac{350((1+\frac{0.065}{12})^{12\cdot25}-1)}{\frac{0.065}{12}}</m>
 					</p>
 					<p>
 						Or, <c>=FV(0.065/12, 12*25, 350, 0)</c>
@@ -263,7 +263,7 @@
 				</li>
 				<li>
 					<p>
-						<m>A= \frac{500((1+\frac{0.065}{4})^{4*15}-1)}{\frac{0.065}{4}}</m>
+						<m>A= \frac{500((1+\frac{0.065}{4})^{4\cdot15}-1)}{\frac{0.065}{4}}</m>
 					</p>
 					<p>
 						Or, <c>=FV(0.065/4, 4*15, 500, 0)</c>
@@ -274,7 +274,7 @@
 				</li>
 				<li>
 					<p>
-						<m>A= \frac{75((1+\frac{0.045}{52})^{52*30}-1)}{\frac{0.045}{52}}</m>
+						<m>A= \frac{75((1+\frac{0.045}{52})^{52\cdot30}-1)}{\frac{0.045}{52}}</m>
 					</p>
 					<p>
 						Or, <c>=FV(0.045/52, 52*30, 75, 0)</c>
@@ -295,7 +295,7 @@
 			<ul>
 				<li>
 					<p>
-						House 1: John's Landing Townhouse:  $299,900
+						House 1: John's Landing Townhouse: $299,900
 					</p>
 				</li>
 				<li>
@@ -308,7 +308,7 @@
 		</statement>
 		<solution>
 			<p>
-				House 1: <m>D = \frac{239920\frac{0.05}{12}}{(1-(1+\frac{0.05}{12}^{-12*30}))}</m>
+				House 1: <m>D = \frac{239920\frac{0.05}{12}}{(1-(1+\frac{0.05}{12}^{-12\cdot30}))}</m>
 			</p>
 			<p>
 				<c>=PMT(0.05/12, 12*30, 239920, 0)</c>
@@ -317,7 +317,7 @@
 				Monthly payment $9,996.67, Total Paid $463,658.40, Interest Paid $223,738.40
 			</p>
 			<p>
-				House 2: <m>D = \frac{311920\frac{0.05}{12}}{(1-(1+\frac{0.05}{12}^{-12*30}))}</m>
+				House 2: <m>D = \frac{311920\frac{0.05}{12}}{(1-(1+\frac{0.05}{12}^{-12\cdot30}))}</m>
 			</p>
 			<p>
 				<c>=PMT(0.05/12, 12*30, 3119200, 0)</c>

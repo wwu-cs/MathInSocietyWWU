@@ -48,10 +48,10 @@
 <subsection>
 <title>A Very Brief History of Taxes</title>
 	<p>
-		Although Benjamin Franklin famously claimed in 1789 that “in this world nothing can be said to be certain, except death and taxes”, it wasn't until 1913 that the 16th amendment was ratified, and income tax was legalized. Prior to this, taxes were primarily collected through tariffs on imported goods, poll taxes, and property taxes. A <alert>poll tax</alert>, also referred to as a head tax, was a fixed amount every liable individual had to pay. Payment of the poll tax was often required before a person could register to vote or be issued a hunting or fishing license. 
+		Although Benjamin Franklin famously claimed in 1789 that “in this world nothing can be said to be certain, except death and taxes”, it wasn't until 1913 that the 16th amendment was ratified, and income tax was legalized. Prior to this, taxes were primarily collected through tariffs on imported goods, poll taxes, and property taxes. A <alert>poll tax</alert>, also referred to as a head tax, was a fixed amount every liable individual had to pay. Payment of the poll tax was often required before a person could register to vote or be issued a hunting or fishing license.
 	</p>
 	<p>
-		Tax policy in the United States is a politically divisive issue. In general, Democrats seek to lower taxes for low and middle income earners and raise taxes for the wealthy, while Republicans support a variety of tax cuts and limiting the amount wealthy earners are taxed. There is even debate as to the current length of the tax code! Some claim that the code is over 70,000 pages while others insist it is just over 2,000. Nevertheless, there is at least one thing everyone can agree with - you don't want to be on the wrong side of the Internal Revenue Service (IRS)! 
+		Tax policy in the United States is a politically divisive issue. In general, Democrats seek to lower taxes for low and middle income earners and raise taxes for the wealthy, while Republicans support a variety of tax cuts and limiting the amount wealthy earners are taxed. There is even debate as to the current length of the tax code! Some claim that the code is over 70,000 pages while others insist it is just over 2,000. Nevertheless, there is at least one thing everyone can agree with - you don't want to be on the wrong side of the Internal Revenue Service (IRS)!
 	</p>
 </subsection>
 <subsection>
@@ -63,7 +63,7 @@
 <subsection>
 	<title>Federal Income Tax</title>
 	<p>
-		Anyone who earns income over a certain amount (approximately $10,000 for an individual) must file a federal tax return and have taxes collected on their behalf. The amount of federal tax owed is determined by your <alert>filing status</alert> and <alert>taxable income</alert>. 
+		Anyone who earns income over a certain amount (approximately $10,000 for an individual) must file a federal tax return and have taxes collected on their behalf. The amount of federal tax owed is determined by your <alert>filing status</alert> and <alert>taxable income</alert>.
 	</p>
 </subsection>
 <subsection>
@@ -95,13 +95,13 @@
 	<title>Gross Income</title>
 	<p>
 		<alert>Gross income</alert> includes all wages, tips, earned interest, dividends, rents and royalties, alimony, property gains, income tax refunds, etc. Keep in mind that ALL income means ALL income. Even income earned from a crime must be reported!
-	</p> 
+	</p>
 </subsection>
 
 <subsection>
 	<title>Adjusted Gross Income</title>
 	<p>
-		<alert>Adjustments</alert> are eligible expenses used to reduce your gross income. Adjustments are tax-exempt and thus reduce the amount owed in taxes. Eligible expenses include contributions to tax deferred savings plans (401k, Individual Retirement Plan (IRA)), school tuition, student loan interest, moving expenses, business expenses, flexible spending accounts and health savings account contributions. 
+		<alert>Adjustments</alert> are eligible expenses used to reduce your gross income. Adjustments are tax-exempt and thus reduce the amount owed in taxes. Eligible expenses include contributions to tax deferred savings plans (401k, Individual Retirement Plan (IRA)), school tuition, student loan interest, moving expenses, business expenses, flexible spending accounts and health savings account contributions.
 	</p>
 </subsection>
 <subsection>
@@ -124,13 +124,13 @@
 			To calculate Sasha's adjusted gross income, we need to first determine his gross income. His gross income includes his wages and earned interest:
 		</p>
 		<p>
-			Gross Income <m>=\$45,000+\$1,300=\$46,300</m>
+			Gross Income <m>=\$45{,}000+\$1{,}300=\$46{,}300</m>
 		</p>
 		<p>
 			To find his adjusted gross income, we need to subtract eligible adjustments from his gross income. His eligible adjustments include the interest paid on his student loans, and his contributions to his IRA:
 		</p>
 		<p>
-			Adjusted Gross Income <m>=\$46,300-\$1,400-\$4,000=\$40,900</m>
+			Adjusted Gross Income <m>=\$46{,}300-\$1{,}400-\$4{,}000=\$40{,}900</m>
 		</p>
 	</example>
 </subsection>
@@ -213,7 +213,7 @@
 			Maria's gross income includes her wages, tips, and earned interest.
 		</p>
 		<p>
-			Gross Income = $32,400 + $8,300 + $95 = $40,795 
+			Gross Income = $32,400 + $8,300 + $95 = $40,795
 		</p>
 		<p>
 			Maria can use her 401k contribution as an adjustment.
@@ -222,7 +222,7 @@
 			Adjusted Gross Income = $40,795 - $3,500 = $37,295
 		</p>
 		<p>
-			Since Maria is unmarried and is the primary caregiver for her daughter, she can file as the head of household and take the standard deduction of $18,000. 
+			Since Maria is unmarried and is the primary caregiver for her daughter, she can file as the head of household and take the standard deduction of $18,000.
 		</p>
 		<p>
 			Taxable Income = $37,295 - $18,000 = $19,295
@@ -254,7 +254,7 @@
 			<title>2024 Tax Year Marginal Tax Rates</title>
 	<tabular top="minor" left="minor" right="minor" bottom="minor">
 		<row header="yes">
-			<cell><line>Marginal Tax Rate</line><line>On Taxable Income</line></cell>
+			<cell><line>Marginal</line><line>Tax Rate</line><line>On</line><line>Taxable</line><line>Income</line></cell>
 			<cell>Filing Single</cell>
 			<cell><line>Filing as Head</line><line>of Household</line></cell>
 			<cell><line>Married filing</line><line>Jointly</line></cell>
@@ -325,20 +325,20 @@
 			<p>
 				We begin with the lowest tax bracket and take 10% of $11,600. Since their income is higher than that, we add 12% of the next amount, found by subtracting the values in that bracket. Avery's taxable income is in the 22% tax bracket, so we find the amount over $38,700 by subtracting. Here is the full calculation:
 			</p>
-			<!-- TODO: test -->
 			<p>
+				<m>0.10(\$11{,}600)+0.12(\$47{,}150-11{,}600)+0.22(\$55{,}100-47{,}150)</m>
 				<md>
-					<mrow>0.10(\$11,600)+0.12(\$47,150-\$11,600)+0.22(\$55,100-\$47,150)\amp=0.10(\$11,600)+0.12(\$35,550)+0.22(\$7,950)</mrow>
-					<mrow>\amp=\$1160+\$4,266+\$1,749</mrow>
-					<mrow>\amp=\$5,426+\$1,749</mrow>
-					<mrow>\amp=\$7,175</mrow>
+					<mrow>\amp=0.10(\$11{,}600)+0.12(\$5{,}550)+0.22(\$7{,}950)</mrow>
+					<mrow>\amp=\$1{,}160+4,\$266+\$1{,}749</mrow>
+					<mrow>\amp=\$5{,}426+\$1{,}749</mrow>
+					<mrow>\amp=\$7{,}175</mrow>
 				</md>
 			</p>
 			<p>
 				Avery would owe $7,175 in taxes. Note that their overall tax rate is somewhere between 10% and 22%. We can calculate the actual rate by dividing their tax owed by their taxable income:
 			</p>
 			<p>
-				<m>\frac{\$7,175}{\$55,100}=0.1302</m> or about 13%
+				<m>\frac{\$7{,}175}{\$55{,}100}=0.1302</m> or about 13%
 			</p>
 		</solution>
 </example>
@@ -512,14 +512,14 @@
 			We will calculate Adira's taxes first the long way:
 		</p>
 		<p>
-			<m>0.10(\$16,650)+0.12(\$63,100-\$16,650)+0.22(\$100,500-\$63,100)+0.24(\$106,450-\$100,500)</m>
+			<m>0.10(\$16{,}650)+0.12(\$63{,}100-\$16{,}650)+0.22(\$100{,}500-\$63{,}100)+0.24(\$106{,}450-\$100{,}500)</m>
 		</p>
 		<p>
 			<md><!-- try this example with another filing status to see if it comes out exact -->
-				<mrow>\amp=0.10(\$16,650)+0.12(\$46,450)+0.22(\$37,400)+0.24(\$5,950)</mrow>
-				<mrow>\amp=\$1,665+\$5,574+\$8,228+\$1,428</mrow>
-				<mrow>\amp=\$15,467+\$1,428</mrow>
-				<mrow>\amp=\$16,895</mrow>
+				<mrow>\amp=0.10(\$16{,}650)+0.12(\$46{,}450)+0.22(\$37{,}400)+0.24(\$5{,}950)</mrow>
+				<mrow>\amp=\$1{,}665+\$5{,}574+\$8{,}228+\$1{,}428</mrow>
+				<mrow>\amp=\$15{,}467+\$1{,}428</mrow>
+				<mrow>\amp=\$16{,}895</mrow>
 			</md>
 		</p>
 		<p>
@@ -527,9 +527,9 @@
 		</p>
 		<p>
 			<md>
-				<mrow>\$15,469+0.24(\$106,450-\$100,500)\amp=\$15,469+0.24(\$1,428)</mrow>
-				<mrow>\amp=\$15,469+\$1,428</mrow>
-				<mrow>\amp=\$16,897</mrow>
+				<mrow>\$15{,}469+0.24(\$106{,}450-\$100{,}500)\amp=\$15{,}469+0.24(\$1{,}428)</mrow>
+				<mrow>\amp=\$15{,}469+\$1{,}428</mrow>
+				<mrow>\amp=\$16{,}897</mrow>
 			</md>
 		</p>
 		<p>
@@ -550,9 +550,9 @@
 		</p>
 		<p>
 			<md>
-				<mrow>\$10,852+0.22(\$132,000-\$94,300)\amp=\$10,852+0.22(\$37,700)</mrow>
-				<mrow>\amp=\$10,852+\$8,294</mrow>
-				<mrow>\amp=\$19,146</mrow>
+				<mrow>\$10{,}852+0.22(\$132{,}000-\$94{,}300)\amp=\$10{,}852+0.22(\$37{,}700)</mrow>
+				<mrow>\amp=\$10{,}852+\$8{,}294</mrow>
+				<mrow>\amp=\$19{,}146</mrow>
 			</md>
 		</p>
 		<p>
@@ -592,7 +592,7 @@
 	<example>
 		<statement>
 		<p>
-			John's taxes are $4,342.50. He can claim an American opportunity tax credit of $2,300 and he had $4,135 withheld from his paychecks. Determine if John will owe money or get a refund.
+			John's taxes are $4,342.50. He can claim an American opportunity tax credit of $2,300 and he had $3,135 withheld from his paychecks. Determine if John will owe money or get a refund.
 		</p>
 		</statement>
 		<solution>
@@ -600,14 +600,14 @@
 			The first step is to reduce John's taxes by the full amount of the tax credit.
 		</p>
 		<p>
-			<m>\$4,342.50-\$2,300=\$3,042.50</m>
+			<m>\$4{,}342.50-\$2{,}300=\$2{,}042.50</m>
 		</p>
 
 		<p>
 			Next we subtract the amount withheld from his paychecks by his employer. Since his withholdings are greater than the amount he owes after applying the tax credit, he will receive a refund equal to the difference.
 		</p>
 		<p>
-			<m>\$3,042.50-\$4,135=-\$1,092.50</m>
+			<m>\$2{,}042.50-\$3{,}135=-\$1{,}092.50</m>
 		</p>
 		<p>
 			John will receive a refund of $1,092.50. Notice that having a negative amount after subtracting credits and withholdings means you will receive a refund, while having a positive amount means you still owe money.
@@ -626,13 +626,13 @@
 			To determine whether they will receive a refund or if they will still owe money, we will first subtract the full amount of the electric car credit.
 		</p>
 		<p>
-			<m>\$19,146-\$8,500=\$10,646</m>
+			<m>\$19{,}146-\$8{,}500=\$10{,}646</m>
 		</p>
 		<p>
 			We now subtract their withholdings:
 		</p>
 		<p>
-			<m>\$10,646-\$9,905=\$741</m>
+			<m>\$10{,}646-\$9{,}905=\$741</m>
 		</p>
 		<p>
 			Since the value is positive, Phyllis and Gladys still owe $741 in taxes.
@@ -798,7 +798,7 @@
 			$90,000 falls into the third tax bracket. The first two brackets resulted in $5,426 and the third bracket has the excess over $47,150 being taxed at the higher rate of 22%. This results in a tax of $13,539.50.
 		</p>
 		<p>
-			<m>5426+0.22*(90000-47150)=\$14,853</m>
+			<m>5426+0.22*(90000-47150)=\$14{,}853</m>
 		</p>
 	</solution>
 </exercise>
@@ -893,7 +893,7 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					Take the income minus the adjustments <m>135000-5600=\$129,400</m>. Their adjusted gross income is $129,400.
+					Take the income minus the adjustments <m>135000-5600=\$129{,}400</m>. Their adjusted gross income is $129,400.
 				</p>
 			</li>
 			<li>
@@ -906,7 +906,7 @@
 					Taxable income: <m>129400-29200=100200</m>
 				</p>
 				<p>
-					Taxes owed: <m>10852+0.22*(100200-94300)=\$12,150</m>
+					Taxes owed: <m>10852+0.22*(100200-94300)=\$12{,}150</m>
 				</p>
 				<p>
 					They owe $12,150 in taxes.
@@ -914,7 +914,7 @@
 			</li>
 			<li>
 				<p>
-					<m>12150-15000=-\$2,850</m> Take the taxes owed minus credits and withholdings. They will receive a refund for $2,850. 
+					<m>12150-15000=-\$2{,}850</m> Take the taxes owed minus credits and withholdings. They will receive a refund for $2,850. 
 				</p>
 			</li>
 		</ol>
@@ -983,29 +983,29 @@
 			<ul>
 				<li>
 					<p>
-						Francis: Taxable Income <m>45000-8000-14600 = \$22,400</m>
+						Francis: Taxable Income <m>45000-8000-14600 = \$22{,}400</m>
 					</p>
 				</li>
 				<li>
 					<p>
-						Tax from Table: <m> 1160+0.12*(22400-11600) = \$2,456</m> 
+						Tax from Table: <m> 1160+0.12*(22400-11600) = \$2{,}456</m> 
 					</p>
 				</li>
 				<li>
 					<p>
-						Owed/Refund: <m>2456 – 3000 - 4000 = -\$4,544</m>
+						Owed/Refund: <m>2456 – 3000 - 4000 = -\$4{,}544</m>
 					</p>
 				</li>
 			</ul>
 			<ul>
 				<li>
 					<p>
-						Edward: Taxable Income <m> 50000-4000-14600 = \$31,400</m>
+						Edward: Taxable Income <m> 50000-4000-14600 = \$31{,}400</m>
 					</p>
 				</li>
 				<li>
 					<p>
-						Tax from Table: <m>1160+0.12*(31400-11600) = \$3,536</m> 
+						Tax from Table: <m>1160+0.12*(31400-11600) = \$3{,}536</m> 
 					</p>
 				</li>
 				<li>
@@ -1016,24 +1016,24 @@
 			</ul>
 		</p>
 		<p>
-			Altogether, they will get a <m>4544 + 964 = \$5,508</m> refund.
+			Altogether, they will get a <m>4544 + 964 = \$5{,}508</m> refund.
 		</p>
 		<p>
 			MARRIED CASE:
 			<ul>
 				<li>
 					<p>
-						Taxable income: <m>(45000+50000) – (8000+4000) – 29200 = \$53,800</m>
+						Taxable income: <m>(45000+50000) – (8000+4000) – 29200 = \$53{,}800</m>
 					</p>
 				</li>
 				<li>
 					<p>
-						Tax from Table: <m>2320 + 0.12*(53800-23200) = \$5,992</m>
+						Tax from Table: <m>2320 + 0.12*(53800-23200) = \$5{,}992</m>
 					</p>
 				</li>
 				<li>
 					<p>
-						Owed/Refund: <m>5992 – (3000 + 3500) – (4000+1000) = -\$5,508</m>
+						Owed/Refund: <m>5992 – (3000 + 3500) – (4000+1000) = -\$5{,}508</m>
 					</p>
 				</li>
 			</ul>
@@ -1084,12 +1084,12 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					Gross Income: <m> 96000+850 = \$96,850</m>
+					Gross Income: <m> 96000+850 = \$96{,}850</m>
 				</p>
 			</li>
 			<li>
 				<p>
-					Adjusted Gross Income: <m> 96850-26000 = \$70,850</m>
+					Adjusted Gross Income: <m> 96850-26000 = \$70{,}850</m>
 				</p>
 			</li>
 			<li>
@@ -1099,12 +1099,12 @@
 			</li>
 			<li>
 				<p>
-					Taxable Income: <m> 70850-22600 = \$48,250 </m>
+					Taxable Income: <m> 70850-22600 = \$48{,}250 </m>
 				</p>
 			</li>
 			<li>
 				<p>
-					Tax from Table: <m>1665 + 0.12*(48250 - 16650) = \$5,457</m>. Owed/Refund: <m> 5457 – 4000 – 5300 = - \$3,843</m>
+					Tax from Table: <m>1665 + 0.12*(48250 - 16650) = \$5{,}457</m>. Owed/Refund: <m> 5457 – 4000 – 5300 = - \$3{,}843</m>
 				</p>
 				<p>
 					Janice will receive a refund for $3,843.

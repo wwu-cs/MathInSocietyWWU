@@ -44,14 +44,14 @@
 	</p>
 	<figure>
 		<caption>Alternative Video Lesson</caption>
-		<video youtube="" label="video-logic-everyday-life"/>
+		<video youtubeplaylist="PLsFUxEAXGFKT-hHmDrXV6yeIswhRvFopZ" label="video-logic-everyday"/>
 	</figure>
 </introduction>
 
 <subsection>
 <title>Logic</title>
 	<p>
-		<term>Logic</term> is the study of reasoning. Our goal in this chapter is to examine arguments to determine their validity and soundness. In this section we will look at propositions and logical connectors that are the building blocks of arguments. We will also use truth tables to help us examine complex statements.
+		<term>Logic</term> is the study of reasoning. Our goal in this section is to look at propositions, logical connectors and statements that are used in everyday life and examine their meaning.
 	</p>
 </subsection>
 
@@ -90,7 +90,7 @@
 		</statement>
 		<solution>
 		<p>
-			The first and second items are propositions. The third one is a question and the fourth is a phrase, so they are not. We are not concerned right now about whether a statement is true or false. We will come back to that later when we examine full arguments.
+			The first and second items are propositions. The third one is a question and the fourth is a phrase, so they are not. We are not concerned right now about whether a statement is true or false. We will come back to that later when we look at compound statements.
 		</p>
 		</solution>
 	</example>
@@ -269,6 +269,16 @@
 		<ol marker="a">
 			<li>
 				<p>
+					Six is an even number and Salem is the capital of Oregon.
+				</p>
+			</li>
+			<li>
+				<p>
+					Six is an even number or Salem is the capital of Oregon.
+				</p>
+			</li>
+			<li>
+				<p>
 					Guitars have strings and cats do not have whiskers.
 				</p>
 			</li>
@@ -287,16 +297,6 @@
 					Whales are not mammals or spiders have ten legs.
 				</p>
 			</li>
-			<li>
-				<p>
-					Six is an even number and Salem is the capital of Oregon.
-				</p>
-			</li>
-			<li>
-				<p>
-					Six is an even number or Salem is the capital of Oregon.
-				</p>
-			</li>
 		</ol>
 		</p>
 		</statement>
@@ -305,12 +305,22 @@
 			<ol marker="a">
 				<li>
 					<p>
+						True. Six is even and Salem is the capital of Oregon. Since both parts are true, the <q>and</q> statement is true.
+					</p>
+				</li>
+				<li>
+					<p>
+						True. Since both parts are true, the <q>or</q> statement is true.
+					</p>
+				</li>
+				<li>
+					<p>
 						False. Guitars have strings but cats do have whiskers. Both statements must be true for an <q>and</q> statement to be true.
 					</p>
 				</li>
 				<li>
 					<p>
-						True. Since one of the parts is true, the <q>or</q> statement is true.
+						True. Since the first part is true, the <q>or</q> statement is true.
 					</p>
 				</li>
 				<li>
@@ -321,16 +331,6 @@
 					<li>
 					<p>
 						False. Neither of the parts are true, so the <q>or</q> statement is false.
-					</p>
-				</li>
-				<li>
-					<p>
-						True. Six is even and Salem is the capital of Oregon. Since both parts are true, the <q>and</q> statement is true.
-					</p>
-				</li>
-				<li>
-					<p>
-						True. Since both parts are true, the <q>or</q> statement is true.
 					</p>
 				</li>
 			</ol>
@@ -386,10 +386,10 @@
 		A <term>conditional</term> statement connects two propositions with <em>if, then</em>. An example of a conditional statement would be <q><em>If</em> it is raining, <em>then</em> we'll go to the mall.</q> The first part (the <q><em>if</em></q> part) is called the <term>hypothesis</term> and the second part (the <q><em>then</em></q> part) is called the <term>conclusion</term>.
 	</p>
 	<p>
-		The statement, <q>It is raining,</q> may be true or false for any given day. If the condition is true, then we will follow the course of action and go to the mall. If the condition is false, though, we haven't said anything about what we will or won't do.
+		The statement, <q>It is raining,</q> may be true or false for any given day. If the hypothesis is true, then we will follow the course of action and go to the mall. If the hypothesis is false, though, we haven't said anything about what we will or won't do.
 	</p>
 	<p>
-	 	To understand the truth values for a conditional statement it is helpful to look at an example. Let's say a friend tells you, <q>If you post that photo to Facebook, you'll lose your job.</q> Under what conditions can you say that your friend was wrong?
+	 	To understand the truth values for a conditional statement it is helpful to look at an example. Let's say a friend tells you, <q>If you post that photo on social media, you'll lose your job.</q> Under what conditions can you say that your friend was wrong?
 	</p>
 	<p>
 	 	There are four possible outcomes:
@@ -417,13 +417,13 @@
 	 	</ol>
 	</p>
 	<p>
-	 	The only case where you can say your friend was wrong is the second case, in which you post the photo but still keep your job.
+	 	The only case where you can say your friend was wrong is the second case, in which you post the photo but still keep your job. This is the only time when a conditional statement is false.
 	</p>
 	<p>
 	 	Your friend didn't say anything about what would happen if you didn't post the photo, so you can't say the last two statements are wrong. Even if you didn't post the photo and lost your job anyway, your friend never said that you were guaranteed to keep your job if you didn't post it.
 	</p>
 	<p>
-		In this case it can be useful to outline the possibilities and outcomes in a table. The four cases above correspond to the four rows of the truth table. For this table we will use P for <q>posting the photo,</q> and L for <q>losing your job.</q>
+		In this case it can be useful to outline the possibilities and outcomes in a table. The four cases above correspond to the four rows of a truth table. If your class is using truth tables they are covered in a later section. For this table we will use P for <q>posting the photo,</q> and L for <q>losing your job.</q>
 	</p>
 		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
 			<row header="yes">
@@ -579,7 +579,7 @@
 <subsection>
 	<title>Logical Equivalence</title>
 	<p>
-		And and or statments can have their propositions reversed without affecting the truth value of the statement. If you need to buy bacon and eggs, that's the same as buying eggs and bacon. The order does matter for a conditional statement, though. Sometimes during an argument, an <em>if, then</em> statement will be reversed or combined with <em>not</em> in different ways. There are names for the combinations and it is helpful to look at which statements are equivalent to each other. Here are the names for the different combinations of an if, then and not statements.
+		<em>And</em> and <em>or</em> statments can have their propositions reversed without affecting the truth value of the statement. If you need to buy bacon <em>and</em> eggs, that's the same as buying eggs <em>and</em> bacon. The order does matter for a conditional statement, though. Sometimes during an argument, an <em>if, then</em> statement will be reversed or combined with <em>not</em> in different ways. There are names for the combinations and it is helpful to look at which statements are equivalent to each other. Here are the names for the different combinations of <em>if, then</em> and <em>not</em> statements.
 	</p>
 	<p>
 		
@@ -621,12 +621,17 @@
 			<ul>
 				<li>
 					<p>
+						Original Statement: p is, <q>You take your dog to the park,</q> and q is, <q>Your dog is happy.</q>
+					</p>
+				</li>
+				<li>
+					<p>
 						Converse: <q>If your dog is happy, then you took them to the park.</q> Notice we needed to change the tense to keep the order of events the same. If your dog is happy does that mean you took them to the park? Not necessarily, because there are other reasons your dog could be happy like getting a treat or taking a walk. So this is false.
 					</p>
 				</li>
 				<li>
 					<p>
-						Inverse: <q>If you don't take your dog to the park, they will not be happy.</q> This is similar to the converse. Even if you don't take your dog to the park, they could be happy for another reason. This is false. The inverse is logically equivalent to the converse.
+						Inverse: <q>If you don't take your dog to the park, they will not be happy.</q> This is similar to the converse. Even if you don't take your dog to the park, they could be unhappy for another reason. This is false. The inverse is logically equivalent to the converse.
 					</p>
 				</li>
 				<li>

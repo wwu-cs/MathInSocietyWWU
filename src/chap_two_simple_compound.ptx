@@ -746,7 +746,7 @@
 			<m>t = 18</m>, since we know the balance in 18 years
 		</p>
 		<p>
-			<m>A = \$40,000</m>, the amount we have in 18 years
+			<m>A = \$40{,}000</m>, the amount we have in 18 years
 		</p>
 		<p>
 			In this case, we're going to have to set up the equation, and solve for P.
@@ -1163,7 +1163,7 @@
 				<p>
 				<md>
 					<mrow>A\amp=1000+1000(0.025)(5)</mrow>
-					<mrow>\amp=\$1125</mrow>
+					<mrow>\amp=\$1{,}125</mrow>
 				</md>
 				</p>
 			</li>
@@ -1200,7 +1200,7 @@
 				<p>
 				<md>
 					<mrow>A\amp=20000+20000(0.05)(10)</mrow>
-					<mrow>\amp=\$30,000</mrow>
+					<mrow>\amp=\$30{,}000</mrow>
 				</md>
 				</p>
 			</li>
@@ -1208,7 +1208,7 @@
 				<p>
 				<md>
 					<mrow>A\amp=20000(1+0.05)^{10}</mrow>
-					<mrow>\amp=\$32,577.89</mrow>
+					<mrow>\amp=\$32{,}577.89</mrow>
 				</md>
 				</p>
 			</li>
@@ -1230,7 +1230,7 @@
 		<p>
 		<md>
 			<mrow>A\amp=4500\left(1+\frac{0.085}{12}\right)^{12*20}</mrow>
-			<mrow>\amp=\$24,485.59</mrow>
+			<mrow>\amp=\$24{,}485.59</mrow>
 		</md>
 		</p>
 		<p>
@@ -1252,7 +1252,7 @@
 		<p>
 		<md>
 			<mrow>A\amp=1000\left(1+\frac{0.07}{52}\right)^{52*20}</mrow>
-			<mrow>\amp\approx \$4051.38</mrow>
+			<mrow>\amp\approx \$4{,}051.38</mrow>
 		</md>
 		</p>
 		<p>
@@ -1296,7 +1296,7 @@
 				<p>
 				<md>
 					<mrow>A\amp=3000\left(1+\frac{0.03}{4}\right)^{4*5}</mrow>
-					<mrow>\amp\approx \$3,483.55</mrow>
+					<mrow>\amp\approx \$3{,}483.55</mrow>
 				</md>
 				</p>
 				<p>
@@ -1436,7 +1436,7 @@
 				<p>
 				<md>
 					<mrow>A\amp=2000\left(1+\frac{0.03}{12}\right)^{12*20}</mrow>
-					<mrow>\amp\approx \$3,641.51</mrow>
+					<mrow>\amp\approx \$3{,}641.51</mrow>
 				</md>
 				</p>
 				<p>
@@ -1518,7 +1518,7 @@
 				<p>
 				<md>
 					<mrow>A\amp=10000\left(1+\frac{0.04}{52}\right)^{52*25}</mrow>
-					<mrow>\amp\approx \$27,172.37</mrow>
+					<mrow>\amp\approx \$27{,}172.37</mrow>
 				</md>
 				</p>
 				<p>
@@ -1532,7 +1532,7 @@
 				<p>
 				<md>
 					<mrow>I\amp=27172.37-10000</mrow>
-					<mrow>\amp=\$17,172.37</mrow>
+					<mrow>\amp=\$17{,}172.37</mrow>
 				</md>
 				</p>
 				<p>
@@ -1573,7 +1573,7 @@
 		<p>
 		<md>
 			<mrow>P\amp=\frac{6000}{\left(1+\frac{0.06}{12}\right)^{12*8}}</mrow>
-			<mrow>\amp\approx \$3,717.14</mrow>
+			<mrow>\amp\approx \$3{,}717.14</mrow>
 		</md>
 		</p>
 		<p>
@@ -1594,7 +1594,7 @@
 		<p>
 		<md>
 			<mrow>P\amp=\frac{20000}{\left(1+\frac{0.05}{4}\right)^{4*4}}</mrow>
-			<mrow>\amp\approx \$16,394.79</mrow>
+			<mrow>\amp\approx \$16{,}394.79</mrow>
 		</md>
 		</p>
 		<p>
@@ -1637,7 +1637,7 @@
 				<p>
 				<md>
 					<mrow>A_{Breylan} \amp= 1200\left(1+\frac{0.046}{52}\right)^{52*15}</mrow>
-					<mrow>\amp\approx \$2,391.73</mrow>
+					<mrow>\amp\approx \$2{,}391.73</mrow>
 				</md>
 				</p>
 				<p>
@@ -1646,7 +1646,7 @@
 				<p>
 				<md>
 					<mrow>A_{Angad} \amp= 1200\left(1+\frac{0.0455}{52}\right)^{52*15}</mrow>
-					<mrow>\amp\approx \$2,373.87</mrow>
+					<mrow>\amp\approx \$2{,}373.87</mrow>
 				</md>
 				</p>
 				<p>
@@ -1660,7 +1660,7 @@
 				<p>
 				<md>
 					<mrow>A_{Breylan} \amp= 1200\left(1+\frac{0.046}{52}\right)^{52*30}</mrow>
-					<mrow>\amp\approx \$4,766.97</mrow>
+					<mrow>\amp\approx \$4{,}766.97</mrow>
 				</md>
 				</p>
 				<p>
@@ -1669,7 +1669,7 @@
 				<p>
 				<md>
 					<mrow>A_{Angad} \amp= 1200\left(1+\frac{0.0455}{52}\right)^{52*30}</mrow>
-					<mrow>\amp\approx \$4,696.06</mrow>
+					<mrow>\amp\approx \$4{,}696.06</mrow>
 				</md>
 				</p>
 				<p>
@@ -1719,14 +1719,14 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					Bill <c>=EFFECT(0.0375,12)</c> <m>=3.82%</m> and Ted <c>=EFFECT(0.038,1)</c> =3.8%. Bill has an effective rate of 3.82% and Ted has a rate of 3.8%.
+					Bill <c>=EFFECT(0.0375,12)</c> <m>=3.82\%</m> and Ted <c>=EFFECT(0.038,1)</c> =3.8%. Bill has an effective rate of 3.82% and Ted has a rate of 3.8%.
 				</p>
 			</li>
 			<li>
 				<p>
 				<md>
 					<mrow>A\amp=6700\left(1+\frac{0.0375}{12}\right)^{12*5}</mrow>
-					<mrow>\amp\approx \$8,079.38</mrow>
+					<mrow>\amp\approx \$8{,}079.38</mrow>
 				</md>
 				</p>
 				<p>
@@ -1735,7 +1735,7 @@
 				<p>
 				<md>
 					<mrow>A\amp=6500\left(1+\frac{0.038}{1}\right)^{1*5}</mrow>
-					<mrow>\amp\approx \$7,832.49</mrow>
+					<mrow>\amp\approx \$7{,}832.49</mrow>
 				</md>
 				</p>
 				<p>
@@ -1781,7 +1781,7 @@
 				<p>
 				<md>
 					<mrow>A\amp=5000\left(1+\frac{0.0345}{4}\right)^{4*10}</mrow>
-					<mrow>\amp\approx \$7,049.51</mrow>
+					<mrow>\amp\approx \$7{,}049.51</mrow>
 				</md>
 				</p>
 				<p>
@@ -1790,7 +1790,7 @@
 				<p>
 				<md>
 					<mrow>A\amp=5000\left(1+\frac{0.034}{365}\right)^{365*10}</mrow>
-					<mrow>\amp\approx \$7,024.63</mrow>
+					<mrow>\amp\approx \$7{,}024.63</mrow>
 				</md>
 				</p>
 				<p>
@@ -1836,14 +1836,14 @@
 				<p>
 				<md>
 					<mrow>A\amp=2500e^{0.04*10}</mrow>
-					<mrow>\amp\approx \$3,729.56</mrow>
+					<mrow>\amp\approx \$3{,}729.56</mrow>
 				</md>
 				</p>
 				<p>
 					Or, <c>2500*EXP(0.04*10)</c>
 				</p>
 				<p>
-					The account balance is $3,729.56.
+					The account balance is $3{,}729.56.
 				</p>
 			</li>
 			<li>
@@ -1903,7 +1903,7 @@
 				<p>
 				<md>
 					<mrow>A\amp= 1000e^{0.0575*15}</mrow>
-					<mrow>\amp\approx \$2,369.08</mrow>
+					<mrow>\amp\approx \$2{,}369.08</mrow>
 				</md>
 				</p>
 				<p>
@@ -1917,7 +1917,7 @@
 				<p>
 				<md>
 					<mrow>I \amp= 2368.08-1000</mrow>
-					<mrow>\amp= \$1,368.08</mrow>
+					<mrow>\amp= \$1{,}368.08</mrow>
 				</md>
 				</p>
 				<p>
@@ -1970,7 +1970,7 @@
 				<p>
 				<md>
 					<mrow>A\amp= 5000e^{0.045*5}</mrow>
-					<mrow>\amp\approx \$6,261.61</mrow>
+					<mrow>\amp\approx \$6{,}261.61</mrow>
 				</md>
 				</p>
 				<p>
@@ -1984,7 +1984,7 @@
 				<p>
 				<md>
 					<mrow>I \amp= 6261.61-5000</mrow>
-					<mrow>\amp= \$1,261.61</mrow>
+					<mrow>\amp= \$1{,}261.61</mrow>
 				</md>
 				</p>
 				<p>
@@ -2032,7 +2032,7 @@
 				<p>
 				<md>
 					<mrow>A_{You}\amp=10000e^{0.055*10}</mrow>
-					<mrow>\amp\approx \$17,332.53</mrow>
+					<mrow>\amp\approx \$17{,}332.53</mrow>
 				</md>
 				</p>
 				<p>
@@ -2041,7 +2041,7 @@
 				<p>
 				<md>
 					<mrow>A_{Friend} \amp= 10000(1+\frac{0.055}{1})^{1*10}</mrow>
-					<mrow>\amp\approx \$17,081.44</mrow>
+					<mrow>\amp\approx \$17{,}081.44</mrow>
 				</md>
 				</p>
 				<p>

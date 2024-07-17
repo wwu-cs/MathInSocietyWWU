@@ -34,31 +34,16 @@
 				Calculate multiple percent changes
 			</p>
 		</li>
-		<!-- <li>
-			<p>
-				Identify rates, unit rates and proportions
-			</p>
-		</li>
-		<li>
-			<p>
-				Use unit rates to compare options
-			</p>
-		</li>
-		<li>
-			<p>
-				Solve proportion problems
-			</p>
-		</li> -->
 	</ul>
 </objectives>
 
 <introduction>
 	<figure>
       <caption>Alternative Video Lesson</caption>
-      <video youtube="" label="video-proportional-reasoning"/>
+      <video youtubeplaylist="PLsFUxEAXGFKQqC63ol60LobfkpCadIUS5" label="video-percents"/>
     </figure>
 	<p>
-		Another uesful tool in problem solving and decision making is comparison by division. This section may be review for you, and it may present math in a different light that is more concrete and applied than math you have had previously. Our goal is to examine math problems that are relevant to your life where you can apply your lived experience. Some of these problems involve a trade-off or more than one right answer. First, we will look at percentages, and then rates, ratios and proportional quantities in the next section.
+		Another uesful tool in decision making is comparison by division. This section may be review for you, and it may present math in a different light that is more concrete and applied than math you have had previously. Our goal is to examine math problems that are relevant to your life where you can apply your lived experience. In this section we will look at situations that use percents, absolute change and relative change.
 	</p>
 </introduction>
 
@@ -68,7 +53,10 @@
 			If you went shopping and one shirt was $20 off and another shirt was $30 off it might be hard to tell which is the better value. What if they were 20% off and 30% off? Percentages can make quantities easier to compare.
 		</p>
 		<p>
-			Percent, denoted by %, means “per 100,” or “parts per hundred.” In Spanish it's literally por ciento. When we write 30% off, that means you save 30 out of every 100 dollars. We can write this percentage as the fraction <m>\frac{30}{100}</m>. When we divide 30 by 100, we get <me>\frac{30}{100}=0.30.</me> We can also say you would save 30 cents out of every dollar. Many equivalent fractions can be written that equal 30%. Notice that 60 out of 200 and 15 out of 50 are also 30%, since <me>\frac{60}{200}=\frac{15}{50}=\frac{30}{100}=0.30.</me>
+			Percent, denoted by %, means “per 100,” or “parts per hundred.” In Spanish it's literally por ciento. When we write 30% off, that means you save 30 out of every 100 dollars. We can write this percentage as the fraction <m>\frac{30}{100}</m>. When we divide 30 by 100, we get
+			<me>\frac{30}{100}=0.30</me>
+			We can also say you would save 30 cents out of every dollar. Many equivalent fractions can be written that equal 30%. Notice that 60 out of 200 and 15 out of 50 are also 30%, since
+			<me>\frac{60}{200}=\frac{15}{50}=\frac{30}{100}=0.30</me>
 		</p>
 		<example>
 			<p>
@@ -118,11 +106,11 @@
 						For this shirt we have the dollar amount of the sale so we will subtract it from the original price.
 					</p>
 					<p>
-						<me>\$80-20 = \$60</me>.
+						<me>\$80-\$20 = \$60</me>
 					</p>
 					<p>
 						Now we will divide to find the percentage of the sale:
-						<me>\frac{\$20}{\$80} = 0.25</me>.
+						<me>\frac{\$20}{\$80} = 0.25</me>
 					</p>
 					<p>
 						This shirt is 25% off and the sale price is $60.
@@ -136,11 +124,11 @@
 						For this shirt we know the percentage off so we need to find 30% of $100. We used a base of 100 so $30 off per $100 is $30.
 					</p>
 					<p>
-						<m>30\% \text{ off of } \$100 \text{ is } \$30</m>.
+						<m>30\% \text{ off of } \$100 \text{ is } \$30</m>
 					</p>
 					<p>
 						Then we subtract the sale amount from the original price to get:
-						<me>\$100-30 = \$70</me>.
+						<me>\$100-30 = \$70</me>
 					</p>
 					<p>
 						This shirt is 30% off and the sale price is $70.
@@ -153,9 +141,9 @@
 		</example>
 	</subsection>
 	<subsection>
-			<title>Converting Between Percentages and Decimals</title>
+			<title>Converting Between Percents and Decimals</title>
 		<p>
-			To convert a percentage to decimal form, we use the definition of "per 100." For example, <m>82\%</m> means <q>82 per 100</q> so we divide by 100 or move the decimal two places to the left and remove the % symbol.
+			To convert a percent to decimal form, we use the definition of "per 100." For example, <m>82\%</m> means <q>82 per 100</q> so we divide by 100. Notice this is the same as moving the decimal two places to the left and removing the % symbol.
 			<me>82\% = \frac{82}{100}=0.82</me>
 		</p>
 		<p>
@@ -166,7 +154,7 @@
 	<example>
 		<statement>
 		<p>
-			Change each percentage into decimal form.
+			Change each percent to decimal form.
 		<ol marker="a">
 			<li>
 				<p>
@@ -222,7 +210,7 @@
 	<example>
 		<statement>
 		<p>
-			Change each fraction or decimal into percentage form.
+			Change each fraction or decimal into percent form.
 		<ol marker="a">
 			<li>
 				<p>
@@ -310,7 +298,7 @@
 				</p>
 				<p>
 					Using the formula <me>\text{Percent} = \frac{\text{part}}{\text{whole}}</me> we can calculate
-						<me>\frac{577}{1013} \approx 0.570 \text{ or } 57\%</me>.
+						<me>\text{Percent} = \frac{577}{1013} \approx 0.570 \text{ or } 57\%</me>
 				</p>
 				<p>
 					About 57% of the adults surveyed said they would feel better if they got more sleep.
@@ -343,10 +331,10 @@
 						We are estimating that 8 out of 10 seems larger compared to 11 out of 15 because missing 2 out of 10 seems like less than 4 out of 15.
 					</p>
 					<p>
-						<me>\frac{8}{10} = 0.80 \text{ or } 80\%</me>.
+						<me>\frac{8}{10} = 0.80 \text{ or } 80\%</me>
 					</p>
 					<p>
-						<me>\frac{11}{15} \approx 0.733 \text{ or } 73.3\%</me>.
+						<me>\frac{11}{15} \approx 0.733 \text{ or } 73.3\%</me>
 					</p>
 					<p>
 						The score of 8 out of 10 is a higher percentage.
@@ -357,10 +345,10 @@
 						We are estimating that 3 out of 32 is a higher percentage than 2 out of 28 because the added gram of sugar seems high compared with only a 4 gram increase in serving size.
 					</p>
 					<p>
-						<me>\frac{2\text{ g}}{28\text{ g}} \approx 0.07 \text{ or about } 7\%</me>.
+						<me>\frac{2\text{ g}}{28\text{ g}} \approx 0.07 \text{ or about } 7\%</me>
 					</p>
 					<p>
-						<me>\frac{3\text{ g}}{32\text{ g}} \approx 0.09 \text{ or about } 9\%</me>.
+						<me>\frac{3\text{ g}}{32\text{ g}} \approx 0.09 \text{ or about } 9\%</me>
 					</p>
 					<p>
 						The cereal with 3 grams of sugar out of 32 grams has a higher percentage of sugar.
@@ -371,7 +359,7 @@
 		</solution>
 	</example>
 	<p>
-		Another useful tool is finding the part when we know the percentage and the whole amount.
+		Another useful tool is finding the part when we know the percent and the whole amount.
 	</p>
 	<example>
 		<statement>
@@ -384,16 +372,16 @@
 			To perform calculations with percents, we change them into decimal form first. So we divide 4.5 by 100 or move the decimal two places to the left and we get 0.045.
 		</p>
 		<p>
-			Then, using the formula <me>\text{part} = \text{percent} \cdot \text{whole}</me> we have
+			Then, using the formula <me>\text{Part} = \text{percent} \cdot \text{whole}</me> we have
 		</p>
 		<p>
-			<me>0.045(\$3000) = \$135</me>.
+			<me>\text{Part} = 0.045(\$3000) = \$135</me>
 		</p>
 		<p>
 			You would earn $135 in interest. Interest is added to your account so we will add to find the total balance.
 		</p>
 		<p>
-			<me>\$3000+135 = \$3,135</me>. Your total balance is $3,135 after one year.
+			<me>\$3000+135 = \$3{,}135</me> Your total balance is $3,135 after one year.
 		</p>
 		</solution>
 	</example>
@@ -408,7 +396,7 @@
 		<ol marker="a">
 			<li>
 				<p>
-					A smartphone's battery life of 12 hours decreased by 20% after a year of use. Find the amount it decreased by and the current battery life.
+					A smartphone's battery life of 12 hours lost 20% after a year of use. Find the amount it decreased by and the current battery life.
 				</p>
 			</li>
 			<li>
@@ -424,12 +412,19 @@
 			<ol marker="a">
 				<li>
 					<p>
-						First we will find 20% of 12 hours by multiplying by the decimal form of the percentage: <me>12(0.20)=2.4\text{ hours}</me> Then we will subtract since the battery life went down. <me>12-2.4=9.6\text{ hours}</me>. The phone battery life went down by 2.4 hours to 9.6 hours.
+						First we will find 20% of 12 hours by multiplying by the decimal form of the percent:
+						<me>12(0.20)=2.4\text{ hours}</me> Then we will subtract since the battery life went down.
+						<me>12-2.4=9.6\text{ hours}</me>
+						The phone battery life went down by 2.4 hours to 9.6 hours.
 					</p>
 				</li>
 				<li>
 					<p>
-						We will find 8.7% of $399 by multiplying the amount by the decimal form of the percentage: <me>\$399(0.087)=\$34.71</me> We rounded to the nearest cent. Then we will add since the tax is an additional cost. <me>\$399+34.71=\$433.71</me> The tax on the TV is $34.71, which gives a total price of $433.71.
+						We will find 8.7% of $399 by multiplying the amount by the decimal form of the percent
+						<me>\$399(0.087)=\$34.71</me>
+						We rounded to the nearest cent. Then we will add since the tax is an additional cost.
+						<me>\$399+34.71=\$433.71</me>
+						The tax on the TV is $34.71, which gives a total price of $433.71.
 					</p>
 				</li>
 			</ol>
@@ -440,16 +435,16 @@
 				There is an optional shorter way to go about this type of problem if you are interested.
 			<ol marker="a">
 				<li>
-					If we look at a 20% decrease as the battery retaining 80% of its life (100-20=80)%, we can calculate the new battery life directly
+					If we look at a 20% decrease as the battery retaining 80% of its life (100-20=80)%, we can calculate the new battery life directly using the decimal form
 					<md>
-						<mrow>12(1-0.20) \amp= 12(0.80)</mrow>
+						<mrow>12(1.00-0.20) \amp= 12(0.80)</mrow>
 						<mrow>\amp= 9.6\text{ hours.}</mrow>
 					</md>
 				</li>
 				<li>
 					We can also do this with the TV price using addition for an increase (100+8.7=108.7)%
 					<md>
-						<mrow>\$399(1+0.087)\amp=\$399(1.087)</mrow>
+						<mrow>\$399(1.00+0.087)\amp=\$399(1.087)</mrow>
 						<mrow>\amp=\$433.71.</mrow>
 					</md>
 				</li>
@@ -475,7 +470,7 @@
 		</statement>
 		<solution>
 			<p>
-				<me>\frac{\text{part}}{\text{whole}} = \frac{\$120{,}000}{\$50{,}000} = 2.4 \text{ or } 240\%</me>.
+				<me>\frac{\text{part}}{\text{whole}} = \frac{\$120{,}000}{\$50{,}000} = 2.4 \text{ or } 240\%</me>
 				The company's profit was 2.4 times or 240% of their goal.
 			</p>
 		</solution>
@@ -488,10 +483,6 @@
 	<p>
 		As we saw in the shirt sale prices, we can talk about a difference in absolute terms or relative terms. <term>Absolute change</term> is the actual amount of the change in dollars, people, etc. The change is positive if the value goes up and negative if it goes down. <term>Relative change</term> is the amount of change as a percentage of the starting amount. The relative change would have the same sign as the absolute change. Often we use words like increase or decrease to represent the sign.
 	</p>
-	<p>
-		For example, Portland Community College recently increased its tution from $128 to $133 per credit hour. The absolute change is the dollar increase of <me>\$133-\$128 = \$5\text{ per credit.}</me> The relative change is <me>\frac{\$5}{\$128}\approx 0.039</me> or a tuition increase of about 3.9%.
-	</p>
-
 	<assemblage>
 		<title>Absolute and Relative Change</title>
 			<p>
@@ -503,7 +494,14 @@
 		</p>
 	</assemblage>
 	<p>
-		The base of a percentage is very important and relative change is calculated as a percentage of the original amount because that was the amount before the change.
+		For example, Portland Community College recently increased its tution from $128 to $133 per credit hour. Find the absolute and relative change. First we will subtract to find out how much the tuition went up.
+		<me>\$133-\$128 = \$5\text{ per credit}</me>
+		The absolute change is an increase of $5 per credit. Now we will divide that by the original tuition of $128.
+		<me>\frac{\$5}{\$128}\approx 0.039</me>
+		The relative change is a tuition increase of about 3.9%.
+	</p>
+	<p>
+		The base of a percent is very important and relative change is calculated as a percentage of the original amount because that was the amount before the change.
 	</p>
 <example>
 		<statement>
@@ -540,7 +538,7 @@
 	<example>
 		<statement>
 			<p>
-				After raises, Iryna's wage went from $22 to $25 per hour. Sundar's hourly wage went from $19 to $21.85. Calculate their absolute and relative raises. Who got a larger absolute raise? Who got a larger relative raise?
+				After raises, Iryna's wage went from $22 to $25 per hour. Sundar's hourly wage went from $19 to $21.85. Calculate their absolute and relative raises. Who got a larger raise?
 			</p>
 		</statement>
 		<solution>
@@ -553,7 +551,7 @@
 							Iryna:
 						</p>
 					<p>
-						<m>\$25 - \$22 = \$3</m>.
+						<m>\$25 - \$22 = \$3</m>
 					</p>
 					</stack>
 					<stack>
@@ -561,7 +559,7 @@
 						Sundar:
 					</p>
 					<p>
-						<m>\$21.85 - \$19 = \$2.85</m>.
+						<m>\$21.85 - \$19 = \$2.85</m>
 					</p>
 					</stack>
 				</sidebyside>
@@ -571,7 +569,7 @@
 				<sidebyside widths="40% 40%">
 					<stack>
 					<p>
-						<m>\frac{\$3}{\$22} \approx 0.136 \text{ or } 13.6\%</m>.
+						<m>\frac{\$3}{\$22} \approx 0.136 \text{ or } 13.6\%</m>
 					</p>
 					<p>
 						Iryna's raise was about 13.6% of her pay.
@@ -579,7 +577,7 @@
 					</stack>
 					<stack>
 					<p>
-						<m>\frac{\$2.85}{\$19} = 0.15 \text{ or } 15\%</m>.
+						<m>\frac{\$2.85}{\$19} = 0.15 \text{ or } 15\%</m>
 					</p>
 					<p>
 						Sundar's raise was 15% of his pay.
@@ -599,11 +597,17 @@
 		</solution>
 	</example>
 	<p>
-		Notice in the last example that Sundar's new pay was 1.15 times his old pay for an increase of 15%. He is getting 100% of his original salary plus an additional 15%.
+		Notice in the last example that Sundar's new pay was 1.15 times his old pay or an increase of 15%. He is getting 100% of his original salary plus an additional 15%.
 	</p>
-	<p>
-		Now let's say the company that made $120,000 in profit the first year made $240,000 in their second year. We can say their profit doubled or was two times the previous year. This is a 100% increase because they matched their original profit for 100%, and they also had an increase of 100%.
-	</p>
+	<subsubsection>
+		<title>Doubling, Tripling, Etc.</title>
+		<p>
+			Now let's say the company that made $120,000 in profit the first year made $240,000 in profit in their second year. We can say their profit doubled or was two times the previous year. This is a 100% increase because they matched their original profit for 100%, and they also had an increase of 100%.
+		</p>
+		<p>
+			In order to triple their first year's profit they would need to make $360,000 in profit. Be precise with your wording when describing percent changes because tripling their profit is an increase of 200%.
+		</p>
+	</subsubsection>
 </subsection>
 <subsection>
 	<title>Multiple Percent Changes</title>
@@ -619,12 +623,12 @@
 		</statement>
 		<solution>
 			<p>
-				After one week, the value dropped by 60%:
+				After one week, the value dropped by 60% so we have
 				<md>
 					<mrow>\$100 - \$100(0.60) \amp= \$100 - \$60</mrow>
 					<mrow>\amp= \$40</mrow>
 				</md>
-				In the next week, notice that base of the percent has changed to the new value of $40. Computing the 75% increase:
+				In the next week, the starting value of the stock is $40, so that is the new base. Computing the 75% increase we get
 				<md>
 					<mrow>\$40 + \$40(0.75) \amp= \$40 + \$30</mrow>
 					<mrow>\amp= \$70</mrow>
@@ -632,7 +636,7 @@
 				In the end, the stock is $70, which is $30 lower, or 30% lower than it started.
 			</p>
 			<p>
-				This is optional, but if you enjoyed the shorter method we showed before, you can also use it for multiple percent changes.
+				If you enjoyed the shorter method we showed before, it is really useful for multiple percent changes.
 				<md>
 					<mrow>\$100(1-0.60)(1+0.75) \amp= \$100(0.40)(1.75)</mrow>
 					<mrow>\amp= \$70</mrow>
@@ -641,316 +645,6 @@
 		</solution>
 	</example>
 </subsection>
-
-<!-- <subsection>
-<title>Ratios, Rates and Unit Rates</title>
-	<p>
-		When comparing two like quantities with division, we use a <term>ratio</term>. An example of this is a teacher to student ratio of 1 to 28. There are no units on the 1 or 28 because they are both people. When comparing two unlike quantities, we use a <term>rate</term>. If you traveled 15 miles to class and it took half an hour, that's a rate of 15 miles per half hour. We usually refer to speed in miles per hour or mph, so we can also transform that rate into 30 miles per hour and that is a <term>unit rate</term>.
-	</p>
-	<assemblage>
-		<title>Ratios and Rates</title>
-			<p>
-				A <term>ratio</term> is a comparison between two like quantities using division. We often use the word <q>to,</q> a colon or division bar without units.
-			</p>
-			<p>
-				A <term>rate</term> is a comparison of two unlike quantities using division. We often use the word <q>per</q> or a division bar in the units.
-			</p>
-			<p>
-				A <term>unit rate</term> is a rate where the denominator is one unit.
-			</p>
-	</assemblage>
-	<example>
-		<statement>
-		<p>
-			Identify each quantity as a ratio, rate, or unit rate:
-			<ol marker="a">
-				<li>
-					<p>
-						2:5
-					</p>
-				</li>
-				<li>
-					<p>
-						$3.98 per gallon
-					</p>
-				</li>
-				<li>
-					<p>
-						<m>\frac{20 \text{ text messages}}{2\text{ hours}}</m>
-					</p>
-				</li>
-					<li>
-					<p>
-						<m>\frac{1}{2}</m>
-					</p>
-				</li>
-			</ol>
-		</p>
-		</statement>
-		<solution>
-		<p>
-			<ol marker="a">
-				<li>
-					<p>
-						2 to 5 is a ratio.
-					</p>
-				</li>
-				<li>
-					<p>
-						$3.98 per gallon is a unit rate.
-					</p>
-				</li>
-				<li>
-					<p>
-						<m>\frac{18 \text{ text messages}}{2\text{ hours}}</m> is a rate, but not a unit rate.
-					</p>
-				</li>
-					<li>
-					<p>
-						<m>\frac{1}{2}</m> is a ratio.
-					</p>
-				</li>
-			</ol>
-		</p>
-		</solution>
-	</example>
-</subsection>
-
-<subsection>
-<title>Proportional Quantities</title>
-	<p>
-		In problem solving it is useful to know whether quantities are proportional or not. That is, do the two quantities have the same size relative to each other? In a <term>proportional</term> relationship, there is a constant rate or ratio. One quantity is always a constant multiple of the other.
-	</p>
-	<p>
-		For example, would you expect to drive through downtown Portland at the same rate as from Portland to Eugene? No, because one trip is going through the city and the other is mostly on the freeway. Would you expect your Social Security tax deducted to be proportional to the amount of your paycheck? Yes, this should be a constant rate, at least up to a certain point of income.
-	</p>
-	<example>
-		<statement>
-		<p>
-			Determine whether the following quantities are proportional to each other.
-			<ol marker="a">
-				<li>
-					<p>
-						The distance from Portland to San Francisco is about 536 miles and the airfare on Alaska Airlines is $207. The distance from Portland to New York City is about 2,439 miles and the airfare on Alaska Airlines is $554.
-					</p>
-				</li>
-				<li>
-					<p>
-						Pairs of socks are on sale for 2 pair for $8 each or 5 pair for $20.
-					</p>
-				</li>
-			</ol>
-		</p>
-		</statement>
-		<solution>
-		<p>
-			<ol marker="a">
-				<li>
-					<p>
-						At a glance these do not look proportional because it's a lot further to New York City and the airfare didn't go up as much as the distance. We will calculate the two rates to be sure:
-					</p>
-					<sidebyside widths="40% 40%">
-					<stack>
-						<p>
-							Portland to San Francisco:
-						</p>
-					<p>
-						<me>\frac{\$207}{536\text{ miles}}= \$0.386 \text{ per mile}</me>.
-					</p>
-					</stack>
-					<stack>
-					<p>
-						Portland to New York City:
-					</p>
-					<p>
-						<me>\frac{\$554}{2439\text{ miles}}= \$0.227 \text{ per mile}</me>.
-					</p>
-					</stack>
-				</sidebyside>
-				<p>
-					These flight costs are not proportional because they have different rates per mile.
-				</p>
-				</li>
-				<li>
-					<p>
-						The sock prices look proportional so let's verify that:
-					</p>
-					<sidebyside widths="40% 40%">
-					<stack>
-						<p>
-							Two pair:
-						</p>
-					<p>
-						<me>\frac{\$8}{2\text{ pair}}= \$4.00 \text{ per pair}</me>.
-					</p>
-					</stack>
-					<stack>
-					<p>
-						Five pair:
-					</p>
-					<p>
-						<me>\frac{\$20}{5\text{ pair}}= \$4.00 \text{ per pair}</me>.
-					</p>
-					</stack>
-				</sidebyside>
-				<p>
-					These sock prices are proportional because they have the same price per pair.
-				</p>
-				</li>
-			</ol>
-		</p>
-		</solution>
-	</example>
-	<p>
-		There are many situations where we know a rate and we want to scale another quantity to match that rate. These are called proportion problems. There are many ways to solve them and we will show you three ways. Some methods may work better in particular situations and according to your preference. We will solve proportion problems visually, using a rate and with a proportion equation.
-	</p>
-</subsection>
-
-<subsection>
-	<title>Solving Proportion Problems Visually</title>
-	<p>
-		If you like visuals, you may want to use a visual scaling method to solve proportion problems whenever practical.
-	</p>
-	<example>
-		<p>A map scale indicates that a half inch on the map corresponds to a distance of 3 miles. You measure the route of a hike and it is 2<nbsp/>1<solidus/>4 inches. How long is the hike?
-		</p>
-			<p>
-				First we will draw a long rectangle and mark a small part with 1<solidus/>2 inch on the top corresponding with 3 miles along the bottom.
-			</p>
-			<image width="80%" source="images/language_logic_rules/1_proportion/visual_proportion_1.png">
-					<shortdescription>A horizontal rectangle with a small segment marked one half inch on the top and 3 miles on the bottom.</shortdescription>
-			</image>
-			<p>
-				Then we will mark additional segments until we get to 2<nbsp/>1<solidus/>4 inches along the top. We will write 3 miles along the bottom for every half inch and calculate any partial segments. A quarter is half of a segment, so that corresponds to 1.5 miles.
-			</p>
-			<image width="80%" source="images/language_logic_rules/1_proportion/visual_proportion_2.png">
-					<shortdescription>A horizontal rectangle with four equal segments marked one half inch on the top and 3 miles along the bottom; The fifth segment is cut in half and labeled one quarter inch on the top and 1.5 miles on the bottom.</shortdescription>
-			</image>
-			<p>
-				Now we can add up the distance along the bottom and we have 13.5 miles.
-			</p>
-			<p>
-				This method works well with reasonably nice numbers. For this problem we were scaling up, but this method could also be used to scale down. In that case we would mark a large segment on the rectangle and then divide that into pieces.
-			</p>
-	</example>
-</subsection>
-
-<subsection>
-	<title>Solving Proportions Problems with a Unit Rate</title>
-	<p>
-		Since we know there is a constant rate, we can also calculate the unit rate to solve a proportion problem. Here is another example soved with a unit rate.
-	</p>
-	<example>
-		<statement>
-		<p>
-			A car can drive 300 miles on a tank of 12 gallons of gas. If you are planning a roadtrip that is 1,300 miles, how many gallons of gas will you need?
-		</p>
-		</statement>
-		<solution>
-			<p>
-				We can divide either way to get our unit rate so we will choose miles per gallon. Dividing this way we get
-				<me>\frac{300\text{ miles}}{12\text{ gallons}} = 25\text{ miles per gallon}</me>.
-				Now we can divide the trip length by the rate
-				<me>1,300\text{ miles}\div25\text{ miles per gallon} = 52\text{ gallons}</me>.
-			</p>
-			<p>
-				Use your number and operation sense to know when to multiply and divide. The number of gallons is smaller than the number of miles so that's how we knew to divide in this case.
-			</p>
-			<p>
-				If we had chosen, instead, to calculate the unit rate by dividing 12 gallons by 300 miles instead, we would have gotten
-				<me>\frac{12\text{ gallons}}{300\text{ miles}} = 0.04\text{ gallons per mile}</me>.
-				Then we would multiply the trip length by the rate
-				<me>1,300\text{ miles}\cdot0.04\text{ gallons per mile} = 52\text{ gallons}</me>.
-				You will need 52 gallons of gas for this trip.
-			</p>
-		</solution>
-	</example>
-</subsection> -->
-
-<!-- todo: cancel function may be an issue with units in html - works in Chrome but not Firefox -->
-<!-- <subsection>
-	<title>Solving Proportion Problems with an Algebraic Equation</title>
-	<p>
-		You may be familiare with solving proportion equations using algebra. Because a proportional relationship means two things have a constant rate or ratio, we can set up an equation with two fractions equal to each other, use a variable for the unknown quantity, and solve it. We will do the previous two examples again to show you this method.
-	</p>
-	<p>
-		There are multiple ways to write the initial proportion equation. It will be equivalent if flipped from left to right or top to bottom. So we can set up the equation to our advantage. We just need to align the units on each side of the equation.
-	</p>
-	<example>
-		<statement>
-		<p>A map scale indicates that a half inch on the map corresponds to a distance of 3 miles. You measure the route of a hike and it is 2<nbsp/>1<solidus/>4 inches. How long is the hike?
-		</p>
-	</statement>
-		<solution>
-			<p>
-				First, we write our equation and we will purposely organize it to put the variable, <m>x</m>, in the numerator on the left side. Our unknown quantity goes with the map distance of 2<nbsp/>1<solidus/>4 inches so we put that in the denominator on the left side. Then we match up our two known quantities to match the units on the left side.
-				<md>
-					<mrow>\frac{x\text{ miles}}{2\frac{1}{4}\text{ inches}}=\frac{3\text{ miles}}{\frac{1}{2}\text{ inch}}</mrow>
-				</md>
-				By setting it up this way, there is only one algebraic step. We need to undo the division on the left side by multiplying by 2<nbsp/>1<solidus/>4 inches on both sides. That will maintain equality and isolate the variable.
-				<md>
-					<mrow>\cancel{\highlight{2\frac{1}{4}\mathrm{ inches}}}\cdot\frac{x\text{ miles}}{\cancel{2\frac{1}{4}\mathrm{ inches}}}=\highlight{2\frac{1}{4}\text{ inches}}\cdot\frac{3\text{ miles}}{\frac{1}{2}\text{ inch}}</mrow>
-				</md>
-				After canceling the 2<nbsp/>1<solidus/>4 inches, the variable is isolated and we can calculate the result.
-				<md>
-					<mrow>x\amp=\frac{2\frac{1}{4}\cancel{\mathrm{ inches}}\cdot{3\text{ miles}}}{\frac{1}{2}\cancel{\mathrm{ inch}}}</mrow>
-				</md>
-				We can use the fraction feature on a calculator or the division bar with parentheses.
-				<md>
-					<mrow>x\amp=(2+1/4)\cdot3/(1/2)\text{ miles}</mrow>
-					<mrow>x\amp=13.5\text{ miles}</mrow>
-				</md>
-				The length of the hike is 13.5 miles.
-			</p>
-		</solution>
-	</example>
-	<p>
-		We purposely set up the last equation with the variable on the upper left side to make solving easier. If you'd like a more general method that works for every proportion we'll show you that in the next example.
-	</p>
-	<example>
-		<statement>
-		<p>
-			A car can drive 300 miles on a tank of 12 gallons of gas. If you are planning a roadtrip that is 1,300 miles, how many gallons of gas will you need?
-		</p>
-	</statement>
-		<solution>
-			<p>
-				For this equation we will start with the given information and write that as a rate on one side. For the corresponding rate, we know the trip is 1,300 miles so we line that up with the 300 miles in the numerator. We will use a variable, <m>x</m>, for the unknown quantity. We are looking for an answer in gallons so we will use that as a double check.
-				<md>
-					<mrow>\frac{300\text{ miles}}{12\text{ gallons}}=\frac{1300\text{ miles}}{x\text{ gallons}}</mrow>
-				</md>
-				Now we can maintain this equal relationship and solve for <m>x</m> by doing the same operation on both sides of the equation. To undo division, we will multiply by one of the denominators first. To simplify the process we will remove the units for now and check them at the end.
-				<md>
-					<mrow>\highlight{x}\cdot\frac{300}{12}\amp=\highlight{x}\cdot\frac{1300}{x}</mrow>
-					<mrow>\highlight{x}\cdot\frac{300}{12}\amp=\cancel{x}\cdot\frac{1300}{\cancel{x}}</mrow>
-					<mrow>\frac{300x}{12}\amp=1300</mrow>
-				</md>
-				After canceling the <m>x</m>'s on the right side and simplifying the left side, we will multiply by the other denominator. You could do these at the same time if you prefer.
-				<md>
-					<mrow>\highlight{12}\cdot\frac{300x}{12}\amp=\highlight{12}\cdot1300</mrow>
-					<mrow>\cancel{12}\cdot\frac{300x}{\cancel{12}}\amp=\highlight{12}\cdot1300</mrow>
-				</md>
-				After canceling the <m>12</m>'s we see that we have <m>300x</m> on the left side but we want to know what <m>x</m> is. We will isolate the variable by using division to undo the multiplication operation.
-				<md>
-					<mrow>300x\amp=12\cdot1300</mrow>
-					<mrow></mrow>
-					<mrow>\frac{300x}{\highlight{300}}\amp=\frac{12\cdot1300}{\highlight{300}}</mrow>
-					<mrow>\frac{\cancel{300}x}{\cancel{300}}\amp=\frac{12\cdot1300}{300}</mrow>
-					<mrow>x\amp=\frac{12\cdot1300}{300}</mrow>
-					<mrow></mrow>
-					<mrow>x\amp=52\text{ gallons}</mrow>
-				</md>
-				We can double check our units by putting them back in the last step to make sure they cancel properly.
-				<md>
-					<mrow>x\amp=\frac{12\text{ gallons}\cdot1300\cancel{\mathrm{  miles}}}{300\cancel{\mathrm{  miles}}}</mrow>
-					<mrow>x\amp=52\text{ gallons}</mrow>
-				</md>
-				The miles cancel out and we are left with gallons so this is a good double check.
-			</p>
-		</solution>
-	</example>
-</subsection> -->
-
 
 <exercises>
 <title>Exercises</title>

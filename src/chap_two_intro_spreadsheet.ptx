@@ -90,15 +90,15 @@
 		</sidebyside>
 	</example>
 	<p>
-		Note that the asterisk (*) is used for multiplication. Spreadsheets don't recognize parentheses as indicators of multiplication like calculators do, so even if you have parentheses for the order of operations, the asterisk is also needed. 
+		Note that the asterisk (*) is used for multiplication. Spreadsheets don't recognize parentheses as indicators of multiplication like calculators do, so even if you have parentheses for the order of operations, the asterisk is also needed.
 	</p>
 	<p>
-		You can make more complicated mathematical expressions using parentheses and other operations. To <alert>edit a cell</alert> click on the editing box at the top, or double click on the cell to edit it directly. 
+		You can make more complicated mathematical expressions using parentheses and other operations. To <alert>edit a cell</alert> click on the editing box at the top, or double click on the cell to edit it directly.
 	</p>
 	<example>
 		<statement>
 		<p>
-			Your bill at a restaurant is $35.75 and you want to leave an 18% tip. How much would you add to the bill? 
+			Your bill at a restaurant is $35.75 and you want to leave an 18% tip. How much would you add to the bill?
 		</p>
 		</statement>
 		<solution>
@@ -112,7 +112,7 @@
 			and get a result of $6.44, <alert>rounded to the nearest cent</alert>. You would leave a tip of $6.44.
 		</p>
 	</solution>
-	</example> 
+	</example>
 </subsection>
 
 <subsection>
@@ -359,7 +359,7 @@
 		<p>
 			Note, the entry in cell B1 is <c>=15%*A1</c>. (Columns A and B are given dollar formatting)
 		</p>
-		<sidebyside width="25%">
+		<sidebyside width="15%">
 			<image source="images/financial_math/2_1/solution_table_1.png">
 			<shortdescription>A portion of a spreadsheet is shown which includes cells A1 through B25, and with a title heading of Table 1. Cell A1 shows $5.00, cell A2 shows $10.00, and so on.  The pattern shows that each additional cell under A1 is equal to the cell above it, plus $5.00.  This pattern continues down to cell A25, which shows $125.00. Cell B1 shows $0.78, which is 15% of the $5.00 amount shown in cell A1. Cell B2 shows $1.55, which is 15% of the $10.00 amount shown in cell A2. This pattern continues until we reach cell B25, which shows $19.38, and which is 15% of the $125.00 amount shown in cell A25.</shortdescription>
 			</image>
@@ -496,7 +496,7 @@
 			</li>
 		</ol>
 		</p>
-		<sidebyside width="25%">
+		<sidebyside width="10%">
 			<image source="images/financial_math/2_1/solution_table_2.png">
 			<shortdescription>A portion of a spreadsheet is shown covering cells A1 through A25, and with a title heading of Table 2. Cell A1 shows $500.00. Cell A2 shows $505.00, which is 101% of cell A1. Cell A3 shows $510.05, which is 101% of cell A2. This pattern continues until we reach cell A25, which shows $634.87, and which is 101% of cell A24.</shortdescription>
 			</image>

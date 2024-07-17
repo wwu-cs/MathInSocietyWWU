@@ -158,7 +158,7 @@
 	<p>
 		There are two main ways to gerrymander a map, by packing and cracking. <alert>Packing</alert> is when all the people of one political party are packed into a district. Since a party only needs a plurality or majority to win, all those extra votes would be surplus. <alert>Cracking</alert> dilutes a party's votes by spreading out the voters so they can't win as many districts.
 	</p>
-	<sidebyside valign="middle" widths="59% 35%" margins="0%">
+	<sidebyside valign="middle" widths="54% 40%" margins="0%">
 		<p>
 			Here is a small sample map to see how this works. In this fictitious state, we have 35 people and 5 districts. So we will need 7 people in each district. You can see how they are spread out in the map, with Republicans denoted by R's and Democrats marked with D's. To keep it simple, we are only looking at two parties and they will need a majority to win an election. We are also assuming that all voters will vote and that they vote according to their party which may not always be the case.
 		</p>
@@ -174,7 +174,8 @@
 	</p>
 	<example>
 		<statement>
-		<sidebyside valign="middle" widths="59% 35%" margins="0%">
+			<!-- Todo: was 59%, 45% trying to eliminate badness in pdf -->
+		<sidebyside valign="middle" widths="54% 40%" margins="0%">
 			<stack>
 			<p>
 				We will first try to advantage the Democrats. There are 7 people in each district, so a party needs 4 votes to win the election. We will draw the lines to put 4 Democrats in each district along with 3 Republicans to spread them out by cracking. Here is our map.
@@ -342,7 +343,7 @@
 	</p>
 	<example>
 		<statement>
-			<sidebyside valign="middle" widths="59% 35%" margins="0%">
+			<sidebyside valign="middle" widths="54% 40%" margins="0%">
 		<p>
 			For another example, we will take the same map and gerrymander it for the Republicans. This time we will pack as many Democrats as we can into the middle, and then use cracking to form the rest of the districts, trying to get 4 R's in as many as we can. Here is the map.
 		</p>

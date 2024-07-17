@@ -38,7 +38,7 @@
 
 	<figure>
       <caption>Alternative Video Lesson</caption>
-      <video youtube="BRstCcZ_zhI" label="video-savings-plan"/>
+      <video youtubeplaylist="PLsFUxEAXGFKStBjk3RAWIyjsiajOY3xBp" label="video-savings-plan"/>
     </figure>
 </introduction>
 
@@ -191,7 +191,7 @@
 			<md>
 			<mrow>A\amp=\frac{100\left(\left(1+\frac{0.06}{12}\right)^{12\cdot 20}-1\right)}{\left(\frac{0.06}{12}\right)}</mrow>
 			<mrow>\amp=\frac{100\left((1.005)^{240}-1\right)}{(0.005)}</mrow>
-			<mrow>\amp\approx \$46.204.09</mrow>
+			<mrow>\amp\approx \$46{,}204.09</mrow>
 		</md>
 		</p>
 		<p>
@@ -201,14 +201,14 @@
 			To find the <alert>amount of interest earned</alert>, calculate the total of all your deposits.
 		</p>
 		<p>
-			<me>\$100(20)(12)=\$24,000</me>
+			<me>\$100(20)(12)=\$24{,}000</me>
 		</p>
 
 		<p>
 			The difference between the total amount and the deposits is the interest earned.
 		</p>
 		<p>
-			<me>\$46,204.09-\$24,000=\$22,204.09</me>
+			<me>\$46{,}204.09-\$24{,}000=\$22{,}204.09</me>
 		</p>
 		<p>
 			The total amount of interest you earned was $22,204.09.
@@ -217,7 +217,7 @@
 			To find the <alert>percentage of the balance that is interest</alert> we will divide the interest by the total balance.
 		</p>
 		<p>
-			<me>\frac{\$22,204.09}{\$46,204.09}\approx 0.4810</me>
+			<me>\frac{\$22{,}204.09}{\$46{,}204.09}\approx 0.4810</me>
 		</p>
 		<p>
 			or 48.1%. After 20 years 48.1% of the balance is from interest.
@@ -341,7 +341,7 @@
 			<m>t=30</m>, 30 years
 		</p>
 		<p>
-			<m>A=\$500,000</m>, the amount we want to have in 30 years
+			<m>A=\$500{,}000</m>, the amount we want to have in 30 years
 		</p>
 		<p></p>
 		<p>
@@ -408,22 +408,22 @@
 		<p>
 			<md>
 			<mrow>A\amp=\frac{5\left(\left(1+\frac{0.03}{365}\right)^{365\cdot 10}-1\right)}{\left(\frac{0.03}{365}\right)}</mrow>
-			<mrow>\amp\approx\$21,282.07</mrow>
+			<mrow>\amp\approx\$21{,}282.07</mrow>
 			</md>
 		</p>
 		<p>
 			To find the amount of interest, we will calculate how much was deposited in the account. Since you put in $5 a day for 10 years we get
 		</p>
 		<p>
-			<me>\$5(365)(10)=\$18,250</me>.
+			<me>\$5(365)(10)=\$18{,}250</me>.
 		</p>
 
 		<p>
-			The interest earned is <m>\$21,282.07-\$18,250=\$3,032.07</m>.
+			The interest earned is <m>\$21{,}282.07-\$18{,}250=\$3{,}032.07</m>.
 		</p>
 
 		<p>
-			To find the percentage we divide by the total balance to get <m>\frac{\$3,032.07}{\$21,282.07}\approx0.1425</m> or 14.25%.
+			To find the percentage we divide by the total balance to get <m>\frac{\$3{,}032.07}{\$21{,}282.07}\approx0.1425</m> or 14.25%.
 		</p>
 
 		<p>
@@ -494,7 +494,7 @@
 		<p>
 			<md>
 			<mrow>A\amp=\frac{200\left(\left(1+\frac{0.10}{12}\right)^{12\cdot 15}-1\right)}{\left(\frac{0.10}{12}\right)}</mrow>
-			<mrow>\amp\approx\$82,894.07</mrow>
+			<mrow>\amp\approx\$82{,}894.07</mrow>
 		</md>
 		</p>
 
@@ -503,8 +503,8 @@
 		</p>
 		<p>
 			<md>
-			<mrow>A\amp=\$82,894.07\left(1+\frac{0.10}{12}\right)^{12\cdot 20}</mrow>
-			<mrow>\amp\approx\$607,453.85</mrow>
+			<mrow>A\amp=\$82{,}894.07\left(1+\frac{0.10}{12}\right)^{12\cdot 20}</mrow>
+			<mrow>\amp\approx\$607{,}453.85</mrow>
 		</md>
 		</p>
 
@@ -533,7 +533,7 @@
 		<p>
 			<md>
 			<mrow>A\amp=\frac{200\left(\left(1+\frac{0.10}{12}\right)^{12\cdot 20}-1\right)}{\left(\frac{0.10}{12}\right)}</mrow>
-			<mrow>\amp\approx\$151,873.77</mrow>
+			<mrow>\amp\approx\$151{,}873.77</mrow>
 		</md>
 		</p>
 		<p>
@@ -751,12 +751,12 @@
 				</li>
 				<li>
 					<p>
-						<m>400079.05 – 12*35*250</m>. You will have earned $295,079.05 in interest.
+						<m>400{,}079.05 – 12*35*250</m>. You will have earned $295,079.05 in interest.
 					</p>
 				</li>
 				<li>
 					<p>
-						<m>295079.05 /400079.05</m>. The final balance will be about 73.8% interest.
+						<m>295079.05 /400{,}079.05</m>. The final balance will be about 73.8% interest.
 					</p>
 				</li>
 			</ol>
@@ -803,12 +803,12 @@
 				</li>
 				<li>
 					<p>
-						<m>1325130.09 – 52*40*75</m>. You will have earned $1,169,130.09 in interest.
+						<m>1{,}325{,}130.09 – 52*40*75</m>. You will have earned $1,169,130.09 in interest.
 					</p>
 				</li>
 				<li>
 					<p>
-						<m>1169130.09/1325130.09</m>. The final balance will be about 88.2% interest.
+						<m>1{,}169{,}130.09/1{,}325{,}130.09</m>. The final balance will be about 88.2% interest.
 					</p>
 				</li>
 			</ol>
@@ -855,12 +855,12 @@
 				</li>
 				<li>
 					<p>
-						<m>348456.1 – 4*30*750</m>. You will have earned $258,456.10 in interest.
+						<m>348{,}456.1 – 4*30*750</m>. You will have earned $258,456.10 in interest.
 					</p>
 				</li>
 				<li>
 					<p>
-						<m>258456.1 /348456.1</m>. The final balance will be about 74.2% interest.
+						<m>258{,}456.1 /348{,}456.1</m>. The final balance will be about 74.2% interest.
 					</p>
 				</li>
 			</ol>
@@ -907,12 +907,12 @@
 				</li>
 				<li>
 					<p>
-						<m>248339.8 – 365*25*20</m>. You will have earned $65,839.80 in interest.
+						<m>248{,}339.8 – 365*25*20</m>. You will have earned $65,839.80 in interest.
 					</p>
 				</li>
 				<li>
 					<p>
-						<m>65839.8 /248339.8</m>. The final balance will be about 26.5% interest.
+						<m>65{,}839.8 /248{,}339.8</m>. The final balance will be about 26.5% interest.
 					</p>
 				</li>
 			</ol>
@@ -948,7 +948,7 @@
 			<ol marker="a.">
 				<li>
 					<p>
-						In 5 years: <m>\frac{130\left(\left(1+\frac{0.09}{12}\right)^{12*5}-1\right}{\left(\frac{0.09}{12}\right)}</m>
+						In 5 years: <m>\frac{130\left(\left(1+\frac{0.09}{12}\right)^{12*5}-1\right)}{\left(\frac{0.09}{12}\right)}</m>
 					</p>
 					<p>
 						Or, <c>=FV(0.09/12,12*5,130)</c>
@@ -965,12 +965,12 @@
 				</li>
 				<li>
 					<p>
-						<m>92250.82 – 130*5*12</m>. You will earn $84,450.82 in interest.
+						<m>92{,}250.82 – 130*5*12</m>. You will earn $84,450.82 in interest.
 					</p>
 				</li>
 				<li>
 					<p>
-						<m>84450.82/92250.82</m>. The final balance will be about 91.5% interest.
+						<m>84{,}450.82/92{,}250.82</m>. The final balance will be about 91.5% interest.
 					</p>
 				</li>
 			</ol>
@@ -978,7 +978,7 @@
 		</solution>
 	</exercise>
 
-	<exercise> 
+	<exercise>
 		<statement>
 		<p>
 			Suppose you invest $200 per month for 10 years into an account earning 5% APR compounded monthly. You then leave the money, without making additional deposits, in the account for another 20 years.
@@ -1033,12 +1033,12 @@
 				</li>
 				<li>
 					<p>
-						<m>84245 – 200*12*10</m>. You will earn $60,245 in interest.
+						<m>84{,}245 – 200*12*10</m>. You will earn $60,245 in interest.
 					</p>
 				</li>
 				<li>
 					<p>
-						<m>60245/84245</m>. Your final balance will be about 71.5%. interest.
+						<m>60{,}245/84{,}245</m>. Your final balance will be about 71.5%. interest.
 					</p>
 				</li>
 			</ol>
@@ -1167,10 +1167,10 @@
 				</li>
 				<li>
 					<p>
-						Jose: <m>222310.85 – 55000</m>
+						Jose: <m>222{,}310.85 – 55{,}000</m>
 					</p>
 					<p>
-						Jose's partner: <m>244447.68 – 375*12*25</m>
+						Jose's partner: <m>24{,}4447.68 – 375*12*25</m>
 					</p>
 					<p>
 						Jose will earn $167,310.85 and his partner will earn $131,947.68 in interest.
@@ -1178,13 +1178,13 @@
 				</li>
 				<li>
 					<p>
-						Jose: <m>167310.85/222310.85</m>
+						Jose: <m>167{,}310.85/222{,}310.85</m>
 					</p>
 					<p>
-						Jose's partner: <m>131947.68/244447.68</m>
+						Jose's partner: <m>13{,}1947.68/244{,}447.68</m>
 					</p>
 					<p>
-						Jose's final balance will be about 75.3% interest and Jose's partner's final balance will be about 54.0% interest.	
+						Jose's final balance will be about 75.3% interest and Jose's partner's final balance will be about 54.0% interest.
 					</p>
 				</li>
 			</ol>
@@ -1237,10 +1237,10 @@
 				</li>
 				<li>
 					<p>
-						Akiko: <m>463631.61 – 45000</m>
+						Akiko: <m>463{,}631.61 – 45000</m>
 					</p>
 					<p>
-						Her spouse: <m>286243.83 – 200*12*30</m>
+						Her spouse: <m>286{,}243.83 – 200*12*30</m>
 					</p>
 					<p>
 						Akiko will earn $418,631.61 and her spouse will earn $214,243.83 in interest.
@@ -1248,10 +1248,10 @@
 				</li>
 				<li>
 					<p>
-						Akiko: <m>418631.61/463631.61</m>
+						Akiko: <m>418{,}631.61/463{,}631.61</m>
 					</p>
 					<p>
-						Her spouse: <m>214243.83/286243.83</m>
+						Her spouse: <m>214{,}243.83/286{,}243.83</m>
 					</p>
 					<p>
 						Akiko's final balance will be about 90.3% interest and her spouse's final balance will be about 74.8% interest.
@@ -1301,12 +1301,12 @@
 				</li>
 				<li>
 					<p>
-						<m>16686.8 – (1000 + 100*12*10)</m>. Sylvin will earn $3,686.80 in interest.
+						<m>16{,}686.8 – (1000 + 100*12*10)</m>. Sylvin will earn $3,686.80 in interest.
 					</p>
 				</li>
 				<li>
 					<p>
-						<m>3686.8/16686.8</m>. The final balance will be about 22.1% interest.
+						<m>3v686.8/16{,}686.8</m>. The final balance will be about 22.1% interest.
 					</p>
 				</li>
 			</ol>
@@ -1353,12 +1353,12 @@
 				</li>
 				<li>
 					<p>
-						<m>33119.05 – (5000 + 1000*20)</m>. Elena will earn $8,119.05 in interest.
+						<m>33{,}119.05 – (5000 + 1000*20)</m>. Elena will earn $8,119.05 in interest.
 					</p>
 				</li>
 				<li>
 					<p>
-						<m>8119.05/33119.05</m>. The final balance will be about 24.5% interest.
+						<m>8{,}119.05/33{,}119.05</m>. The final balance will be about 24.5% interest.
 					</p>
 				</li>
 			</ol>

@@ -1419,8 +1419,8 @@
 			<cell>State</cell>
 			<cell><line>Votes for</line><line>Candidate A</line></cell>
 			<cell><line>Votes for</line><line>Candidate B</line></cell>
-			<cell><line>Number of Electoral</line><line>Votes for A</line></cell>
-			<cell><line>Number of Electoral</line><line>Votes for B</line></cell>
+			<cell><line>Number of</line><line>Electoral</line><line>Votes for A</line></cell>
+			<cell><line>Number of</line><line>Electoral</line><line>Votes for B</line></cell>
 		</row>
 		<row>
 			<cell>Gandhi</cell>
@@ -1461,8 +1461,8 @@
 							<cell>State</cell>
 							<cell><line>Votes for</line><line>Candidate A</line></cell>
 							<cell><line>Votes for</line><line>Candidate B</line></cell>
-							<cell><line>Number of Electoral</line><line>Votes for A</line></cell>
-							<cell><line>Number of Electoral</line><line>Votes for B</line></cell>
+							<cell><line>Number of</line><line>Electoral</line><line>Votes for A</line></cell>
+							<cell><line>Number of</line><line>Electoral</line><line>Votes for B</line></cell>
 						</row>
 						<row>
 							<cell>Gandhi</cell>
@@ -1517,8 +1517,8 @@
 			<cell>State</cell>
 			<cell><line>Votes for</line><line>Candidate A</line></cell>
 			<cell><line>Votes for</line><line>Candidate B</line></cell>
-			<cell><line>Number of Electoral</line><line>Votes for A</line></cell>
-			<cell><line>Number of Electoral</line><line>Votes for B</line></cell>
+			<cell><line>Number of</line><line>Electoral</line><line>Votes for A</line></cell>
+			<cell><line>Number of</line><line>Electoral</line><line>Votes for B</line></cell>
 		</row>
 		<row>
 			<cell>Johnson</cell>
@@ -1559,8 +1559,8 @@
 							<cell>State</cell>
 							<cell><line>Votes for</line><line>Candidate A</line></cell>
 							<cell><line>Votes for</line><line>Candidate B</line></cell>
-							<cell><line>Number of Electoral</line><line>Votes for A</line></cell>
-							<cell><line>Number of Electoral</line><line>Votes for B</line></cell>
+							<cell><line>Number of</line><line>Electoral</line><line>Votes for A</line></cell>
+							<cell><line>Number of</line><line>Electoral</line><line>Votes for B</line></cell>
 						</row>
 						<row>
 							<cell>Johnson</cell>
@@ -1615,8 +1615,8 @@
 			<cell>State</cell>
 			<cell><line>Votes for</line><line>Candidate A</line></cell>
 			<cell><line>Votes for</line><line>Candidate B</line></cell>
-			<cell><line>Number of Electoral</line><line>Votes for A</line></cell>
-			<cell><line>Number of Electoral</line><line>Votes for B</line></cell>
+			<cell><line>Number of</line><line>Electoral</line><line>Votes for A</line></cell>
+			<cell><line>Number of</line><line>Electoral</line><line>Votes for B</line></cell>
 		</row>
 		<row>
 			<cell>Tamez</cell>
@@ -1664,8 +1664,8 @@
 							<cell>State</cell>
 							<cell><line>Votes for</line><line>Candidate A</line></cell>
 							<cell><line>Votes for</line><line>Candidate B</line></cell>
-							<cell><line>Number of Electoral</line><line>Votes for A</line></cell>
-							<cell><line>Number of Electoral</line><line>Votes for B</line></cell>
+							<cell><line>Number of</line><line>Electoral</line><line>Votes for A</line></cell>
+							<cell><line>Number of</line><line>Electoral</line><line>Votes for B</line></cell>
 						</row>
 						<row>
 							<cell>Tamez</cell>
@@ -1727,8 +1727,8 @@
 			<cell>State</cell>
 			<cell><line>Votes for</line><line>Candidate A</line></cell>
 			<cell><line>Votes for</line><line>Candidate B</line></cell>
-			<cell><line>Number of Electoral</line><line>Votes for A</line></cell>
-			<cell><line>Number of Electoral</line><line>Votes for B</line></cell>
+			<cell><line>Number of</line><line>Electoral</line><line>Votes for A</line></cell>
+			<cell><line>Number of</line><line>Electoral</line><line>Votes for B</line></cell>
 		</row>
 		<row>
 			<cell>Johnson</cell>
@@ -1776,8 +1776,8 @@
 							<cell>State</cell>
 							<cell><line>Votes for</line><line>Candidate A</line></cell>
 							<cell><line>Votes for</line><line>Candidate B</line></cell>
-							<cell><line>Number of Electoral</line><line>Votes for A</line></cell>
-							<cell><line>Number of Electoral</line><line>Votes for B</line></cell>
+							<cell><line>Number of</line><line>Electoral</line><line>Votes for A</line></cell>
+							<cell><line>Number of</line><line>Electoral</line><line>Votes for B</line></cell>
 						</row>
 						<row>
 							<cell>Johnson</cell>
@@ -1861,10 +1861,10 @@
 		<row header="yes">
 			<cell>State</cell>
 			<cell>Population</cell>
-			<cell><line>Number of</line><line>Representatives</line></cell>
-			<cell><line>Number of</line><line>Senators</line></cell>
-			<cell><line>Number of</line><line>Electors</line></cell>
-			<cell><line>Electoral Votes per</line><line>50,000 people</line></cell>
+			<cell><line>Number</line><line>of</line><line>Representatives</line></cell>
+			<cell><line>Number</line><line>of</line><line>Senators</line></cell>
+			<cell><line>Number</line><line>of</line><line>Electors</line></cell>
+			<cell><line>Electoral</line><line>Votes per</line><line>50,000 people</line></cell>
 		</row>
 		<row>
 			<cell>Gandhi</cell>
@@ -1900,10 +1900,10 @@
 						<row header="yes">
 							<cell>State</cell>
 							<cell>Population</cell>
-							<cell><line>Number of</line><line>Representatives</line></cell>
-							<cell><line>Number of</line><line>Senators</line></cell>
-							<cell><line>Number of</line><line>Electors</line></cell>
-							<cell><line>Electoral Votes per</line><line>50,000 people</line></cell>
+							<cell><line>Number</line><line>of</line><line>Representatives</line></cell>
+							<cell><line>Number</line><line>of</line><line>Senators</line></cell>
+							<cell><line>Number</line><line>of</line><line>Electors</line></cell>
+							<cell><line>Electoral</line><line>Votes per</line><line>50,000 people</line></cell>
 						</row>
 						<row>
 							<cell>Gandhi</cell>
@@ -1953,10 +1953,10 @@
 		<row header="yes">
 			<cell>State</cell>
 			<cell>Population</cell>
-			<cell><line>Number of</line><line>Representatives</line></cell>
-			<cell><line>Number of</line><line>Senators</line></cell>
-			<cell><line>Number of</line><line>Electors</line></cell>
-			<cell><line>Electoral Votes per</line><line>50,000 people</line></cell>
+			<cell><line>Number</line><line>of</line><line>Representatives</line></cell>
+			<cell><line>Number</line><line>of</line><line>Senators</line></cell>
+			<cell><line>Number</line><line>of</line><line>Electors</line></cell>
+			<cell><line>Electoral</line><line>Votes per</line><line>50,000 people</line></cell>
 		</row>
 		<row>
 			<cell>Johnson</cell>
@@ -1992,10 +1992,10 @@
 						<row header="yes">
 							<cell>State</cell>
 							<cell>Population</cell>
-							<cell><line>Number of</line><line>Representatives</line></cell>
-							<cell><line>Number of</line><line>Senators</line></cell>
-							<cell><line>Number of</line><line>Electors</line></cell>
-							<cell><line>Electoral Votes per</line><line>50,000 people</line></cell>
+							<cell><line>Number</line><line>of</line><line>Representatives</line></cell>
+							<cell><line>Number</line><line>of</line><line>Senators</line></cell>
+							<cell><line>Number</line><line>of</line><line>Electors</line></cell>
+							<cell><line>Electoral</line><line>Votes per</line><line>50,000 people</line></cell>
 						</row>
 						<row>
 							<cell>Johnson</cell>
@@ -2045,10 +2045,10 @@
 		<row header="yes">
 			<cell>State</cell>
 			<cell>Population</cell>
-			<cell><line>Number of</line><line>Representatives</line></cell>
-			<cell><line>Number of</line><line>Senators</line></cell>
-			<cell><line>Number of</line><line>Electors</line></cell>
-			<cell><line>Electoral Votes per</line><line>50,000 people</line></cell>
+			<cell><line>Number</line><line>of</line><line>Representatives</line></cell>
+			<cell><line>Number</line><line>of</line><line>Senators</line></cell>
+			<cell><line>Number</line><line>of</line><line>Electors</line></cell>
+			<cell><line>Electoral</line><line>Votes per</line><line>50,000 people</line></cell>
 		</row>
 		<row>
 			<cell>Tamez</cell>
@@ -2092,10 +2092,10 @@
 						<row header="yes">
 							<cell>State</cell>
 							<cell>Population</cell>
-							<cell><line>Number of</line><line>Representatives</line></cell>
-							<cell><line>Number of</line><line>Senators</line></cell>
-							<cell><line>Number of</line><line>Electors</line></cell>
-							<cell><line>Electoral Votes per</line><line>50,000 people</line></cell>
+							<cell><line>Number</line><line>of</line><line>Representatives</line></cell>
+							<cell><line>Number</line><line>of</line><line>Senators</line></cell>
+							<cell><line>Number</line><line>of</line><line>Electors</line></cell>
+							<cell><line>Electoral</line><line>Votes per</line><line>50,000 people</line></cell>
 						</row>
 						<row>
 							<cell>Tamez</cell>
@@ -2153,10 +2153,10 @@
 		<row header="yes">
 			<cell>State</cell>
 			<cell>Population</cell>
-			<cell><line>Number of</line><line>Representatives</line></cell>
-			<cell><line>Number of</line><line>Senators</line></cell>
-			<cell><line>Number of</line><line>Electors</line></cell>
-			<cell><line>Electoral Votes per</line><line>50,000 people</line></cell>
+			<cell><line>Number</line><line>of</line><line>Representatives</line></cell>
+			<cell><line>Number</line><line>of</line><line>Senators</line></cell>
+			<cell><line>Number</line><line>of</line><line>Electors</line></cell>
+			<cell><line>Electoral</line><line>Votes per</line><line>50,000 people</line></cell>
 		</row>
 		<row>
 			<cell>Johnson</cell>
@@ -2200,10 +2200,10 @@
 						<row header="yes">
 							<cell>State</cell>
 							<cell>Population</cell>
-							<cell><line>Number of</line><line>Representatives</line></cell>
-							<cell><line>Number of</line><line>Senators</line></cell>
-							<cell><line>Number of</line><line>Electors</line></cell>
-							<cell><line>Electoral Votes per</line><line>50,000 people</line></cell>
+							<cell><line>Number</line><line>of</line><line>Representatives</line></cell>
+							<cell><line>Number</line><line>of</line><line>Senators</line></cell>
+							<cell><line>Number</line><line>of</line><line>Electors</line></cell>
+							<cell><line>Electoral</line><line>Votes per</line><line>50,000 people</line></cell>
 						</row>
 						<row>
 							<cell>Johnson</cell>

@@ -3179,11 +3179,11 @@
 <exercise><!--  #11 -->
 	<statement>
 	<p>
-		Make up two data sets with 5 numbers each that have:		
+		Make up two data sets with 5 numbers each that have:
 		<ol marker="a.">
 			<li>
 				<p>
-					The same mean but different standard deviations.	
+					The same mean but different standard deviations.
 				</p>
 			</li>
 			<li>
@@ -3199,12 +3199,12 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					There are many possible answers for this question. The data sets <m>{10, 10, 10, 10, 10}</m> and <m>{9, 9, 10, 11, 11}</m> have the same mean (10) but different standard deviations (0 and 1, respectively).
+					There are many possible answers for this question. For example, the data sets {10, 10, 10, 10, 10} and {9, 9, 10, 11, 11} have the same mean of 10 units, but different standard deviations (0 and 1, respectively).
 				</p>
 			</li>
 			<li>
 				<p>
-					There are many possible answers for this question. The data sets <m>{2, 2, 2, 2, 2}</m> and <m>{9, 9, 9, 9, 9}</m> have the same standard deviation (0) but different means (2 and 9, respectively).
+					There are many possible answers for this question. For example, the data sets {2, 2, 2, 2, 2} and {9, 9, 9, 9, 9} have the same standard deviation of 0, but different means (2 and 9, respectively).
 				</p>
 			</li>
 		</ol>
@@ -3237,12 +3237,12 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					There are many possible answers for this question. The data sets <m>{1, 2, 3, 4, 5, 6, 7}</m> and <m>{11, 12, 13, 14, 15, 16, 17}</m> have the same IQR (4) but different medians (4 and 14, respectively)
+					There are many possible answers for this question. The data sets {1, 2, 3, 4, 5, 6, 7} and {11, 12, 13, 14, 15, 16, 17} have the same IQR of 4, but different medians (4 and 14, respectively).
 				</p>
 			</li>
 			<li>
 				<p>
-					There are many possible answers for this question. The data sets <m>{14, 14, 14, 14, 14, 14, 14}</m> and <m>{1, 1, 1, 14, 26, 26, 26}</m> have the same median (14) but different IQRs (0 and 25, respectively).
+					There are many possible answers for this question. The data sets {14, 14, 14, 14, 14, 14, 14} and {1, 1, 1, 14, 26, 26, 26} have the same median of 14, but different IQRs (0 and 25, respectively).
 				</p>
 			</li>
 		</ol>

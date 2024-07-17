@@ -35,7 +35,7 @@
 
 		<figure>
       		<caption>Alternative Video Lesson</caption>
-      		<video youtube="txk6AzCwAqo" label="video-expected-value"/>
+      		<video youtubeplaylist="PLsFUxEAXGFKRiOeIam0V7pJEDfY160ec0" label="video-expected-value"/>
     	</figure>
 
 	</introduction>

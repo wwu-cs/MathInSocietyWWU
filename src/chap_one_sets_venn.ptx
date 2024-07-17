@@ -41,7 +41,7 @@
 <introduction>
 	<figure>
       <caption>Alternative Video Lesson</caption>
-      <video youtube="OX5-UxZUv94" label="video-sets-venn"/>
+      <video youtubeplaylist="PLsFUxEAXGFKTdTpUsiGlbwIdTUl7b2MHh" label="video-sets-venn-diagrams"/>
     </figure>
 </introduction>
 
@@ -218,7 +218,7 @@
 	<p>
 	 	<term>Venn diagrams</term> are used to illustrate the relationships between two or more sets. To create a Venn diagram, start by drawing a rectangle to represent the universal set. Next draw and label overlapping circles to represent each of your sets. Most often there will be two or three sets illustrated in a Venn diagram. Finally, if you are given elements, fill in each region with its corresponding elements. Venn diagrams are also a great way to illustrate intersections, unions and complements of sets as shown below.
 	</p>
-		<sidebyside width="30%">
+		<sidebyside widths="33% 30% 30%">
 			<figure>
             <caption>The <alert>intersection</alert> is where the shading of the two sets overlaps in the center. It contains the elements of A <alert>and</alert> B.</caption>
             <image source="images/language_logic_rules/1_2/Venn_pic1.png">
@@ -479,7 +479,7 @@
 	</p>
 
 	<example>
-		<sidebyside valign="middle" widths="30% 40%">
+		<sidebyside valign="middle" widths="50% 40%">
 			<stack>
 				<p>
 					The set of Cats and the set of Dogs.
@@ -502,7 +502,7 @@
 		If a set is completely contained in another set, it is called a <term>subset</term>.
 	</p>
 	<example>
-		<sidebyside valign="middle" widths="30% 40%">
+		<sidebyside valign="middle" widths="50% 40%">
 			<stack>
 				<p>
 					The set of all Trees and the set of Maples Trees.
@@ -1241,14 +1241,10 @@
 	<p>
 		A poll asked 100 coffee drinkers whether they like cream or sugar in their coffee. The information was organized in the following Venn Diagram.
 	</p>
-	<sidebyside valign="middle" widths="47% 47%">
-		<stack>
-		<image source="images/language_logic_rules/1_2/hw_1_2_additional_ex_4.png">
+		<image width="45%" source="images/language_logic_rules/1_2/hw_1_2_additional_ex_4.png">
 		<shortdescription>
 		</shortdescription>
 		</image>
-	</stack>
-	<stack>
 	<p>
 		<ol marker="a">
 			<li>
@@ -1288,8 +1284,6 @@
 			</li>
 		</ol>
 	</p>
-</stack>
-</sidebyside>
 	</statement>
 	<solution>
 	<p>

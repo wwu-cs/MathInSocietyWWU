@@ -48,16 +48,9 @@
 </objectives>
 
 <introduction>
-<!-- 	<title>Introduction</title>
-	<p>
-		Many important decisions in life can be made more effectively using quantitative information. The goal of this book and course is for you to feel more comfortable and confident with mathematical tools that are applicable to your life now and in the future. We will work with proportions for scaling and comparing quantities and  financial tools for managing money and taxes. We will also work with statistics for decisions that involve data, probability for decisions with uncertain events, and methods for fair group decision-making like apportionment and voting systems. By practicing with these tools, you'll be better equipped and feel more empowered to use mathematical tools to help you make decisions in college and beyond.
-	</p>
-	<p>
-		In this chapter we'll learn several different tools for making decisions. We'll look at a problem solving structure, percentages, rates and proportions for comparisons, and logic, sets and Venn diagrams for grouping information.
-	</p> -->
 	<figure>
       <caption>Alternative Video Lesson</caption>
-      <video youtube="" label="video-problem-solving-percents"/>
+      <video youtubeplaylist="PLsFUxEAXGFKTwNqgLgHX7y4L-g3JhJQc2" label="video-problem-solving"/>
     </figure>
 </introduction>
 
@@ -66,9 +59,6 @@
 	<p>
 		In this section we will outline a problem solving process and see how number sense and operation sense tie into the process. As in real life, we focus on problems that have a trade-off or more than one right answer as much as possible.
 	</p>
-	<!-- <p>
-		This section may be review for you, and it may present math in a different light that is more concrete and applied than math you have had previously. Our goal is to examine math problems that are relevant to your life where you can apply your lived experience. Some of these problems involve a trade-off or more than one right answer. First, we will outline a problem solving process and see how number sense and operation sense ties into the process. Then we will use percentages to compare quantities.
-	</p> -->
 	<p>
 		There are many ways to write a problem solving process, and this is just one example. Some of the important elements are breaking down complex issues into manageable parts, following a logical reasoning process, and using creativity to consider all the possibilities. In real life, problem solving is often an iterative process so evaluation and refinement are important elements as well.
 	</p>
@@ -78,12 +68,12 @@
 			<ol marker="1">
 				<li>
 					<p>
-						Identify the question(s) you're trying to answer. Do any research needed to understand the context. Estimate the range of reasonable answers.
+						Identify the question(s) you're trying to answer. Do any research needed to understand the context.
 					</p>
 				</li>
 				<li>
 					<p>
-						Identify the information you have and any information you may need. Look up or estimate any missing information.
+						Identify the information you have and any information you may need. Look up or estimate any missing information. Estimate the range of reasonable answers.
 					</p>
 				</li>
 				<li>
@@ -113,11 +103,11 @@
 					You're comparing two healthcare plans to select one of them for the next year. Plan A has a $200 monthly premium and a $1000 deductible, and plan B has a $150 monthly premium and a $2400 deductible. Which plan is more cost effective and why?
 				</p>
 				<p>
-					There are many ways to approach a problem like this, so this is an example. Please feel free to try it on your own first before you click on or read our solution. In the online version we have a solution link for each step to reveal one step at a time. You'll see that we go through the steps more than once.
+					There are many ways to approach a problem like this, so this is one example. Please feel free to try it on your own first before you click on or read our solution. In the online version we have a solution link for each step to reveal one step at a time. You'll see that we go through the steps more than once.
 				</p>
 			</statement>
 			<solution>
-				<title>Step 1: The question, context and estimation</title>
+				<title>Step 1: The question and context</title>
 				<p>
 					The question we need to answer is which plan is cheaper overall. We also need to make sure we understand all the insurance vocabulary used here.
 					<ul>
@@ -128,11 +118,10 @@
 							A <term>deductible</term> is the amount that a customer must pay of their healthcare used before the insurance company will start paying. <!-- Sometimes there are copays for services like office visits that are not subject to the deductible. -->
 						</li>
 					</ul>
-					We estimate the yearly cost to be in the thousands for each plan. If we got an amount less than a thousand or more then $10,000 we would be surprised and double check our work.
 				</p>
 			</solution>
 			<solution>
-				<title>Step 2: The information</title>
+				<title>Step 2: The information and estimation</title>
 				<p>
 					We are given the monthly premiums and deductibles for each plan. We will assume this is for one person. Most plans have a separate deductible for each person so making this decision for a family could be an extension of this problem. You might also need to know how much you usually spend on healthcare per year. We will proceed without this for now and return to this step if it becomes relevant. Let's restate the information we have:
 				</p>
@@ -168,6 +157,9 @@
 						</ul>
 					</p>
 				</sidebyside>
+				<p>
+					We estimate the yearly cost to be in the thousands for each plan. If we got an amount less than a thousand or more then $6,000 we would be surprised and double check our work.
+				</p>
 			</solution>
 			<solution>
 				<title>Step 3: Consider possible methods</title>
@@ -186,10 +178,10 @@
 						Plan A:
 					</p>
 					<p>
-						<m>\$200\cdot12</m> months <m>=\$2400</m> per year for premiums.
+						<m>\$200\cdot12</m> months <m>=\$2400</m> per year for premiums
 					</p>
 					<p>
-						Then add <m>\$1000</m> for the deductible.
+						Then add <m>\$1000</m> for the deductible
 					</p>
 					<p>
 						The total cost is <m>\$2400 + \$1000 = \$3400</m> per year.
@@ -200,10 +192,10 @@
 						Plan B:
 					</p>
 					<p>
-						<m>\$150\cdot12</m> months <m>=\$1800</m> per year for premiums.
+						<m>\$150\cdot12</m> months <m>=\$1800</m> per year for premiums
 					</p>
 					<p>
-						Then add <m>\$2400</m> for the deductible.
+						Then add <m>\$2400</m> for the deductible
 					</p>
 					<p>
 						The total cost is <m>\$1800 + \$2400 = \$4200</m> per year.
@@ -327,10 +319,13 @@
 			<solution>
 				<title>Step 5 Again: Check for a reasonable answer and explain the conclusion</title>
 				<p>
-					We completed the table and noticed some patterns that help us verify that our values are correct. Each value goes up by $200 per row, until the deductible is met. We also marked the cheaper option in each row in bold and found the row where both plans are the same.
+					We completed the table and noticed some patterns that help us verify that our values are correct. Each value goes up by $200 per row, until the deductible is met. We also marked the cheaper option in each row in bold and found the row where both plans have the same cost.
 				</p>
 				<p>
-					Now we can see that Plan B starts out cheaper from $0 to $1600 in healthcare cost. They are equal at $1600 and Plan A saves you money after $1600. Having this full picture can help you choose what is best for you in the coming year. If you estimate you will have less than $1600 in billed healthcare, then it would be cheaper to select Plan B. If you think it is more likely you will have more than $1600 in the coming year, then Plan A would be cheaper. This decision has an element of risk or uncertainty and we will learn additional tools to work with that in the probability chapter.
+					Now we can see that Plan B starts out cheaper from $0 to $1600 in healthcare cost. The plans are equal at $1600 and Plan A saves you money after $1600. Having this full picture can help you choose what is best for you in the coming year. If you estimate you will have less than $1600 in billed healthcare, then it would be cheaper to select Plan B. If you think it is more likely you will have more than $1600 in the coming year, then Plan A would be cheaper.
+				</p>
+				<p>
+					Some plans have copays and/or co-insurance amounts so adding those in could also be an extension of this situation. This decision also has an element of risk or uncertainty and we will learn additional tools to work with that in the probability chapter.
 				</p>
 			</solution>
 		</example>
@@ -339,15 +334,15 @@
 <subsection>
 	<title>Operation Sense</title>
 	<p>
-		In the problem we just did, notice what came intuitively to you. Did you have a sense for which plan would be cheaper? Did you intuitively know that we would use multiplication and addition? These operations are common in totalling values. They also make positive values larger. <term>Operation sense</term> is understanding what mathematical operations do and when to use them. There are many words and phrases that translate to certain operations and results in math. In this class you'll be practicing your operation sense to determine what steps to take.
+		In the problem we just did, notice what came intuitively to you. Did you have a sense for which plan would be cheaper? Did you intuitively know that we would use multiplication and addition? These operations are common in totalling values. They also make positive values larger. <term>Operation sense</term> is understanding what mathematical operations do and when to use them. There are many words and phrases that translate to certain operations and results in math. In this class you'll be using and practicing your operation sense to determine what steps to take.
 	</p>
 	<p>
 		In this table we list some words and phrases that can indicate each operation, and what will happen as a result. Here we focus on operations with positive numbers, but some of our problems may use negative quantities as well. As an extension, see if you can explain why we get the results from each operation (especially multiplication and division) and what would happen with negative numbers.
 	</p>
 		<tabular row-headers="yes" top="minor" left="minor" right="minor" bottom="minor" halign="left">
 			<col/>
-			<col width="40%"/>
-			<col width="40%"/>
+			<col width="35%"/>
+			<col width="35%"/>
 			<row header="yes">
 				<cell>Operation</cell>
 				<cell>Key phrases</cell>
@@ -355,7 +350,7 @@
 			</row>
 			<row>
 				<cell>Addition</cell>
-				<cell><p>Add, total, sum, increased by, together, altogether, all together, how many in all, plus, combined, both, and</p></cell>
+				<cell><p>Add, total, sum, increased by, together, altogether, all together, how many in all, plus, combined, and, both</p></cell>
 				<cell><p>When adding positive numbers, the answer is larger than the numbers being added.</p></cell>
 			</row>
 			<row>
@@ -422,7 +417,7 @@
 			</li>
 			<li>
 				<p>
-					To calculate the total spent on streaming services, we would likely multiply the monthly amount by the number of months. If there were multiple services we would add them together.
+					To calculate the total spent on streaming services, we would likely multiply the monthly amount by the number of months. For multiple services we would add them together.
 				</p>
 			</li>
 		</ol>
@@ -434,7 +429,10 @@
 <subsection>
 	<title>Number Sense and Estimation</title>
 	<p>
-		Another skill you have or are building is <term>number sense</term>. This has to do with understanding the size or magnitude of numbers, and patterns or relationships between numbers. A very useful tool when problem solving is using your number sense to <term>estimate</term> the result. Before you start, how large or small do you expect the answer to be? Would it be positive or negative? Do you expect a number less than one, or in the tens, thousands or millions? It is very important to come back at the end of a problem and use your number sense to make sure your answer seems reasonable.
+		Another skill you have or are building is <term>number sense</term>. This has to do with understanding the size or <term>magnitude</term> of numbers, and patterns or relationships between numbers. A very useful tool when problem solving is using your number sense to <term>estimate</term> the result.
+	</p>
+	<p>
+		Before you start, how large or small do you expect the answer to be? Would it be positive or negative? Do you expect a number less than one, a number in the hundreds, or in the millions? It is very important to come back at the end of a problem and use your number sense to make sure your answer seems reasonable.
 	</p>
 	<example>
 		<statement>
@@ -479,7 +477,7 @@
 				</li>
 				<li>
 					<p>
-						The movie revenue would be between $0 and a few thousand. Of course this depends on the size of the theater.
+						The movie revenue would be between 0 and a few thousand dollars. Of course this depends on the size of the theater.
 					</p>
 				</li>
 					<li>
@@ -492,7 +490,7 @@
 		</solution>
 	</example>
 		<p>
-			Now that we have gone through an example using the problem solving process and talked about operations and number sense, we will continue with more mathematical tools to use in making decisions. We will focus the rest of this section on problem solving with percentages and absolute and relative change.
+			Now that we have gone through an example using the problem solving process and talked about operations and number sense, we will continue with more mathematical tools to use in making decisions. We will talk about unit conversions and geometry and add in percents and proportions from previous sections.
 		</p>
 </subsection>
 
@@ -500,12 +498,12 @@
 	<title>Solving Problems with Unit Conversions</title>
 
 	<p>
-		Many situations also require unit conversions. You can use your number and operation sense to know whether to multiply or divide or you can line up the units so they cancel out. Here are some unit conversions for reference.
+		Many situations also require unit conversions. Here are some common conversion rates used.
 	</p>
 	<assemblage>
 		<title>Unit Conversions for Length</title>
 		<sidebyside>
-			<paragraphs>
+			<stack>
 				<p>
 					1 foot (ft) = 12 inches (in)
 				</p>
@@ -518,8 +516,8 @@
 				<p>
 					1000 meters (m) = 1 kilometer (km)
 				</p>
-			</paragraphs>
-			<paragraphs>
+			</stack>
+			<stack>
 				<p>
 					1 yard (yd) = 3 feet (ft)
 				</p>
@@ -529,37 +527,37 @@
 				<p>
 					100 centimeters (cm) = 1 meter (m)
 				</p>
-			</paragraphs>
+			</stack>
 		</sidebyside>
 	</assemblage>
 	<assemblage>
 		<title>Unit Conversions for Weight and Mass</title>
 		<sidebyside>
-			<paragraphs>
+			<stack>
 				<p>
 					1 pound (lb) = 16 ounces (oz)
 				</p>
 				<p>
 					1000 millgrams (mg) = 1 gram (g)
 				</p>
+			</stack>
+			<stack>
 				<p>
-					1 kilogram (kg) = 2.2 pounds (on Earth)
-				</p>
-			</paragraphs>
-			<paragraphs>
-				<p>
-					1 ton = 2000 pounds (lbs)
+					1 US ton = 2000 pounds (lbs)
 				</p>
 				<p>
 					1000 grams (g) = 1 kilogram (kg)
 				</p>
-			</paragraphs>
+			</stack>
 		</sidebyside>
+				<p>
+					1 kilogram (kg) <m>\approx</m> 2.2 pounds (lbs) in Earth's gravity
+				</p>
 	</assemblage>
 	<assemblage>
 		<title>Unit Conversions for Volume and Capacity</title>
 		<sidebyside>
-			<paragraphs>
+			<stack>
 				<p>
 					1 gallon (gal) = 4 quarts (qt)
 				</p>
@@ -572,8 +570,8 @@
 				<p>
 					1000 milliliters (ml) = 1 liter (L)
 				</p>
-			</paragraphs>
-			<paragraphs>
+			</stack>
+			<stack>
 				<p>
 					1 cup (c) = 8 fluid ounces (fl oz)
 				</p>
@@ -583,36 +581,36 @@
 				<p>
 					1 Tablespoon (T) = 3 Teaspoons (t)
 				</p>
-			</paragraphs>
+			</stack>
 		</sidebyside>
 		<p>
 			Note: Fluid ounces are a capacity measurement for liquids. 1 fluid ounce weighs about 1 ounce for water only.
 		</p>
 	</assemblage>
+	<p>
+		Unit conversions use rates so we will be multiplying or dividing. We can use our number sense to determine which operation to use, or we can line up the units to help us. Here we will line up the units to show you how. This is called <term>dimensional analysis</term>. Each conversion factor can be written two ways. For example, since 1 pint is equal to 2 cups, both of these fractions are equal to 1.
+		<me>\frac{1\text{ pint}}{2\text{ cups}}=\frac{2\text{ cups}}{1\text{ pint}}=1</me>
+		We can multiply by either one of these by lining up the units we want to cancel out. Because the rate is equal to 1, the value stays equivalent in the new units. Let's look at an example.
+	</p>
 	<example>
 		<statement>
 		<p>
-			
+			Your dog was stung by a bee and your veterinarian recommended you give them Benedryl. The dosage is 2 milligrams per kilogram of body weight and you want to double check the dose. Your dog weighs 54 pounds and the tablets are 25 mg each. How many tablets should you give your dog?
 		</p>
 		</statement>
 		<solution>
 			<p>
-				
+				First we will convert the pounds to kilograms by setting up the pounds to cancel out.
+				<me>54\,\cancel{\mathrm{ pounds}}\cdot\frac{1\text{ kilogram}}{2.2\,\cancel{\mathrm{ pounds}}}\approx 24.55\text{ kilograms}</me>
+				Then we multiply that by the dosage, setting up the kilograms to cancel.
+				<me>24.55\,\cancel{\mathrm{ kilograms}}\cdot\frac{2\text{ milligrams}}{1\,\cancel{\mathrm{ kilogram}}}\approx 49.1\text{ milligrams}</me>
 			</p>
-		</solution>
-	</example>
-	
-	<example>
-		<statement>
-		<p>
-		</p>
-		<p>
-		</p>
-		</statement>
-		<solution>
 			<p>
-				
-			</p>
+				Or we can also do this in one step
+				<me>54\,\cancel{\mathrm{ pounds}}\cdot\frac{1\,\cancel{\mathrm{ kilogram}}}{2.2\,\cancel{\mathrm{ pounds}}}\cdot\frac{2\text{ milligrams}}{1\,\cancel{\mathrm{ kilogram}}}\approx 49.1\text{ milligrams}</me>
+			</p>You should give your dog about 49.1 milligrams. Since the tablets are 25 mg each, we will divide 49.1 mg by 25 mg.
+			<me>\frac{49.1\,\cancel{\mathrm{ mg}}}{25\,\cancel{\mathrm{ mg}}}\approx 1.96\text{ tablets}</me>
+			Check with your vet to make sure it's within an acceptable range, but it looks like you should give your dog 2 tablets. There are also liquid forms of medication to avoid giving partial tablets.
 		</solution>
 	</example>
 </subsection>
@@ -621,12 +619,12 @@
 	<title>Solving Problems with Geometry</title>
 
 	<p>
-
+		If there are geometric shapes in a problem we may need to look up some formulas. Here are a few of the most common.
 	</p>
 	<assemblage>
 		<title>Perimeter and Area</title>
 		<sidebyside>
-			<paragraphs>
+			<stack>
 				<p>
 					<term>Rectangle</term>
 				</p>
@@ -636,8 +634,8 @@
 				<p>
 					Area = <m>L\cdot W\text{ units}^2</m>
 				</p>
-			</paragraphs>
-			<paragraphs>
+			</stack>
+			<stack>
 				<p>
 					<term>Circle</term>
 				</p>
@@ -647,49 +645,56 @@
 				<p>
 					Area = <m>\pi r^2\text{ units}^2</m>
 				</p>
-			</paragraphs>
+			</stack>
 		</sidebyside>
-		<sidebyside widths="30% 18%">
+		<!-- todo: try to fix the centering in the columns to look better in pdf-->
+		<sidebyside widths="30% 18%" margins="0% 30%">
+			<p>
 				<image source="images/language_logic_rules/problem_solving/rectangle.png">
 					<shortdescription>A rectangle with the width labeled W and the length labeled L.</shortdescription>
 				</image>
+			</p>
+			<p>
 				<image source="images/language_logic_rules/problem_solving/circle.png">
 					<shortdescription>A circle with the radius labeled r.</shortdescription>
 				</image>
+			</p>
 		</sidebyside>
 	</assemblage>
 	<assemblage>
 		<title>Volume</title>
 		<sidebyside>
-			<paragraphs>
+			<stack>
 				<p>
 					<term>Rectangular Box</term>
 				</p>
 				<p>
 					Volume = <m>L\cdot W\cdot H\text{ units}^3</m>
 				</p>
-			</paragraphs>
-			<paragraphs>
+			</stack>
+			<stack>
 				<p>
 					<term>Cylinder</term>
 				</p>
 				<p>
 					Volume = <m>\pi r^2 H\text{ units}^3</m>
 				</p>
-			</paragraphs>
+			</stack>
 		</sidebyside>
-		<sidebyside widths="26% 20%">
+		<!-- todo: try to fix the centering in the columns to look better in pdf-->
+		<sidebyside widths="26% 20%" margins="0% 30%">
+			<p>
 			<image source="images/language_logic_rules/problem_solving/rectangular_box.png">
 					<shortdescription>A rectangular box with the width labeled W, length labeled L, and height labeled H</shortdescription>
 			</image>
+			</p>
+			<p>
 			<image source="images/language_logic_rules/problem_solving/cylinder.png">
 					<shortdescription>A cylinder with the radius labeled r and height labeled H</shortdescription>
 					</image>
+				</p>
 		</sidebyside>
 	</assemblage>
-	<p>
-		
-	</p>
 
 	<example>
 		<statement>
@@ -699,36 +704,96 @@
 		</statement>
 		<solution>
 			<p>
-				Step 1: We want to know how much the wood for the deck will cost. This will probably be in the thousands of dollars, possibly about $1000-2000, depending on the size of the deck and wood prices. In this context, estimates usually add 10% for parts of boards that don't get used so we will do that as well.
+				<alert>Step 1:</alert> We want to know how much the wood for the deck will cost. In building and construction, estimates usually add 10% for parts of boards that don't get used so we will do that as well.
 			</p>
 			<p>
-				Step 2: We need to know the size and shape of the deck, the type of boards and cost per board. You measure your deck and it's a 16 ft by 24 ft rectangle. Looking up prices online, you find 5/4-inch by 4-inch by 8-foot cedar deck boards for $11.99 each.
+				<alert>Step 2:</alert> We need to know the size and shape of the deck, the type of boards and cost per board. You measure your deck and it's a 16-foot by 24-foot rectangle. Looking up prices online, you find 5<solidus/>4-inch by 4-inch by 8-foot cedar deck boards for $11.99 each. We will estimate the cost of the wood to be in the thousands of dollars, possibly about $1000-3000.
 			</p>
 			<p>
-				Step 3: There are a few approaches we could take to this problem: 1) Go out to your deck and count the boards, 2) calculate the number of boards you will need using the area of the deck, or 3) calculate the area of the deck and find the approximate cost per square foot for deck boards.
+				<alert>Step 3:</alert> There are a few approaches we could take to this problem: 1) Go out to your deck and count the boards, 2) calculate the number of boards you will need using the area of the deck, or 3) calculate the area of the deck and find the approximate cost per square foot for deck boards.
 			</p>
 			<p>
-				Step 4: Option 3 seems like the most efficient approach so we will try that. The area of the deck is <me>16\text{ feet} \cdot 24\text{ feet} = 384\text{ feet}^2</me>.
+				<alert>Step 4:</alert> Option 3 seems like the most efficient approach so we will try that. The area of the deck is <me>16\text{ feet} \cdot 24\text{ feet} = 384\text{ feet}^2</me>
 			</p>
 			<p>
 				To find the cost per square foot for decking boards, we could compute the area of the top of a single board, and then divide the cost by the area. Since the width of a board is 4 inches we also need to convert that into feet. So the area of a single board is
 			</p>
 			<p>
-				<me>8\text{ feet}\cdot4\cancel{\mathrm{ inches}}\cdot\frac{1\text{ foot}}{12\cancel{\mathrm{ inches}}}=2.667\text{ ft}^2</me>
+				<me>8\text{ feet}\cdot\left(4\,\cancel{\mathrm{ inches}}\cdot\frac{1\text{ foot}}{12\,\cancel{\mathrm{ inches}}}\right)=2.667\text{ ft}^2</me>
   				The cost per square foot of one board is
-  				<me>\frac{\$11.99}{2.667\text{ ft}^2}\approx \$4.4957\text{ per square foot}</me>.
+  				<me>\frac{\$11.99}{2.667\text{ ft}^2}\approx \$4.4957\text{ per square foot}</me>
 			</p>
 			<p>
 				This will allow us to estimate the material cost for the whole deck by multiplying
-				<me>384\cancel{\mathrm{ feet}^2}\cdot\frac{\$4.4957}{\cancel{\mathrm{ feet}^2}}\approx\$1726.35</me>.
+				<me>384\,\cancel{\mathrm{ feet}^2}\cdot\frac{\$4.4957}{\cancel{\mathrm{ feet}^2}}\approx\$1{,}726.35</me>
   			</p>
   			<p>
 				Then we will add 10% to the cost. We can calculate the 10% and then add, or multiply by 1.10.
-				<me>\$1726.35(1.10)\approx \$1898.99</me>.
-				Step 5: This answer is reasonable and fits with our original estimate. You should save up or set aside about $1900 for this project. This is just the cost of the wood and doesn't include nails, screws or any foundation materials.
+				<me>\$1{,}726.35(1.10)\approx \$1{,}898.99</me>
+				<alert>Step 5:</alert> This answer is reasonable and fits with our original estimate. You should save up or set aside about $1900 for this project. This is just the cost of the wood and doesn't include nails, screws or any foundation materials.
 			</p>
 			<p>
-				For confirmation with a second method, we could use option 2. We divide 
+				For confirmation with a second method, we could use option 2. If we divide the deck area by the board area that should tell us approximately how many boards we need. This calculation would also be necessary when you go to make the purchase. We divide
+				<me>\frac{384\,\cancel{\mathrm{ feet}^2}}{2.667\,\cancel{\mathrm{ feet}^2}}=143.98\text{ boards}</me>
+			</p>
+			<p>Then adding 10% to that will tell us how many boards to buy.
+			<me>143.98(1.10)\approx 158.389\text{ boards}</me>
+			If you round up to 159 boards the cost will be
+			<me>159(\$11.99)\approx \$1{,}906.41</me>
+			This cost is very close to our other method but slightly higher because we are taking full boards into consideration. Using two methods we can say you should save about $1,900-2,000 for the wood decking.
+		</p>
+		</solution>
+	</example>
+	<example>
+		<statement>
+			<p>
+				You are making many pizzas for a large party. Your favorite recipe makes 20 ounces of dough for two 12-inch diameter pizzas. You want the pizzas to be larger for the party so you plan to make six 16-inch pizzas. How much dough do you need and by what factor should you multiply or scale the recipe?
+			</p>
+		</statement>
+		<solution>
+			<p>
+				<alert>Step 1:</alert> We want to find out how much dough is needed in total and how to scale the recipe. For this context we need to consider how the weight of the dough will scale. The weight is based on the volume of the dough, but the size is based on just the top or bottom of the pizza. Since this is your favorite dough, we assume the thickness of the crust should be the same.
+			</p>
+			<p>
+				<alert>Step 2:</alert> To estimate a reasonable answer we will switch to pounds because we have more number sense with pounds.
+				<me>20\,\cancel{\mathrm{ ounces}}\cdot\frac{1\text{ pound}}{16\,\cancel{\mathrm{ ounces}}}=1.25\text{ pounds}</me>
+				Twenty ounces is 1.25 pounds, so with three times as many pizzas that are larger in diameter, we will estimate around 4-6 pounds of pizza dough. Converting back, we multiply by 16 and that would be 64 to 96 ounces.
+			</p>
+			<p>
+				<alert>Step 3:</alert> We will try finding the area of each size pizza and see if that helps us scale the recipe.
+			</p>
+			<p>
+				<alert>Step 4:</alert> The formula for the area of a circle uses the radius, so we need to divide each diameter by 2 to get the radius. Using the formula for the area of a circle we have
+				<me>\text{Area of a 12-inch pizza }=\pi(6)^2\approx 113\text{ inches}^2</me>
+				<me>\text{Area of a 16-inch pizza }=\pi(8)^2\approx 201\text{ inches}^2</me>
+				Since the pizzas will have the same thickness, we can scale based on the areas and divide to get the scaling factor.
+			</p>
+			<p>
+				<me>\frac{201\,\cancel{\mathrm{ inches}^2}}{113\,\cancel{\mathrm{ inches}^2}}= 1.78\text{ times}</me>
+				The area of the larger pizza is 1.78 times the smaller pizza and we need three times as many pizzas, so we would scale the recipe by
+				<me>1.78\cdot3 = 5.34\text{ or about } 5 \frac{1}{3}\text{ times}</me>
+				Then to find out how much dough that will make, we need to multiply that by 20 ounces.
+				<me>5 \frac{1}{3}(20\text{ ounces})\approx 106.67 \text{ ounces}</me>
+			</p>
+			<p>
+				<alert>Step 5:</alert> We got a scale factor of 5<nbsp/>1<solidus/>3 times for our recipe which would make 106.67 ounces of dough. This is a little higher than our estimate, but we didn't take into account that we are scaling the length and width of a pizza, so our answer seems reasonable.
+			</p>
+			<!-- cancel\highlight or highlignt\cancel? -->
+			<p>
+ 				To verify our solution by using another method, we can set up a proportion to scale the dough. For the original recipe for 2 pizzas we have
+ 				<md>
+ 					<mrow>\frac{x\text{ ounces}}{201\text{ inches}^2}\amp=\frac{20\text{ ounces}}{113\text{ inches}^2}</mrow>
+ 					<mrow>\cancel{\highlight{201\,\mathrm{ inches}^2}}\cdot\frac{x\text{ ounces}}{\cancel{201\,\mathrm{ inches}^2}}\amp=\highlight{201\text{ inches}^2}\cdot\frac{20\text{ ounces}}{113\text{ inches}^2}</mrow>
+ 					<mrow>x\amp=\frac{201\,\cancel{\mathrm{ inches}^2}\cdot{20\text{ ounces}}}{113\,\cancel{\mathrm{ inches}^2}}</mrow>
+ 					<mrow>\amp\approx35.575\text{ ounces}</mrow>
+ 				</md>
+   				We need about 35.575 ounces of dough for two 16-inch pizzas. Now we multipy that by 3 to get the amount needed for six 16-inch pizzas.
+   				<me>35.575(3)=106.73\text{ ounces}</me>
+   				This is very close to what we got for our first method. To scale the recipe we would use the ratio
+   				<me>\frac{106.73\,\cancel{\mathrm{ ounces}}}{20\,\cancel{\mathrm{ ounces}}}\approx 5.34 \text{ times}</me>
+			</p>
+			<p>
+				It is interesting to note that while the diameter is 1.33 times as large, the dough required, which scales with area, is <m>(1.33)^2</m> = 1.78 times as large for each pizza.
 			</p>
 		</solution>
 	</example>
@@ -1138,7 +1203,7 @@
 		</statement>
 		<solution>
 			<p>
-				
+				Answers will vary.
 			</p>
 		</solution>
 	</exercise>
@@ -1153,7 +1218,7 @@
 		</statement>
 		<solution>
 			<p>
-				
+				Answers will vary.
 			</p>
 		</solution>
 	</exercise>
@@ -1165,7 +1230,7 @@
 		</statement>
 		<solution>
 			<p>
-				
+				Answers will vary.
 			</p>
 		</solution>
 	</exercise>
@@ -1177,7 +1242,7 @@
 		</statement>
 		<solution>
 			<p>
-				
+				Answers will vary.
 			</p>
 		</solution>
 	</exercise>
@@ -1189,7 +1254,7 @@
 		</statement>
 		<solution>
 			<p>
-				
+				Answers will vary.
 			</p>
 		</solution>
 	</exercise>
@@ -1201,7 +1266,7 @@
 		</statement>
 		<solution>
 			<p>
-				
+				Answers will vary.
 			</p>
 		</solution>
 	</exercise>
@@ -1221,7 +1286,7 @@
 		</statement>
 		<solution>
 			<p>
-
+				Answers will vary.
 			</p>
 		</solution>
 	</exercise>
@@ -1233,7 +1298,7 @@
 		</statement>
 		<solution>
 			<p>
-
+				Answers will vary.
 			</p>
 		</solution>
 	</exercise>
@@ -1245,7 +1310,7 @@
 		</statement>
 		<solution>
 			<p>
-
+				Answers will vary.
 			</p>
 		</solution>
 	</exercise>
@@ -1257,7 +1322,7 @@
 		</statement>
 		<solution>
 			<p>
-
+				Answers will vary.
 			</p>
 		</solution>
 	</exercise>
@@ -1269,7 +1334,7 @@
 		</statement>
 		<solution>
 			<p>
-
+				Answers will vary.
 			</p>
 		</solution>
 	</exercise>
@@ -1281,7 +1346,7 @@
 		</statement>
 		<solution>
 			<p>
-
+				Answers will vary.
 			</p>
 		</solution>
 	</exercise>
@@ -1289,7 +1354,7 @@
 
 <subsubsection xml:id="subsubsection-information">
 <title>Information for Problem Solving Problems</title>
-<p>
+<p>Here is the information for the specified exercises.
 <list xml:id="list-breadcrumbs">
 	<title>Breadcrumb Information</title>
 		<ul>

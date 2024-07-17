@@ -524,13 +524,13 @@
 				With interest, Bilqis now owes $915.66.
 			</p>
 			<p>
-				 Now we will find one percent of the new balance which is <me>\$915.66(0.01) \approx \$9.16</me>.
+				 Now we will find one percent of the new balance which is <me>\$915.66(0.01) \approx \$9.16</me>
 			</p>
 			<p>
 				$25 is larger than $9.16, so her first payment must be at least $25. If she makes the minimum payment we can subtract to find her new balance:
 			</p>
 			<p>
-				<me>\$915.66-\$25 = \$890.66</me>.
+				<me>\$915.66-\$25 = \$890.66</me>
 			</p>
 			<p>
 				Her new balance will be $890.66.
@@ -874,7 +874,7 @@
 						<m>P = \frac{700\left(1-\left(1+\frac{5.5\%}{12}\right)^{-12\times 30}\right)}{\frac{5.5\%}{12}}</m>, which gives <m>P \approx \$123,285.23</m>
 					</p>
 					<p>
-						or <c>=PV(5.5%/12,12*30,-700)</c> [Note 700 is entered as negative, to signify a payment]
+						or <c>=PV(0.055/12,12*30,-700)</c> [Note 700 is entered as negative, to signify a payment]
 					</p>
 				</li>
 				<li>
@@ -925,7 +925,7 @@
 						<m>P = \frac{250\left(1-\left(1+\frac{7\%}{12}\right)^{-12 \times 5}\right)}{\frac{7\%}{12}}</m>, which gives <m>P \approx \$12,625.50</m>
 					</p>
 					<p>
-						or <c>=PV(7%/12,12*5,-250)</c>
+						or <c>=PV(0.07/12,12*5,-250)</c>
 					</p>
 				</li>
 				<li>
@@ -954,7 +954,7 @@
 			<m>d = \frac{25000\left(\frac{2\%}{12}\right)}{\left(1-\left(1+\frac{2\%}{12}\right)^{-12 \times 4}\right)}</m>, which gives <m>d \approx \$542.38</m>
 		</p>
 		<p>
-			or <c>=PMT(2%/12,48,25000)</c>
+			or <c>=PMT(0.02/12,48,25000)</c>
 		</p>
 	</solution>
 </exercise>
@@ -970,7 +970,7 @@
 			<m>d = \frac{12000\left(\frac{3\%}{12}\right)}{\left(1-\left(1+\frac{3\%}{12}\right)^{-12\times 4}\right)}</m>, which gives <m>d \approx \$265.61</m>
 		</p>
 		<p>
-			or <c>=PMT(3%/12,48,12000)</c>
+			or <c>=PMT(0.03/12,48,12000)</c>
 		</p>
 		<p>
 			The interest will be the total amount paid, minus the amount of the loan. So the interest here is <m>(\$265.61 * 48) – \$12,000 = \$749.28</m>
@@ -1020,7 +1020,7 @@
 						<m>d = \frac{180000\left(\frac{5\%}{12}\right)}{\left(1-\left(1+\frac{5\%}{12}\right)^{-12 \times 30}\right)}</m>, which gives <m>d \approx \$966.28</m>
 					</p>
 					<p>
-						or <c>=PMT(5%/12,12*30,180000)</c>
+						or <c>=PMT(0.05/12,12*30,180000)</c>
 					</p>
 				</li>
 				<li>
@@ -1028,7 +1028,7 @@
 						<m>d = \frac{180000\left(\frac{6\%}{12}\right)}{\left(1-\left(1+\frac{6\%}{12}\right)^{-12 \times 30}\right)}</m>, which gives <m>d \approx \$1,079.19</m>
 					</p>
 					<p>
-						or <c>=PMT(6%/12,12*30,180000)</c>
+						or <c>=PMT(0.06/12,12*30,180000)</c>
 					</p>
 				</li>
 			</ol>
@@ -1069,7 +1069,7 @@
 						<m>d = \frac{270000\left(\frac{6.5\%}{12}\right)}{\left(1-\left(1+\frac{6.5\%}{12}\right)^{-12 \times 30}\right)}</m>, which gives <m>d \approx 1,706.58</m>
 					</p>
 					<p>
-						or <c>=PMT(6.5%/12,12*30,270000)</c>
+						or <c>=PMT(0.065/12,12*30,270000)</c>
 					</p>
 				</li>
 				<li>
@@ -1104,7 +1104,7 @@
 			<m>d = \frac{24000\left(\frac{3\%}{12}\right)}{\left(1-\left(1+\frac{3\%}{12}\right)^{-12 \times 5}\right)}</m>, which gives <m>d \approx \$431.25</m>
 		</p>
 		<p>
-			or <c>=PMT(3%/12,12*5,24000)</c>
+			or <c>=PMT(0.03/12,12*5,24000)</c>
 		</p>
 		<p>
 			The amount still owed three years later, is the present value of the two years of remaining payments on the loan.
@@ -1113,7 +1113,7 @@
 			<m>P = \frac{\left(1-\left(1+\frac{3\%}{12}\right)^{-12 \times 2}\right)}{\frac{3\%}{12}}</m>, which gives <m>P \approx \$10,033.45</m>
 		</p>
 		<p>
-			or <c>=PV(3%/12,12*2,-431.25)</c>
+			or <c>=PV(0.03/12,12*2,-431.25)</c>
 		</p>
 	</solution>
 </exercise>
@@ -1132,7 +1132,7 @@
 			<m>d = \frac{120000\left(\frac{6\%}{12}\right)}{\left(1-\left(1+\frac{6\%}{12}\right)^{-12 \times 30}\right)}</m>, which gives <m>d \approx \$719.46</m>
 		</p>
 		<p>
-			or <c>=PMT(6%/12,12*30,120000)</c>
+			or <c>=PMT(0.06/12,12*30,120000)</c>
 		</p>
 		<p>
 			The amount still owed fifteen years later, is the present value of the fifteen years of remaining payments on the loan.
@@ -1141,7 +1141,7 @@
 			<m>P = \frac{719.46\left(1-\left(1+\frac{6\%}{12}\right)^{-12 \times 15}\right)}{\frac{6\%}{12}}</m>, which gives <m>P \approx \$85,258.54</m>
 		</p>
 		<p>
-			or <c>=PV(6%/12,12*15,-719.46)</c>
+			or <c>=PV(0.06/12,12*15,-719.46)</c>
 		</p>
 	</solution>
 </exercise>
@@ -1161,7 +1161,7 @@
 	</statement>
 	<solution>
 		<p>
-			<c>=PV(4%/12,12*30,950)</c> which gives $198,988.18.
+			<c>=PV(0.04/12,12*30,950)</c> which gives $198,988.18.
 		</p>
 		<p>
 			Now add $20,000 to this balance, which gives $218,988.18.
@@ -1194,7 +1194,7 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					<c>=PMT(2.95%/12,12*15,180000,0)</c> which gives $1,238.72.
+					<c>=PMT(0.0295/12,12*15,180000,0)</c> which gives $1,238.72.
 				</p>
 				<p>
 					You cannot afford this home.
@@ -1235,7 +1235,7 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					<c>=PMT(5%,10,100000,0)</c> which gives $12,950.46.
+					<c>=PMT(0.05,10,100000,0)</c> which gives $12,950.46.
 				</p>
 			</li>
 			<li>
@@ -1246,7 +1246,7 @@
 					The interest is the amount over the $100,000 initial investment, or $29,504.60.
 				</p>
 				<p>
-					The percentage of the total payment sum representing interest will be <m>100*(29,504.60/129,504.60)\%</m>, or approximately 22.7827%.
+					The percentage of the total payment sum representing interest will be <m>100(29,504.60/129,504.60)\%</m>, or approximately 22.7827%.
 				</p>
 			</li>
 		</ol>
@@ -1284,17 +1284,18 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					<c>=PV(3.5%/4,4*12,1500)</c> which gives $58,586.02.
+					<c>=PV(0.035/4,4*12,1500)</c> which gives $58,586.02.
 				</p>
 			</li>
 			<li>
 				<p>
-					<c>=PMT(3.5%/4,4*12,0,100000)</c> which gives $1,685.34.
+					<c>=PMT(0.035/4,4*12,0,100000)</c> which gives $1,685.34.
 				</p>
 			</li>
 			<li>
+				<stack>
 				<p>
-					<c>=PMT(3.5%/4,4*12,-8000,100000)</c> which gives $1,480.51.
+					<c>=PMT(0.035/4,4*12,-8000,100000)</c> which gives $1,480.51.
 				</p>
 				<p>
 					(Note 8000 is input as negative, to signify a payment.)
@@ -1303,11 +1304,13 @@
 					Note this answer can also be found by subtracting the future value of $8000 here, which equals $12,153.47, from the required ending balance of $100,000 (which leaves $87,846.47) and then using the PMT function:
 				</p>
 				<p>
-					<c>=PMT(3.5%/4,4*12,0,100000-12153.47)</c> which again gives $1,480.51.
+					<c>=PMT(0.035/4,4*12,0,100000-12153.47)</c> which again gives $1,480.51.
 				</p>
-				<p>
-					This can also be done in nested fashion (be careful to add the negative FV quantity): <c>=PMT(3.5%/4,4*12,0,100000+FV(3.5%/4,4*12,0,8000))</c>.
-				</p>
+				<!-- todo: badness in this statement but I can't figure out why -->
+				<!-- <p>
+					This can also be done in nested fashion (be careful to add the negative FV quantity): <c>=PMT(0.035/4,4*12,0,100000+FV(0.035/4,4*12,0,8000))</c>.
+				</p> -->
+				</stack>
 			</li>
 		</ol>
 	</p>
@@ -1349,7 +1352,7 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					<c>=PMT(4.5%/12,12*30,250000)</c> which gives $1,266.71.
+					<c>=PMT(0.045/12,12*30,250000)</c> which gives $1,266.71.
 				</p>
 			</li>
 			<li>
@@ -1357,7 +1360,7 @@
 					This will be the present value of the remaining 240 loan payments:
 				</p>
 				<p>
-					<c>=PV(4.5%/12,12*20,1266.71)</c> which gives $200,223.07.
+					<c>=PV(0.045/12,12*20,1266.71)</c> which gives $200,223.07.
 				</p>
 			</li>
 			<li>
@@ -1365,7 +1368,7 @@
 					This will be the present value of the remaining 120 loan payments:
 				</p>
 				<p>
-					<c>=PV(4.5%/12,12*10,1266.71)</c> which gives $122,223.99.
+					<c>=PV(0.045/12,12*10,1266.71)</c> which gives $122,223.99.
 				</p>
 			</li>
 			<li>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <section xml:id="chap_one_language_logic">
-<title>The Language and Rules of Logic with Truth Tables</title>
+<title>Truth Tables</title>
 
 <objectives>
 	<introduction>
@@ -11,22 +11,17 @@
 	<ul>
 		<li>
 			<p>
-				Identify propositions
+				Translate between English sentences and symbolic notation
 			</p>
 		</li>
 		<li>
 			<p>
-				Compose and interpret the negation of a statement
+				Use truth tables to find truth values of basic statements
 			</p>
 		</li>
 		<li>
 			<p>
-				Use logical connectors (and/or) and conditional statements (if, then)
-			</p>
-		</li>
-		<li>
-			<p>
-				Use truth tables to find truth values of basic and complex statements
+				Use truth tables to find truth values of complex statements
 			</p>
 		</li>
 	</ul>
@@ -34,277 +29,13 @@
 
 <introduction>
 	<p>
-		Note: This section begins the same way as, <em>Logic in Everyday Life,</em> but includes truth tables.
+		Note: This section covers truth tables as an extension of <em>Logic in Everyday Life.</em> You may need to read that section first if you haven't already.
 	</p>
 	<figure>
       <caption>Alternative Video Lesson</caption>
-      <video youtube="wtaYYd7xE10" label="video-language-logic"/>
+      <video youtubeplaylist="PLsFUxEAXGFKQAuArxrQS6XERFPL4SbGBE" label="video-language-logic"/>
     </figure>
 </introduction>
-
-<subsection>
-<title>Logic</title>
-	<p>
-		<term>Logic</term> is the study of reasoning. Our goal in this chapter is to examine arguments to determine their validity and soundness. In this section we will look at propositions and logical connectors that are the building blocks of arguments. We will also use truth tables to help us examine complex statements.
-	</p>
-</subsection>
-
-<subsection>
-<title>Propositions</title>
-	<p>
-		A <term>proposition</term> is a complete sentence that is either true or false. Opinions can be propositions, but questions or phrases cannot.
-	</p>
-	<example>
-		<statement>
-		<p>
-			Which of the following are propositions?
-			<ol marker="a">
-				<li>
-					<p>
-						I am reading a math book.
-					</p>
-				</li>
-				<li>
-					<p>
-						Math is fun!
-					</p>
-				</li>
-				<li>
-					<p>
-						Do you like turtles?
-					</p>
-				</li>
-					<li>
-					<p>
-						My cat
-					</p>
-				</li>
-			</ol>
-		</p>
-		</statement>
-		<solution>
-		<p>
-			The first and second items are propositions. The third one is a question and the fourth is a phrase, so they are not. We are not concerned right now about whether a statement is true or false. We will come back to that later when we examine full arguments.
-		</p>
-		</solution>
-	</example>
-	<p>
-		Arguments are made of one or more propositions (called <term>premises</term>), along with a <term>conclusion</term>. Propositions may be <term>negated</term>, or combined with <term>connectors</term> like “and”, and “or”. Let's take a closer look at how these negations and logical connectors are used to create more complex statements.
-	</p>
-</subsection>
-
-<subsection>
-	<title>Negation (not)</title>
-	<p>
-		One way to change a proposition is to use its <term>negation</term>, or opposite meaning. We often use the word <q><term>not</term></q> to negate a statement.
-	</p>
-	<example>
-		<statement>
-		<p>
-			Write the negation of the following propositions.
-		<ol marker="a">
-			<li>
-				<p>
-					I am reading a math book.
-				</p>
-			</li>
-			<li>
-				<p>
-					Math is fun!
-				</p>
-			</li>
-			<li>
-				<p>
-					The sky is not green.
-				</p>
-			</li>
-			<li>
-				<p>
-					Cars have wheels.
-				</p>
-			</li>
-		</ol>
-		</p>
-	</statement>
-		<solution>
-			<p>
-			<ol marker="a">
-				<li>
-					<p>
-						Negation: I am <insert>not</insert> reading a math book.
-					</p>
-				</li>
-				<li>
-					<p>
-						Negation: Math is <insert>not</insert> fun!
-					</p>
-				</li>
-				<li>
-					<p>
-						Negation: The sky is green (or <insert>not</insert> not green).
-					</p>
-				</li>
-					<li>
-					<p>
-						Negation: Cars do <insert>not</insert> have wheels.
-					</p>
-				</li>
-			</ol>
-			</p>
-		</solution>
-	</example>
-</subsection>
-
-<subsection>
-	<title>Negation of All and None</title>
-
-	<p>
-		It is worth mentioning these qualifiers and how to negate them. If we were to make the statement, <q><alert>All</alert> students read this book,</q> we could negate it by saying <q><alert>Not all</alert> students read this book.</q> or <q><alert>Some</alert> students <alert>don't</alert> read this book.</q> Notice how this is very different from <q><alert>No</alert> students read this book.</q>
-	</p>
-	<p>
-		If we were to negate, <q><alert>No</alert> students read this book,</q> we could say, <q><alert>A</alert> student is reading this book,</q> or even, <q><alert>Some</alert> students do read this book.</q> It only takes one counterexample to negate an all or nothing statement and the phrases <alert>some do</alert> and <alert>some don't</alert> are often used for this purpose. The same concept applies to similar words like everyone, nobody, always and never.
-	</p>
-	<example>
-		<statement>
-		<p>
-			Write two different negations of each statement.
-			<ol marker="a">
-			<li>
-				<p>
-					All college students take psychology.
-				</p>
-			</li>
-			<li>
-				<p>
-					Dogs are never brown.
-				</p>
-			</li>
-		</ol>
-		</p>
-		</statement>
-		<solution>
-			<p>
-			<ol marker="a">
-			<li>
-				<p>
-					Negations: <insert>Not</insert> all college students take psychology, or, <insert>Some</insert> college students <alert>don't</alert> take psychology.
-				</p>
-			</li>
-			<li>
-				<p>
-					Negations: <insert>There are</insert> brown dogs, or, <insert>Some</insert> dogs are brown.
-				</p>
-			</li>
-		</ol>
-		</p>
-		</solution>
-	</example>
-</subsection>
-
-<subsection>
-	<title>Multiple Negations</title>
-
-	<p>
-		It is possible to use more than one negation in a statement. If you've ever said something like, <q>I <alert>can't not</alert> go,</q> you are really saying you must go. It's a lot like multiplying two negative numbers which gives a positive result.
-	</p>
-	<p>
-		In the media and in ballot measures we often see multiple negations and it can be confusing to figure out what a statement means.
-	</p>
-
-	<example>
-		<statement>
-		<p>
-			Read the statement and determine the outcome of a yes vote.
-		</p>
-		<p>
-			<q>Vote for this measure to repeal the ban on plastic bags.</q>
-		</p>
-		</statement>
-		<solution>
-			<p>
-				If you said that a yes vote would enable plastic bag usage, you are correct. The ban stopped plastic bag usage, so to repeal the ban would allow it again. This measure has a double negation and is also not very good for the environment.
-			</p>
-		</solution>
-	</example>
-	
-	<example>
-		<statement>
-		<p>
-			Read the statement and determine the outcome on mandatory minimum sentencing.
-		</p>
-		<p>
-			<q>The bill that overturned the ban on mandatory minimum sentencing was vetoed.</q>
-		</p>
-		</statement>
-		<solution>
-			<p>
-				In this case mandatory minimum sentencing would not be allowed. The ban would stop it, and the bill to overturn it was vetoed. This is an example of a triple negation.
-			</p>
-		</solution>
-	</example>
-</subsection>
-
-<subsection>
-	<title>Logical Connectors (and, or)</title>
-
-	<p>
-		When we use the word <q><term>and</term></q> between two propositions, it connects them to create a new statement that is also a proposition. For example, if you said <q>To finish this project, I need a screwdriver <alert>and</alert> a wrench,</q> then you are expressing the need for both tools. For an <q>and</q> statement to be true, the connected propositions must both be true. If even one proposition is false (for instance, you didn't need a wrench) then the entire connected statement is false.
-	</p>
-	<p>
-		The word <q><term>or</term></q> between two propositions similarly connects the propositions to create a new statement. In this case, if you said <q>To finish this project, I need a screwdriver <alert>or</alert> a wrench,</q> then you are expressing the need for one of the tools (but probably not both). For an <q>or</q> statement to be true, at least one of the propositions must be true (or both could be true).
-	</p>
-</subsection>
-
-<subsection>
-	<title>Exclusive vs. Inclusive <em>or</em></title>
-	<p>
-		In English we often mean for <em>or</em> to be <term>exclusive</term>: one or the other, but not both. In math, however, <em>or</em> is usually <term>inclusive</term>: one or the other, or both. The thing we are including, or excluding is the <q>both</q> option.
-	</p>
-	<example>
-		<statement>
-		<p>
-			Determine whether each <em>or</em> statement is inclusive or exclusive.
-			<ol marker="a">
-				<li>
-					<p>
-						Would you like a chicken or vegan meal?
-					</p>
-				</li>
-				<li>
-					<p>
-						We want to hire someone who speaks Spanish or Chinese.
-					</p>
-				</li>
-				<li>
-					<p>
-						Are you going to wear sandals or tennis shoes?
-					</p>
-				</li>
-				<li>
-					<p>
-						Are you going to visit Thailand or Vietnam on your trip?
-					</p>
-				</li>
-			</ol>
-		</p>
-		</statement>
-		<solution>
-			<p>
-				The first <em>or</em> statement is a choice of one or the other, but not both, so it is exclusive. The second statement is inclusive because they could find a candidate who speaks both languages. The third statement is exclusive because you can't wear both at the same time. The fourth statement is inclusive because you could visit both countries on your trip.
-			</p>
-		</solution>
-	</example>
-</subsection>
-
-<subsection>
-	<title>Conditional Statements (if, then)</title>
-	<p>
-		A <term>conditional</term> statement connects two propositions with <em>if, then</em>. An example of a conditional statement would be <q><em>If</em> it is raining, <em>then</em> we'll go to the mall.</q>
-	</p>
-	<p>
-		The statement, <q>It is raining,</q> may be true or false for any given day. If the condition is true, then we will follow the course of action and go to the mall. If the condition is false, though, we haven't said anything about what we will or won't do.
-	</p>
-</subsection>
 
 <subsection>
 	<title>Basic Truth Tables</title>
@@ -388,7 +119,6 @@
 				</li>
 			</ul>
 	</p>
-				    
 	<p>
 		Once we fill in the starting columns, we add additional columns for the more complex statements. We can add as many columns as needed. Below are the basic truth tables for <em>not, and,</em> and <em>or.</em>
 	</p>
@@ -485,10 +215,7 @@
 <subsection>
 	<title>Conditional Truth Tables</title>
 	<p>
-		We talked about conditional statements (<term>if, then</term> statements), earlier. In logical arguments the first part (the <q><em>if</em></q> part) is usually a <term>hypothesis</term> and the second part (the <q><em>then</em></q> part) is a <term>conclusion</term>.
-	</p>
-	<p>
-	 	To understand the truth table values for a conditional statement it is helpful to look at an example. Let's say a friend tells you, <q>If you post that photo to Facebook, you'll lose your job.</q> Under what conditions can you say that your friend was wrong?
+	 	To understand the truth table values for a conditional statement it is really helpful to look at it in context. We used this example in <em>Logic in Everyday Life,</em> and we'll summarize it again here. Let's say a friend tells you, <q>If you post that photo to social media, you'll lose your job.</q> Under what conditions can you say that your friend was wrong?
 	</p>
 	<p>
 	 	There are four possible outcomes:
@@ -1055,450 +782,6 @@
 <exercises>
 <title>Exercises</title>
 	
-<exercise>
-	<statement>
-	<p>
-		Which of the following are propositions?
-	</p>
-	<p>
-		<ol marker="a">
-			<li>
-				<p>
-					Pigs can fly.
-				</p>
-			</li>
-			<li>
-				<p>
-					What?
-				</p>
-			</li>
-			<li>
-				<p>
-					I don't know.
-				</p>
-			</li>
-			<li>
-				<p>
-					I like tofu.
-				</p>
-			</li>
-		</ol>
-	</p>
-	</statement>
-	<solution>
-		<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					Proposition
-				</p>
-			</li>
-			<li>
-				<p>
-					Not a proposition
-				</p>
-			</li>
-			<li>
-				<p>
-					Proposition
-				</p>
-			</li>
-			<li>
-				<p>
-					Proposition
-				</p>
-			</li>
-		</ol>
-		</p>
-	</solution>
-</exercise>
-
-<exercise>
-	<statement>
-	<p>
-		Which of the following are propositions?
-	</p>
-	<p>
-		<ol marker="a">
-			<li>
-				<p>
-					How far?
-				</p>
-			</li>
-			<li>
-				<p>
-					Portland is not in Oregon.
-				</p>
-			</li>
-			<li>
-				<p>
-					Portland Community College.
-				</p>
-			</li>
-			<li>
-				<p>
-					It is raining.
-				</p>
-			</li>
-		</ol>
-	</p>
-	</statement>
-	<solution>
-		<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					Not a proposition
-				</p>
-			</li>
-			<li>
-				<p>
-					Proposition
-				</p>
-			</li>
-			<li>
-				<p>
-					Not a proposition
-				</p>
-			</li>
-			<li>
-				<p>
-					Proposition
-				</p>
-			</li>
-		</ol>
-		</p>
-	</solution>
-</exercise>
-
-<exercise>
-	<statement>
-	<p>
-		Write the negation of each proposition.
-	</p>
-	<p>
-		<ol marker="a">
-			<li>
-				<p>
-					I ride my bike to campus.
-				</p>
-			</li>
-			<li>
-				<p>
-					Portland is not in Oregon.
-				</p>
-			</li>
-		</ol>
-	</p>
-	</statement>
-	<solution>
-		<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					I do not ride my bike to campus.
-				</p>
-			</li>
-			<li>
-				<p>
-					Portland is in Oregon.
-				</p>
-			</li>
-		</ol>
-		</p>
-	</solution>
-</exercise>
-
-<exercise>
-	<statement>
-	<p>
-		Write the negation of each proposition.
-	</p>
-	<p>
-		<ol marker="a">
-			<li>
-				<p>
-					You should see this movie.
-				</p>
-			</li>
-			<li>
-				<p>
-					Lashonda is wearing blue.
-				</p>
-			</li>
-		</ol>
-	</p>
-	</statement>
-	<solution>
-		<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					You should not see this movie.
-				</p>
-			</li>
-			<li>
-				<p>
-					Lashonda is not wearing blue.
-				</p>
-			</li>
-		</ol>
-		</p>
-	</solution>
-</exercise>
-<exercise>
-	<statement>
-	<p>
-		Write a proposition that contains a double negative.
-	</p>
-	</statement>
-	<solution>
-		<p>
-			Answers will vary. Example: You can't not do your homework.
-		</p>
-	</solution>
-</exercise>
-
-<exercise>
-	<statement>
-	<p>
-		Write a proposition that contains a triple negative.
-	</p>
-	</statement>
-	<solution>
-		<p>
-			Answers will vary. Example: They decided not to cancel the ban on pesticides.
-		</p>
-	</solution>
-</exercise>
-
-<exercise>
-	<statement>
-	<p>
-		For each situation, decide whether the “or” is most likely exclusive or inclusive.
-	</p>
-	<p>
-		<ol marker="a">
-			<li>
-				<p>
-					An entrée at a restaurant includes soup or salad.
-				</p>
-			</li>
-			<li>
-				<p>
-					You should bring an umbrella or a raincoat with you.
-				</p>
-			</li>
-		</ol>
-	</p>
-	</statement>
-	<solution>
-		<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					Exclusive
-				</p>
-			</li>
-			<li>
-				<p>
-					Inclusive
-				</p>
-			</li>
-		</ol>
-		</p>
-	</solution>
-</exercise>
-
-<exercise>
-	<statement>
-	<p>
-		For each situation, decide whether the <q>or</q> is most likely exclusive or inclusive.
-	</p>
-	<p>
-		<ol marker="a">
-			<li>
-				<p>
-					We can keep driving on I-5 or get on I-405 at the next exit.		
-				</p>
-			</li>
-			<li>
-				<p>
-					You should save this document on your computer or a flash drive.
-				</p>
-			</li>
-		</ol>
-	</p>
-	</statement>
-	<solution>
-		<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					Exclusive
-				</p>
-			</li>
-			<li>
-				<p>
-					Inclusive
-				</p>
-			</li>
-		</ol>
-		</p>
-	</solution>
-</exercise>
-
-<exercise><!--  #9 -->
-	<statement>
-	<p>
-		For each situation, decide whether the <q>or</q> is most likely exclusive or inclusive.
-	</p>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					I will wear a sweater or a jacket.
-				</p>
-			</li>
-			<li>
-				<p>
-					My next vacation will be on the Oregon Coast or Mount Hood.
-				</p>
-			</li>
-		</ol>
-	</p>
-	</statement>
-	<solution>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					Inclusive
-				</p>
-			</li>
-			<li>
-				<p>
-					Exclusive
-				</p>
-			</li>
-		</ol>
-	</p>
-	</solution>
-</exercise>
-
-<exercise><!--  #10 -->
-	<statement>
-	<p>
-		For each situation, decide whether the <q>or</q> is most likely exclusive or inclusive.
-	</p>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					While in California I will go to the beach or Disneyland.
-				</p>
-			</li>
-			<li>
-				<p>
-					The insurance agent offers car or boat insurance.
-				</p>
-			</li>
-		</ol>
-	</p>
-	</statement>
-	<solution>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					Inclusive
-				</p>
-			</li>
-			<li>
-				<p>
-					Inclusive
-				</p>
-			</li>
-		</ol>
-	</p>
-	</solution>
-</exercise>
-
-<exercise>
-	<statement>
-	<p>
-		Rewrite the statement in the conditional form <em>if p, then q.</em>
-	</p>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					Whenever it is sunny, I go swimming.
-				</p>
-			</li>
-			<li>
-				<p>
-					I go see a movie on Fridays.
-				</p>
-			</li>
-		</ol>
-	</p>
-	</statement>
-	<solution>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					If it is sunny, then I will go swimming.
-				</p>
-			</li>
-			<li>
-				<p>
-					If it is Friday, then I will go see a movie.
-				</p>
-			</li>
-		</ol>
-	</p>
-	</solution>
-</exercise>
-
-<exercise> <!-- #12 -->
-	<statement>
-	<p>
-		Rewrite the statement in the conditional form <em>if p, then q.</em>
-	</p>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					I always carry an umbrella when it rains.
-				</p>
-			</li>
-			<li>
-				<p>
-					On the weekend I like to hang out with friends.
-				</p>
-			</li>
-		</ol>
-	</p>
-	</statement>
-	<solution>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					If it is raining, then I carry an umbrella.
-				</p>
-			</li>
-			<li>
-				<p>
-					If it is the weekend, then I am hanging out with friends.
-				</p>
-			</li>
-		</ol>
-	</p>
-	</solution>
-</exercise>
 
 <exercise>
 	<statement>
@@ -1616,7 +899,7 @@
 	</solution>
 </exercise>
 
-<exercise><!--  #15 -->
+<exercise><!--  #3 -->
 	<statement>
 	<p>
 		Translate each statement from English sentences into symbolic notation. Let A represent <q>I will protest</q> and let B represent <q>There is injustice.</q>
@@ -1732,82 +1015,6 @@
 	</solution>
 </exercise>
 
-<exercise><!--  #17 -->
-	<statement>
-	<p>
-		Determine whether the compound statement is true or false.
-	</p>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					An apple is a vegetable, or an apple is a fruit.
-				</p>
-			</li>
-			<li>
-				<p>
-					Portland is not a city in Oregon.
-				</p>
-			</li>
-		</ol>
-	</p>
-	</statement>
-	<solution>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					True
-				</p>
-			</li>
-			<li>
-				<p>
-					False
-				</p>
-			</li>	
-		</ol>
-	</p>
-	</solution>
-</exercise>
-
-<exercise><!--  #18 -->
-	<statement>
-	<p>
-		Determine whether the compound statement is true or false.
-	</p>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					Fish can walk and birds can swim.
-				</p>
-			</li>
-			<li>
-				<p>
-					If <m>2 + 5 = 10</m>, then <m>2 + 7 = 12</m>.
-				</p>
-			</li>
-		</ol>
-	</p>
-	</statement>
-	<solution>
-	<p>
-		<ol marker="a.">
-			<li>
-				<p>
-					False
-				</p>
-			</li>
-			<li>
-				<p>
-					True
-				</p>
-			</li>	
-		</ol>
-	</p>
-	</solution>
-</exercise>
-
 <exercisegroup>
 	<introduction>
 	<p>
@@ -1815,7 +1022,7 @@
 	</p>
 	</introduction>
 
-<exercise><!--  #19 -->
+<exercise><!--  #5 -->
 	<statement>
 	<p>
 		Let <em>A</em> be: I live in Oregon.
@@ -1958,7 +1165,7 @@
 	</p>
 	</introduction>
 
-<exercise><!--  #21 -->
+<exercise><!--  #7 -->
 	<statement>
 	<p>
 		<em>A and not B</em>
@@ -2032,7 +1239,7 @@
 	</solution>
 </exercise>
 
-<exercise><!--  #22 -->
+<exercise><!--  #8 -->
 	<statement>
 	<p>
 		<em>Not (not A or B)</em>
@@ -2116,7 +1323,7 @@
 	</solution>
 </exercise>
 
-<exercise><!--  #23 -->
+<exercise><!--  #9 -->
 	<statement>
 	<p>
 		<em>Not (A and B and C)</em>
@@ -2256,7 +1463,7 @@
 	</solution>
 </exercise>
 
-<exercise><!--  #24 -->
+<exercise><!--  #10 -->
 	<statement>
 	<p>
 		<em>Not A or (not B and C)</em>
@@ -2441,7 +1648,7 @@
 	</p>
 	</introduction>
 
-<exercise><!--  #25 -->
+<exercise><!--  #11 -->
 	<statement>
 	<p>
 		<em>Not(A and B) or C</em>
