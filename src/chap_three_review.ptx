@@ -791,11 +791,28 @@
 				</p>
 			</li>
 			<li>
-				<sidebyside width="35%">
+				<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+					<row header="yes">
+						<cell>Min</cell>
+						<cell>Q1</cell>
+						<cell>Median</cell>
+						<cell>Q3</cell>
+						<cell>Max</cell>
+					</row>
+					<row>
+						<cell>$3.25</cell>
+						<cell>$3.75</cell>
+						<cell>$4.75</cell>
+						<cell>$5.00</cell>
+						<cell>$8.95</cell>
+					</row>
+				</tabular>
+				<!-- Replaced image with table for accessibility -->
+				<!-- <sidebyside width="25%">
 				<image source="images/statistics/3_5/review_five_num_summary.png">
 					<shortdescription></shortdescription>
 				</image>
-				</sidebyside>
+				</sidebyside> -->
 			</li>
 			<li>
 				<p>
@@ -808,7 +825,7 @@
 			<li>
 				<sidebyside width="40%">
 				<image source="images/statistics/3_5/review_five_num_box.png">
-					<shortdescription></shortdescription>
+					<shortdescription>Boxplot using the 5-number summary above showing one outlier at $8.95</shortdescription>
 				</image>
 				</sidebyside>
 			</li>
@@ -853,7 +870,7 @@
 			</li>
 			<li>
 				<p>
-					Find the median of the data. Round to one decimal place if necessary. 
+					Find the median of the data. Round to one decimal place if necessary.
 				</p>
 			</li>
 			<li>
@@ -933,23 +950,40 @@
 				</p>
 			</li>
 			<li>
-				<sidebyside width="35%">
+				<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+					<row header="yes">
+						<cell>Min</cell>
+						<cell>Q1</cell>
+						<cell>Median</cell>
+						<cell>Q3</cell>
+						<cell>Max</cell>
+					</row>
+					<row>
+						<cell>32</cell>
+						<cell>73</cell>
+						<cell>78</cell>
+						<cell>88</cell>
+						<cell>99</cell>
+					</row>
+				</tabular>
+				<!-- Replaced image with table for accessibility -->
+				<!-- <sidebyside width="25%">
 				<image source="images/statistics/3_5/review_five_num_summary2.png">
 					<shortdescription></shortdescription>
 				</image>
-				</sidebyside>
+				</sidebyside> -->
 			</li>
 			<li>
 				<sidebyside width="35%">
 				<image source="images/statistics/3_5/review_five_num_box2.png">
-					<shortdescription></shortdescription>
+					<shortdescription>A boxplot using the 5-number summary above, there are no outliers</shortdescription>
 				</image>
 				</sidebyside>
 			</li>
 			<li>
 				<sidebyside width="50%">
 				<image source="images/statistics/3_5/review_boxplot_summary2.png">
-					<shortdescription></shortdescription>
+					<shortdescription>A histogram with a bin width of 10; it shows most of the scores are 70 and above with one between 30-40. The mode is between 70-80.</shortdescription>
 				</image>
 				</sidebyside>
 			</li>
@@ -1045,11 +1079,28 @@
 				</p>
 			</li>
 			<li>
-				<sidebyside width="35%">
+				<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
+					<row header="yes">
+						<cell>Min</cell>
+						<cell>Q1</cell>
+						<cell>Median</cell>
+						<cell>Q3</cell>
+						<cell>Max</cell>
+					</row>
+					<row>
+						<cell>$12 thousand</cell>
+						<cell>$18 thousand</cell>
+						<cell>$26 thousand</cell>
+						<cell>$32 thousand</cell>
+						<cell>$45 thousand</cell>
+					</row>
+				</tabular>
+				<!-- replaced image with table for accessibility -->
+				<!-- <sidebyside width="35%">
 				<image source="images/statistics/3_5/review_five_num_summary3.png">
 					<shortdescription></shortdescription>
 				</image>
-				</sidebyside>
+				</sidebyside> -->
 			</li>
 			<li>
 				<p>
@@ -1062,7 +1113,7 @@
 			<li>
 				<sidebyside width="40%">
 				<image source="images/statistics/3_5/review_five_num_box3.png">
-					<shortdescription></shortdescription>
+					<shortdescription>A boxplot using the 5-number summary above; no outliers are shown</shortdescription>
 				</image>
 				</sidebyside>
 			</li>

@@ -1322,6 +1322,7 @@
 				</p>
 			</li>
 			<li>
+				<!-- Todo: remove plot area box from this image -->
 				<sidebyside width="50%">
 					<image source="images/statistics/3_2/solution_immigration.png">
 						<shortdescription>There are six spaced apart bars labeled Food music and the arts, The economy in general, Social and moral values, Job opportunities for you and your family, Taxes, and Crime. The x-axis is labeled Situation and the y-axis is labeled Relative Frequency (%).  Food music and the arts goes up to 57%, The economy in general goes up to 43%, Social and moral values goes up to 31%, Job opportunities for you and your family goes up to 19%, Taxes goes up to 20%, and Crime goes up to 7%.</shortdescription>

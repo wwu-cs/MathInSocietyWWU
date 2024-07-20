@@ -111,10 +111,10 @@
 		</p>
 		<paragraphs>
 			<title>How to cite this book</title>
-			<!-- Todo: change edition number -->
+			<!-- Todo: change edition number and tagline. Mathematics for liberal arts majors -->
 			<p>
 				<url href="https://www.pcc.edu/math-in-society/"
-					visual="pcc.edu/math-in-society"><q>Math In Society: Mathematics for liberal arts majors, Edition 2.0</q></url>
+					visual="pcc.edu/math-in-society"><q>Math In Society, 2nd Edition: Tools for decision making</q></url>
 				by Lee et al., Portland Community College Math Department is licensed under
 				<url href="http://creativecommons.org/licenses/by-sa/4.0"
 					visual="creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</url>
@@ -160,7 +160,7 @@
 						</p> -->
 						<!-- Edition 2 attribution -->
 						<p>
-							<xref ref="logic_problem_solving"/> is a derivative of Math in Society: Logic by David Lippman and Morgan Chase, Sets and Problem Solving by David Lippman
+							<xref ref="logic_problem_solving"/> is a derivative of Math in Society: Logic by David Lippman and Morgan Chase, Sets, and Problem Solving by David Lippman, 
 							<url href="http://www.opentextbookstore.com/mathinsociety"
 								visual="opentextbookstore.com/mathinsociety"/>,
 							used under CC-BY-SA-4.0.
@@ -196,7 +196,7 @@
 					<li>
 						<p>
 							<xref ref="chap_five_apportionment"/> is a derivative of Math in Society: Apportionment and
-							<xref ref="chap_five_voting_methods"/> is a derivative of Math in Society: Voting Theory by David Lippman,
+							<xref ref="chap_five_voting_methods"/> is a derivative of Math in Society: Voting Theory by David Lippman, 
 							<url href="http://www.opentextbookstore.com/mathinsociety"
 								visual="opentextbookstore.com/mathinsociety"/>, 
 							used under CC-BY-SA 4.0.
@@ -313,14 +313,14 @@
 				This book is available for free in html and pdf form at
 				<url href="http://www.pcc.edu/math-in-society"
 					visual="pcc.edu/math-in-society"/>.
-				Edition 2, Chapters 1<ndash/>5 are available at the PCC bookstore printed by the PCC Print Center.
+				The 2nd Edition, Chapters 1<ndash/>5 are available at the PCC bookstore printed by the PCC Print Center.
 			</p>
 		</paragraphs>
 		<paragraphs>
 			<title>Additional Topics</title>
 			<p>
 				Your course may include one or more instructor choice topics which are available
-				online only from the website above, or from David Lippman's original book at
+				online only from the website above, or from David Lippman's original book at 
 				<url href="http://www.opentextbookstore.com/mathinsociety"
 					visual="opentextbookstore.com/mathinsociety"/>.
 			</p>
@@ -337,7 +337,7 @@
 		<paragraphs>
 			<title>Online Homework</title>
 			<p>
-				Online homework problems are available for free at
+				Online homework problems are available for free at 
 				<url href="https://www.myopenmath.com/" visual="myopenmath.com"/>.
 			</p>
 		</paragraphs>
