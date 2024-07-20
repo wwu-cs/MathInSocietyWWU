@@ -2,14 +2,15 @@
 <pretext xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US">
 	<docinfo>
 		<!-- Thumbnail for HTML -->
-		<brandlogo url="https://spot.pcc.edu/math/mathinsociety/book-1.html" source="images/Portland_Oregon_Skyline.jpg" />
+		<!-- <brandlogo url="https://spot.pcc.edu/math/mathinsociety/root-1-2.html" source="images/Portland_Oregon_Skyline_thumbnail.jpg" /> -->
+		<!-- Thumbnail for edition 2 -->
+		<brandlogo url="https://spot.pcc.edu/math/mathinsociety/root-1-2.html" source="images/Good_Morning_Portland_thumbnail.jpg" />
   		<!-- For title into HTML head, then tabs, bookmarks, etc -->
   		<initialism>Math In Society:</initialism>
 
   		<!--<document-id>PCC-Math In Society</document-id> Choose edition-->
-  		<document-id edition="2.0 Draft">PCC-Math In Society</document-id>
 		<!-- <document-id edition="1.1">PCC-Math In Society</document-id> -->
-
+		<document-id edition="2.0">PCC-Math In Society</document-id>
 		<macros>
 			%  highlight (draw attention to something in math mode)
     		%  Usage: \highlight{x}   		
@@ -27,27 +28,32 @@
 
 	<book>
 		<!-- Todo: Edition change -->
-		<title>Math in Society</title>
+		<title>Math in Society, 2nd Edition</title>
+		<!-- Edition 1 tagline -->
 		<!-- <subtitle>Mathematics for liberal arts majors</subtitle> -->
+		<!-- Edition 2 tagline -->
 		<subtitle>Tools for decision making</subtitle>
-		<!-- <subtitle>Quantitative tools for making decisions in your life</subtitle> -->
-		<!-- <subtitle>Quantitative tools for decision making</subtitle> -->
-		<!-- <subtitle>Quantitative tools for life</subtitle> -->
 
 		<!-- TODO: the following is not PTX schema-compliant. This is a temporary hack that makes
 		 the HTML have this picture on the book's landing page, and has no impact on the PDF. There
 		 should ulimately be explicit support for an image like this on the landing page. -->
 		<introduction>
-			<p>
+			<!-- Todo: Edition change -->
+			<!-- <p>
 				<image source="images/Portland_Oregon_Skyline.jpg">
 				<shortdescription>A picture of the Portland, Oregon skyline taken from the Ross Island Bridge</shortdescription>
+			</image> -->
+			<!-- </p> -->
+			<p>
+				<image source="images/Good_Morning_Portland.jpg">
+				<shortdescription>A picture of the Hawthorne Bridge toward downtown Portland, Oregon</shortdescription>
 			</image>
 			</p>
 		</introduction>
 <!-- Todo: Edition change -->
 		<xi:include href="./frontmatter.ptx" />
 <!-- Select correct Chapter 1 sections in this file according to edition -->
-		<xi:include href="./language_logic_rules.ptx" />
+		<xi:include href="./logic_problem_solving.ptx" />
 <!-- Chapters 2-5 same in both editions -->
 
 		<xi:include href="./financial_math.ptx" />

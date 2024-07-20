@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<exercises xml:id="chap_one_review">
+<exercises xml:id="chap_one_review_ed2">
 <title>Chapter 1 Review</title>
 
 <exercise>
 	<statement>
 	<p>
-		Identify which of the following is a proposition.
+		Identify whether each of the following is a proposition.
 	</p>
 	<p>
 		<ol marker="a.">
@@ -227,7 +227,7 @@
 <exercise>
 	<statement>
 	<p>
-		Express in the form of <em>if p, then q</em>. Identify p and q.
+		Express in the form of <em>if p, then q</em>.
 	</p>
 	<p>
 		<ol marker="a.">
@@ -294,33 +294,33 @@
 <exercise><!--  #5 -->
 	<statement>
 	<p>
-		Translate each statement from symbolic notation into English sentences. Let A represent <q>I will buy an iPhone</q> and Let B represent <q>I learn how to use new technology fast</q>.
+		Determine whether the compound statement is true or false.
 	</p>
 	<p>
 		<ol marker="a.">
 			<li>
 				<p>
-					Negation of A
+					A rectangle has four sides or 5 is an even number.
 				</p>
 			</li>
 			<li>
 				<p>
-					Negation of B
+					If a square has five sides then a rabbit is a mammal.
 				</p>
 			</li>
 			<li>
 				<p>
-					A or B
+					A rabbit is not a mammal.
 				</p>
 			</li>
 			<li>
 				<p>
-					A and not B
+					Rabbits can fly and a rectangle has four sides.
 				</p>
 			</li>
 			<li>
 				<p>
-					If B, then A
+					If rabbits are mammals, then squares have 3 sides.
 				</p>
 			</li>
 		</ol>
@@ -331,27 +331,27 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					I will not buy an iPhone.
+					True
 				</p>
 			</li>
 			<li>
 				<p>
-					I do not learn how to use technology fast.
+					True
 				</p>
 			</li>
 			<li>
 				<p>
-					I will buy an iPhone or I learn how to use technology fast.
+					False
 				</p>
 			</li>
 			<li>
 				<p>
-					I will buy an iPhone and I don't learn how to use technology fast.
+					False
 				</p>
 			</li>
 			<li>
 				<p>
-					If I learn to use new technology, then I will buy an iPhone.
+					False
 				</p>
 			</li>
 		</ol>
@@ -362,180 +362,38 @@
 <exercise><!--  #6 -->
 	<statement>
 	<p>
-		Complete the truth table for the following.
+		Write the converse, inverse and contrapositive of the statement: "If it is raining outside, then I will take an umbrella." Identify which statements are logically equivalent.
 	</p>
-	<p>
-		<ul>
-			<li>
-				<p>
-					Let A: I will buy an iPhone
-				</p>
-			</li>
-			<li>
-				<p>
-					Let B: I learn how to use new technology fast.
-				</p>
-			</li>
-		</ul>
-	</p>
-		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-			<row header="yes">
-				<cell>A</cell>
-				<cell>B</cell>
-				<cell>Not A</cell>
-				<cell>Not A and B</cell>
-				<cell>Not (Not A and B)</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell></cell>
-				<cell></cell>
-				<cell></cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell></cell>
-				<cell></cell>
-				<cell></cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell></cell>
-				<cell></cell>
-				<cell></cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell></cell>
-				<cell></cell>
-				<cell></cell>
-			</row>
-		</tabular>
 	</statement>
 	<solution>
-		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-			<row header="yes">
-				<cell>A</cell>
-				<cell>B</cell>
-				<cell>Not A</cell>
-				<cell>Not A and B</cell>
-				<cell>Not (Not A and B)</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-		</tabular>
+		<p>
+		<ol marker="disc">
+			<li>
+				<p>
+					Converse: If I have an umbrella, then it is raining outside.
+				</p>
+			</li>
+			<li>
+				<p>
+					Inverse: If it is not raining outside, then I will not take an umbrella.
+				</p>
+			</li>
+			<li>
+				<p>
+					Contrapositive: If I do not have an umbrella, then it is not raining outside.
+				</p>
+			</li>
+			<li>
+				<p>
+					The original statement and the contrapositive are logically equivalent to each other. The converse and inverse are logically equivalent to each other.
+				</p>
+			</li>
+		</ol>
+	</p>
 	</solution>
 </exercise>
 
 <exercise><!--  #7 -->
-	<statement>
-	<p>
-		Complete the truth table for the following<!--  and explain the meaning as it relates to the context of the problems -->.
-	</p>
-	<p>
-		<ul>
-			<li>
-				<p>
-					Let A: I will buy an iPhone
-				</p>
-			</li>
-			<li>
-				<p>
-					Let B: I learn how to use new technology fast.
-				</p>
-			</li>
-		</ul>
-	</p>
-	<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-		<row header="yes">
-			<cell>A</cell>
-			<cell>B</cell>
-			<cell>If A, then B</cell>
-		</row>
-		<row>
-			<cell>T</cell>
-			<cell>T</cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>T</cell>
-			<cell>F</cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>F</cell>
-			<cell>T</cell>
-			<cell></cell>
-		</row>
-		<row>
-			<cell>F</cell>
-			<cell>F</cell>
-			<cell></cell>
-		</row>
-	</tabular>
-	</statement>
-	<solution>
-		<tabular halign="center" top="minor" left="minor" right="minor" bottom="minor">
-			<row header="yes">
-				<cell>A</cell>
-				<cell>B</cell>
-				<cell>If A, then B</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>T</cell>
-				<cell>F</cell>
-				<cell>F</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>T</cell>
-				<cell>T</cell>
-			</row>
-			<row>
-				<cell>F</cell>
-				<cell>F</cell>
-				<cell>T</cell>
-			</row>
-		</tabular>
-	</solution>
-</exercise>
-
-<exercise><!--  #8 -->
 	<statement>
 	<p>
 		The following Venn Diagram shows how 70 customers at the local coffee shop like their coffee.
@@ -607,7 +465,7 @@
 	</solution>
 </exercise>
 
-<exercise><!--  #9 -->
+<exercise><!--  #8 -->
 	<statement>
 	<p>
 		In a group of 30 students at PCC, 21 have Biology this term, 12 have Math 105 and 7 are studying both Biology and Math 105.
@@ -650,7 +508,7 @@
 	</solution>
 </exercise>
 
-<exercise><!--  #10 -->
+<exercise><!--  #9 -->
 	<statement>
 	<p>
 		The following data was collected at a local coffee shop. 120 customers were asked if they like coffee and chocolate. The results are in the table below.
@@ -687,7 +545,7 @@
 	</solution>
 </exercise>
 
-<exercise><!--  #11 -->
+<exercise><!--  #10 -->
 	<statement>
 	<p>
 		A 120 people were surveyed and it reveals the following results about how people learn about news events happening around the world.
@@ -801,190 +659,162 @@
 	</solution>
 </exercise>
 
-<!-- <exercisegroup>
-	<introduction>
-	<p>
-		Rewrite each of the following arguments in their <q>premise, premise, conclusion</q> form, and determine whether the argument is inductive or deductive. If the argument is inductive, determine deductive, use sets to illustrate and determine the validity of the argument, and state whether the argument is sound.
-	</p>
-	</introduction>
-<exercise>
+<exercise><!--  #11 -->
 	<statement>
 	<p>
-		If an animal is a kitten, then it is a mammal. Tulip is a kitten. Tulip is a mammal.
+		Calculate the percent or part.
+	</p>
+	<p>
+		A nutrition label states that a serving of cereal contains 25% of the recommended daily value of iron. If the daily recommended intake of iron is 18 mg, how much is in one serving of cereal.
 	</p>
 	</statement>
 	<solution>
-		<p>
-		</p>
-	</solution>
-</exercise>
-<exercise>
-	<statement>
 	<p>
-		Doctors must know CPR. Trevon is a Doctor. Trevon knows CPR.
+		There are 4.5 mg of iron in one serving of the cereal.
 	</p>
-	</statement>
-	<solution>
-		<p>
-		</p>
 	</solution>
 </exercise>
-</exercisegroup> -->
 
+<exercise><!--  #12 -->
+	<statement>
+	<p>
+		Calculate the absolute and relative change. Include the direction of the change in words or symbols.
+	</p>
+	<p>
+		The population of the city of Astoria, Oregon was 10,169 in 2022 and 9,986 in 2023.
+	</p>
+	</statement>
+	<solution>
+	<p>
+		The absolute change is a decrease of 183 people. The relative change is a decrease of about 1.8%.
+	</p>
+	</solution>
+</exercise>
+
+
+<exercise><!--  #13 -->
+	<statement>
+	<p>
+		A line of coats were marked up by 250% and then placed on sale for 30% off. If the owner of the store purchased the jackets wholesale for $70 each, find the sale price and the combined relative change from the wholesale price.
+	</p>
+	</statement>
+	<solution>
+	<p>
+		$70(2.5)(1-.30)=$122.50. The combined relative change is a markup of 175%
+	</p>
+	</solution>
+</exercise>
+
+<exercise><!--  #14 -->
+	<statement>
+	<p>
+		Find the unit rate for each and determine which is more cost effective.
+	</p>
+	<p>
+		One brand of toothpaste comes in a 6-ounce package for $5.99. Another brand comes in a 4.3-ounce package for $4.99
+	</p>
+	</statement>
+	<solution>
+	<p>
+		The unit rates are $0.998 per ounce and $1.16 per ounce. The first brand is cheaper per ounce.
+	</p>
+	</solution>
+</exercise>
+
+<!-- 15-16 -->
 <exercisegroup>
 	<introduction>
 	<p>
-		For each argument, draw the appropriate illustration of sets (Subset, Disjoint or Overlapping).Then put an X to represent the subject of the conclusion. Alternatively, use two question marks to illustrate the subject could fit into two locations. Finally, state whether the conclusion is valid and whether it is sound.
+		Solve each proportion problem.
 	</p>
 	</introduction>
 
 <exercise>
 	<statement>
-	<p>
-		All baseball parks have hotdogs.
-	</p>
-	<p>
-		<insert>Wrigley Field is a baseball park.</insert>
-	</p>
-	<p>
-		Conclusion: Wrigley Field has hotdogs.
-	</p>
+		<p>
+			If you like your coffee strong with 3 ounces of ground coffee to make 4 cups, how much would you need to make a pot of 10 cups?
+		</p>
 	</statement>
 	<solution>
-		<sidebyside width="50%">
-			<image source="images/language_logic_rules/1_4/baseball_hotdog_venn.png">
-			</image>
-		</sidebyside>
 		<p>
-			Valid and sound
+			You would need 7.5 ounces of coffee.
 		</p>
 	</solution>
 </exercise>
 <exercise>
 	<statement>
-	<p>
-		All dogs to run in the park.
-	</p>
-	<p>
-		<insert>Henry does not like to run in the park.</insert>
-	</p>
-	<p>
-		Conclusion: Henry is not a dog.
-	</p>
-	</statement>
-	<solution>
-		<sidebyside width="50%">
-			<image source="images/language_logic_rules/1_4/solution_animals_park.png">
-			</image>
-		</sidebyside>
 		<p>
-			Valid, but not sound
+			A 5-gallon container of paint says it will cover 1,750 square feet in one coat. How many gallons of paint would you need to cover 3,200 square feet per coat?
 		</p>
-	</solution>
-</exercise>
-<exercise>
-	<statement>
-	<p>
-		Some students play sports.
-	</p>
-	<p>
-		<insert>Javeer plays soccer.</insert>
-	</p>
-	<p>
-		Conclusion: Javeer is a student.
-	</p>
 	</statement>
 	<solution>
-		<sidebyside width="50%">
-			<image source="images/language_logic_rules/1_4/solution_students_sports.png">
-			</image>
-		</sidebyside>
 		<p>
-			Not valid and not sound
+			You would need approximately 9.14 gallons per coat of paint.
 		</p>
 	</solution>
 </exercise>
 </exercisegroup>
 
+<!-- 17-20 -->
 <exercisegroup>
 	<introduction>
 	<p>
-		Name the common Fallacy. Identify the Premise(s) and Conclusion.
+		Use the problem solving process with a combination of operations, unit conversions and/or geometric formulas to solve the problem. Document your steps and thinking.
 	</p>
 	</introduction>
-<!-- <exercise>
-	<statement>
-	<p>
-		Kate posts inappropriate things on Facebook. I really don't think she should be the PTA President.
-	</p>
-	</statement>
-	<solution>
-		<p>
-			Premise: Kate posts inappropriate things on Facebook.
-		</p>
-		<p>
-			Conclusion: I really don't think she should be the PTA President.
-		</p>
-		<p>
-			Fallacy: Strawman / Strawperson
-		</p>
-	</solution>
-</exercise> -->
 <exercise>
 	<statement>
-	<p>
-		Most people find out what's happening on Twitter or Facebook, so it is the most reliable source for news.
+		<p>
+			You are planning to have your bathroom floor tiled with 8 inch by 8 inch tiles, that cost $17.54 per box of 12 tiles. The tiled area is approximately 8 feet by 10 feet and the tiler charges a base fee of $100 and $12 per square foot. The grout and other materials are estimated at $10 per square foot. About how much will the project cost? Add 10% to the number of tiles for partial tiles needed.
 	</p>
 	</statement>
 	<solution>
 		<p>
-			Premise: Most people find out what's happening on Twitter or Facebook.
-		</p>
-		<p>
-			Conclusion: It is the most reliable source for news.
-		</p>
-		<p>
-			Fallacy: Appeal to popularity
+			<!-- Solution: The room is 8x10=80 square feet. Each tile is 8/12x8/12 =0.4444 square feet. 80/0.4444 is 180 tiles plus 10% is 198 tiles. 198/12 is 16.5 boxes of tile so you would need to get 17 boxes. 17x17.54 is $298.18. Then add $100 plus 80(12+10). 100+1760+298.18=$2158.18. -->
+			We calculated 17 boxes of tile for a total cost of about $2158.
 		</p>
 	</solution>
 </exercise>
 <exercise>
 	<statement>
-	<p>
-		<q>Finding the Loch Ness Monster</q> has yet to provide evidence that Loch Ness exists, so all those sightings are obviously bogus.
-	</p>
+		<p>
+			One stick of butter is 8 tablespoons or half a cup. Your cookie recipe calls for one cup of butter to make 3 dozen cookies. You want to make 10 dozen cookies for a cookie exchange party. In your fridge you have 1 1<solidus/>2 sticks of butter. Butter is sold for $4.29 per pound which is 4 sticks. How many sticks of butter do you need? How many pounds of butter should you buy and how much will it cost? How much will you have left over?
+		</p>
 	</statement>
 	<solution>
 		<p>
-			Premise: <q>Finding the Loch Ness Monster</q> has yet to provide evidence that Loch Ness exists.
-		</p>
-		<p>
-			Conclusion: All those sightings are obviously bogus.
-		</p>
-		<p>
-			Fallacy: Appeal to ignorance
-		</p>
-	</solution>
-</exercise>
-<exercise>
-	<statement>
-	<p>
-		Sampson bought a new car, and then he got a traffic ticket for speeding. Buying the new car must have caused him to speed.
-	</p>
-	</statement>
-	<solution>
-		<p>
-			Premise: Sampson bought a new car, and then he got a traffic ticket for speeding.
-		</p>
-		<p>
-			Conclusion: Buying the new car must have caused him to speed.
-		</p>
-		<p>
-			Fallacy: Post Hoc
+			<!-- The larger batch will use 6.67 sticks of butter. You have 1.5, so you still need 5.17 sticks of butter. You will need to buy 2 packages which will cost $8.58. This is 8 sticks so you will have 2.83 sticks left. -->
+			You still need 5.17 sticks of butter, so you must buy 2 packages for $8.58. You will have 2.83 sticks left over.
 		</p>
 	</solution>
 </exercise>
 
+<exercise>
+	<statement>
+			<p>
+				A pediatrician prescribes 15 mg/kg/day of a liquid medication to be given in three equal doses. If the child weighs 44 pounds and the medication concentration is 10 mg/mL, how many milliliters should be given per dose? If the parent lost the dropper and only has a set of teaspoons, how much should they give in each dose? (1T=15ml)
+			</p>
+		</statement>
+		<solution>
+			<p>
+				<!-- 44 pounds is is 20 kg, 15x20 is 300 mg per day. 300/10 is 30 ml per day, which is 10 mL per dose. 1T is 3 t, so you would give 2 teaspoons. -->
+				The child should get approximately 300 mg per day which is 10 ml per dose or 2 teaspoons.
+			</p>
+		</solution>
+</exercise>
+<exercise>
+	<statement>
+	<p>
+		You just got a circular above ground pool with a 15-foot diameter and a height of 48 inches. You want to know the cost of the water to fill it up to 6 inches from the top and how much chlorine to put in. The package says to use two 3-inch tablets per 10,000 gallons of water. City of Portland water is measured and billed at a rate of $7.559 per 100 cubic feet(ccf). One ccf is 748 gallons.
+	</p>
+	</statement>
+	<solution>
+		<p>
+			<!-- The volume of the pool minus 6 inches is pix7.5^2x3.5 = 618.5 cubic feet, which is 6.185 ccf. The cost of the water is 6.185x$7.559 = $46.75. 6.185x748=4626.38 gallons. This would be 0.9253 tablets. -->
+			The water cost is about $46.75 and you would need about 0.93 tablets. You would need to do some research to determine whether it's appropriate to use a full tablet or not.
+		</p>
+	</solution>
+</exercise>
 </exercisegroup>
 
 </exercises>

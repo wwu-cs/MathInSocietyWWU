@@ -99,6 +99,8 @@
 		Worrall, S. (2018, June 9). <em>When, How Did the First Americans Arrive? It's Complicated.</em> Nationalgeographic.com. <url href="https://www.nationalgeographic.com/news/2018/06/when-and-how-did-the-first-americans-arrive--its-complicated-/" visual="nationalgeographic.com/news/2018/06/when-and-how-did-the-first-americans-arrive--its-complicated-"/>
 	</biblio>
 </references>
+
+<!-- Todo: comment out for printable pdf so it's not in the table of contents, then run again with and separate answer keys -->
 <solutions divisional="solution" admit="odd">
 	<title>Odd Answers</title>
 </solutions>

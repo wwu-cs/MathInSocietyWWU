@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<section xml:id="chap_one_problem_solving_percents">
+<section xml:id="chap_one_problem_solving">
 <title>Problem Solving</title>
 
 <objectives>
@@ -889,7 +889,7 @@
 			</li>
 			<li>
 				<p>
-					The number of soda cans tht will fit in a large garbage bag.
+					The number of soda cans that will fit in a large garbage bag.
 				</p>
 			</li>
 		</ol>
@@ -900,12 +900,12 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					
+					Answers may vary. We estimate 300 to 500 steps.
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					Answers may vary. We estimate 100 to 200 cans.
 				</p>
 			</li>
 		</ol>
@@ -937,12 +937,12 @@
 		<ol marker="a.">
 			<li>
 				<p>
-					
+					Answers may vary. We estimate about 3000 miles.
 				</p>
 			</li>
 			<li>
 				<p>
-					
+					Answers may vary. We estimate about 15-25 servings.
 				</p>
 			</li>
 		</ol>
@@ -1066,55 +1066,9 @@
 			Use the problem solving process to decide between the two options. Document your steps and thinking.
 		</p>
 	</introduction>
-	<exercise><!--  #13 -->
-		<statement>
-			<p>
-				
-			</p>
-		</statement>
-		<solution>
-			<p>
-				
-			</p>
-		</solution>
-	</exercise>
-	<exercise><!--  #14 -->
-		<statement>
-			<p>
-				
-			</p>
-		</statement>
-		<solution>
-			<p>
-				
-			</p>
-		</solution>
-	</exercise>
-	<exercise><!--  #15 -->
-		<statement>
-			<p>
-				
-			</p>
-		</statement>
-		<solution>
-			<p>
-				
-			</p>
-		</solution>
-	</exercise>
-	<exercise><!--  #16 -->
-		<statement>
-			<p>
-				
-			</p>
-		</statement>
-		<solution>
-			<p>
-				
-			</p>
-		</solution>
-	</exercise>
-	<exercise><!--  #17 -->
+	
+	
+	<exercise xml:id="exercise-job1"><!--  #13 -->
 		<statement>
 			<p>
 				You have two job offers. One pays a salary of $60,000 per year. The other job pays $28 per hour for 40 hours a week with a $500 signing bonus. If the jobs and benefits are similar, which job would you choose?
@@ -1126,7 +1080,7 @@
 			</p>
 		</solution>
 	</exercise>
-	<exercise><!--  #18 -->
+	<exercise xml:id="exercise-job2"><!--  #14 -->
 		<statement>
 			<p>
 				You have two job offers. One pays a salary of $85,000 per year with a $2,000 yearly bonus that has the possiblity to increase. The other job pays $42.50 per hour for 40 hours a week. If the jobs and benefits are similar, which job would you choose?
@@ -1138,10 +1092,10 @@
 			</p>
 		</solution>
 	</exercise>
-	<exercise><!--  #19 -->
+	<exercise><!--  #15 -->
 		<statement>
 			<p>
-				In question 17, if the hourly job had overtime pay at time and a half, how many hours of overtime per year would you need to work in a year to get paid as much as the salaried job?
+				In <xref ref="exercise-job1" />, if the hourly job had overtime pay at time and a half, how many hours of overtime per year would you need to work in a year to get paid as much as the salaried job?
 			</p>
 		</statement>
 		<solution>
@@ -1150,10 +1104,10 @@
 			</p>
 		</solution>
 	</exercise>
-	<exercise><!--  #20 -->
+	<exercise><!--  #16 -->
 		<statement>
 			<p>
-				In question 18, how much would the yearly bonus in the salaried job need to be for you to get paid as much as the hourly job?
+				In <xref ref="exercise-job2" />, how much would the yearly bonus in the salaried job need to be for you to get paid as much as the hourly job?
 			</p>
 		</statement>
 		<solution>
@@ -1163,7 +1117,7 @@
 		</solution>
 	</exercise>
 
-	<exercise><!--  #21 -->
+	<exercise><!--  #17 -->
 		<statement>
 			<p>
 				You are organizing a large dinner event. One venue charges $155 per person and you have a prior credit of $4,600. Another venue charges $500 per table of 8 people. Which venue is more cost effective?
@@ -1175,7 +1129,7 @@
 			</p>
 		</solution>
 	</exercise>
-	<exercise><!--  #22 -->
+	<exercise><!--  #18 -->
 		<statement>
 			<p>
 				You are organizing a large dinner event. One venue charges $950 per table of 12. Another venue charges a setup fee of $1500 and $40 per person. Which venue is more cost effective?
@@ -1192,10 +1146,90 @@
 <exercisegroup>
 	<introduction>
 		<p>
+			Use unit coversions and/or geometric formulas to solve these problems as needed. Document your steps and thinking.
+		</p>
+	</introduction>
+	<exercise><!--  #19 -->
+		<statement>
+			<p>
+				You are in charge of drinks for a neighborhood block party. You need at least 100 cups of beverages. So far, you have received enough mix to make 3 gallons of lemonade and 6 bottles of fruit juice that each contain are 32 fl. oz. How many cups of beverage do you have so far? Is this enough for the block party?
+			</p>
+		</statement>
+		<solution>
+			<p>
+				You have 48+24=72 cups. You still need 28 cups.
+			</p>
+		</solution>
+	</exercise>
+	<exercise><!--  #20 -->
+		<statement>
+			<p>
+				You are in charge of drinks for a community barbecue. You need at least 150 cups of beverages. So far, you have received enough mix to make 20 quarts of punch and 9 2-L bottles of soda. How many cups of beverage do you have so far? Is this enough for the block party?
+			</p>
+		</statement>
+		<solution>
+			<p>
+				You have 80+76=156 cups. You have enough cups of beverage.
+			</p>
+		</solution>
+	</exercise>
+	<exercise>
+		<statement>
+			<p>
+				A pediatrician prescribes 0.5 mg/kg/day of a medication. If the child weights 33 pounds, how many milligrams do they need? If the chewable tablets come in 2.5 or 3.5 mg, which ones should be purchased and how many tablets should be given?
+			</p>
+		</statement>
+		<solution>
+			<p>
+				The child should get approximately 7.5 mg per day. This would be 3 of the 2.5 mg tablets.
+			</p>
+		</solution>
+	</exercise>
+	<exercise><!--  #22 -->
+		<statement>
+			<p>
+				A doctor prescribes 5 mg of medication per kilogram of body weight. If a patient weighs 154 pounds, how much medication should they receive in milligrams? If tablets are 50 mg each, how many tablets should they take?
+			</p>
+		</statement>
+		<solution>
+			<p>
+				The patient needs about 349.27 mg or 350 mg. That would be 7 tablets.
+			</p>
+		</solution>
+	</exercise>
+<exercise><!--  #23 -->
+		<statement>
+			<p>
+				Parvina wants to fill her 2 rectangular raised garden beds, which are 6 feet long, 3 feet wide, and 1.5 feet deep. If bags of soil contain 2 cubic feet, how many bags does she need to buy?
+			</p>
+		</statement>
+		<solution>
+			<p>
+				Parvina needs 27 bags of soil.
+			</p>
+		</solution>
+	</exercise>
+	<exercise><!--  #24 -->
+		<statement>
+			<p>
+				Sidiki wants to fill a circular sandbox with a diameter of 5 feet and a depth of 1.5 feet. If bags of sand contain 3 cubic feet each, how many bags does he need to buy?
+			</p>
+		</statement>
+		<solution>
+			<p>
+				Sidiki needs 9.8 or 10 bags of sand.
+			</p>
+		</solution>
+	</exercise>
+</exercisegroup>
+
+<exercisegroup>
+	<introduction>
+		<p>
 			Use the problem solving process to solve these problems. For this set of questions, after you identify the information you need, click on the link in the question or go to <xref ref="subsubsection-information" /> to find that information. The details may be imprecise; answer the question the best you can with the provided information. Document your steps and thinking.
 		</p>
 	</introduction>
-	<exercise><!--  #23 -->
+	<exercise><!--  #25 -->
 		<statement>
 			<p>
 				You’re planning on making 6 meatloafs for a party. You go to the store to buy breadcrumbs, and see they are sold by the canister. How many canisters do you need to buy? Information: <xref ref="list-breadcrumbs" />

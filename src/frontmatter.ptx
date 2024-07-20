@@ -35,20 +35,20 @@
 				<url href="http://www.opentextbookstore.com/mathinsociety/"
 					visual="opentextbookstore.com/mathinsociety">Math in Society</url>,
 				by David Lippman et al., used under
-				<url href="https://creativecommons.org/licenses/by-sa/3.0/us/"
-					visual="creativecommons.org/licenses/by-sa/3.0/us">CC-BY-SA 3.0</url>.
+				<url href="https://creativecommons.org/licenses/by-sa/4.0"
+					visual="creativecommons.org/licenses/by-sa/4.0">CC-BY-SA 4.0</url>.
 				See the Attributions page for details.
     		</entity>
 		</credit>
 		<!-- Todo: Edition change -->
-  <!--   	<edition>1.1</edition> -->
-    	<edition>2.0 Draft</edition>
+    	<!-- <edition>1.1</edition> -->
+    	<edition>2.0</edition>
     	<website>
-			<url href="https://spot.pcc.edu/math/mathinsociety/"
-				visual="spot.pcc.edu/math/mathinsociety"/>
+			<url href="http://www.pcc.edu/math-in-society"
+				visual="pcc.edu/math-in-society"/>
     	</website>
 		<copyright>
-			<year>2024, 2018</year>
+			<year>2018-2024</year>
 			<holder>Portland Community College Math Instructors</holder>
 			<minilicense>CC BY-SA 4.0</minilicense>
 			<shortlicense>CC BY-SA 4.0</shortlicense>
@@ -62,12 +62,14 @@
 		</p>
 	</dedication>
 
+	
+
 	<preface>
 		<title>Attributions</title>
 		<p>
 			This book is Licensed by the Portland Community College Math Department under
-			<url href="https://creativecommons.org/licenses/by-sa/4.0/us/"
-				visual="creativecommons.org/licenses/by-sa/4.0/us">CC BY-SA 4.0</url>.
+			<url href="https://creativecommons.org/licenses/by-sa/4.0"
+				visual="creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</url>.
 			Except for the following:
 			<ul>
 				<li>
@@ -75,10 +77,9 @@
 						<xref ref="tax_buckets"/>:
 						<url href="https://www.trailfp.com/financial-planning/how-about-them-tax-apples/"
 							visual="trailfp.com/financial-planning/how-about-them-tax-apples">Tax Buckets</url>
-						by <url href="https://www.trailfp.com/" visual="trailfp.com">John Chesbrough</url>,
+						by John Chesbrough, <url href="https://www.trailfp.com/" visual="trailfp.com"/>,
 						used under <url href="https://creativecommons.org/licenses/by-nc-nd/4.0/"
-							visual="creativecommons.org/licenses/by-nc-nd/4.0">CC-BY-ND-NC 4.0</url>,
-						not modified, used with permission.
+							visual="creativecommons.org/licenses/by-nc-nd/4.0">CC-BY-ND-NC 4.0</url>, not modified, used with permission.
 					</p>
 				</li>
 				<li>
@@ -110,9 +111,10 @@
 		</p>
 		<paragraphs>
 			<title>How to cite this book</title>
+			<!-- Todo: change edition number -->
 			<p>
-				<url href="https://spot.pcc.edu/math/mathinsociety/"
-					visual="spot.pcc.edu/math/mathinsociety"><q>Math In Society: Mathematics for liberal arts majors, Edition 1.1</q></url>
+				<url href="https://www.pcc.edu/math-in-society/"
+					visual="pcc.edu/math-in-society"><q>Math In Society: Mathematics for liberal arts majors, Edition 2.0</q></url>
 				by Lee et al., Portland Community College Math Department is licensed under
 				<url href="http://creativecommons.org/licenses/by-sa/4.0"
 					visual="creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</url>
@@ -123,90 +125,106 @@
 			<p>
 				<ul>
 					<li>
-						<p>
-							Cover Image: <url href="https://commons.wikimedia.org/w/index.php?curid=27460218"
+						<!-- Todo: Change for edition -->
+						<!-- Edition 1 Image -->
+						<!-- <p>
+							Cover Image and Thumbnail: <url href="https://commons.wikimedia.org/w/index.php?curid=27460218"
 								visual="commons.wikimedia.org/w/index.php?curid=27460218">Portland, Oregon Skyline from the Ross Island Bridge</url>,
 							by Visitor7, used under <url href="https://creativecommons.org/licenses/by-sa/3.0/deed.en"
-								visual="creativecommons.org/licenses/by-sa/3.0/deed.en">CC BY-SA 3.0 Unported</url>,
-							cropped.
+								visual="creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0 Unported</url>, cropped.
+						</p> -->
+						<!-- Edition 2 image -->
+						<p>
+							Cover Image and Thumbnail: <url href="https://www.flickr.com/photos/31246066@N04/15209144551"
+								visual="https://www.flickr.com/photos/31246066@N04/15209144551">Good Morning Portland!!</url>,
+							by Ian Sane, used under <url href="https://creativecommons.org/licenses/by/2.0"
+								visual="https://creativecommons.org/licenses/by/2.0">CC BY-SA 2.0</url>, cropped.
 						</p>
 					</li>
-					<li>
+					<!-- Todo: link won't work with & in it -->
+					<!-- <li>
 						<p>
-							<xref ref="language_logic_rules"/> is a derivative of
+							Favicon: <url href="https://www.favicon.cc/?action=icon%26file_id=281717"
+								visual="favicon.cc/?action=icon%26file_id=281717">Bar graph</url>, by netalloy, used under <url href="https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+								visual="creativecommons.org/licenses/by-sa/3.0/deed.en">CC BY-SA 3.0 Unported</url>.
+						</p> -->
+					<!-- </li> -->
+					<li>
+						<!-- Todo: Edition change -->
+						<!-- Edition 1 attribution -->
+						<!-- <p>
+							<xref ref="logic_problem_solving"/> is a derivative of Math in Society: Logic by David Lippman and Morgan Chase, and Sets by David Lippman, 
 							<url href="http://www.opentextbookstore.com/mathinsociety"
-								visual="opentextbookstore.com/mathinsociety">Math in Society: Logic</url>
-							by David Lippman and Morgan Chase, and
+								visual="opentextbookstore.com/mathinsociety"/>,
+							used under CC-BY-SA-4.0.
+						</p> -->
+						<!-- Edition 2 attribution -->
+						<p>
+							<xref ref="logic_problem_solving"/> is a derivative of Math in Society: Logic by David Lippman and Morgan Chase, Sets and Problem Solving by David Lippman
 							<url href="http://www.opentextbookstore.com/mathinsociety"
-								visual="opentextbookstore.com/mathinsociety">Math in Society: Sets</url>
-							by David Lippman, used under
-							<url href="https://creativecommons.org/licenses/by-sa/3.0/us/"
-								visual="creativecommons.org/licenses/by-sa/3.0/us">CC-BY-SA 3.0</url>.
+								visual="opentextbookstore.com/mathinsociety"/>,
+							used under CC-BY-SA-4.0.
 						</p>
 					</li>
 					<li>
 						<p>
 							<xref ref="chap_two_simple_compound"/>, <xref ref="chap_two_savings_plan"/>,
-							and <xref ref="chap_two_loans"/> are a derivative of
+							and <xref ref="chap_two_loans"/> are a derivative of Math in Society: Finance by David Lippman, 
 							<url href="http://www.opentextbookstore.com/mathinsociety"
-								visual="opentextbookstore.com/mathinsociety">Math in Society: Finance</url>,
-							by David Lippman, used under
-							<url href="https://creativecommons.org/licenses/by-sa/3.0/us/"
-								visual="creativecommons.org/licenses/by-sa/3.0/us">CC-BY-SA 3.0</url>.
+								visual="opentextbookstore.com/mathinsociety"/>,
+							used under CC-BY-SA-4.0.
 						</p>
 					</li>
 					<li>
 						<p>
-							<xref ref="statistics"/> is a derivative of
+							<xref ref="statistics"/> is a derivative of Math in Society: Describing Data and Statisitcs by David Lippman and Jeff Eldridge, 
 							<url href="http://www.opentextbookstore.com/mathinsociety"
-								visual="opentextbookstore.com/mathinsociety">Math in Society: Describing Data and Statistics</url>,
-							by David Lippman, Jeff Eldridge and
-							<url href="http://www.onlinestatbook.com/" visual="onlinestatbook.com"/>,
-							and <url href="http://www.onlinestatbook.com/" visual="onlinestatbook.com"/>,
-							by David M. Lane, et al, used under
-							<url href="https://creativecommons.org/licenses/by-sa/3.0/us/"
-								visual="creativecommons.org/licenses/by-sa/3.0/us">CC-BY-SA 3.0</url>.
+								visual="opentextbookstore.com/mathinsociety"/>, 
+							and Online Statistics Education: An Interactive Multimedia Courese of Study by David M. Lane, et al, 
+							<url href="http://www.onlinestatbook.com/" visual="onlinestatbook.com"/>, used under CC-BY-SA-4.0.
 						</p>
 					</li>
 					<li>
 						<p>
 							<xref ref="chap_four_theoretical_probability"/> and
-							<xref ref="chap_four_expected_value"/> are a derivative of
+							<xref ref="chap_four_expected_value"/> are a derivative of Math in Society: Probability by David Lippman, 
 							<url href="http://www.opentextbookstore.com/mathinsociety"
-								visual="opentextbookstore.com/mathinsociety">Math in Society: Probability</url>,
-							by David Lippman, used under
-							<url href="https://creativecommons.org/licenses/by-sa/3.0/us/"
-								visual="creativecommons.org/licenses/by-sa/3.0/us">CC-BY-SA 3.0</url>.
+								visual="opentextbookstore.com/mathinsociety"/>, 
+							used under CC-BY-SA 4.0.
 						</p>
 					</li>
 					<li>
 						<p>
-							<xref ref="chap_five_apportionment"/> is a derivative of
+							<xref ref="chap_five_apportionment"/> is a derivative of Math in Society: Apportionment and
+							<xref ref="chap_five_voting_methods"/> is a derivative of Math in Society: Voting Theory by David Lippman,
 							<url href="http://www.opentextbookstore.com/mathinsociety"
-								visual="opentextbookstore.com/mathinsociety">Math in Society: Apportionment</url>
-							and <xref ref="chap_five_voting_methods"/> is a derivative of
-							<url href="http://www.opentextbookstore.com/mathinsociety"
-								visual="opentextbookstore.com/mathinsociety">Math in Society: Voting Theory</url>
-							by David Lippman, used under
-							<url href="https://creativecommons.org/licenses/by-sa/3.0/us/"
-								visual="creativecommons.org/licenses/by-sa/3.0/us">CC-BY-SA 3.0</url>.
+								visual="opentextbookstore.com/mathinsociety"/>, 
+							used under CC-BY-SA 4.0.
 						</p>
 					</li>
 					<li>
+						<!-- Todo: Version for full pdf and web  -->
 						<p>
 							<xref ref="chap_two_intro_spreadsheet"/>,
 							<xref ref="chap_two_income_taxes"/>,
-							Section 2.7 Credit Cards (online only),
+							<xref ref="chap_three_normal_model"/>,
 							<xref ref="chap_four_contingency_tables"/>,
-							Section 3.6 Normal Distribution (online only),
+							<xref ref="chap_five_popular_vote"/>,
+							<xref ref="chap_five_gerrymandering"/>,
+							and <xref ref="chap_five_budget_deficit_debt"/>
+							are original to the Portland Community College Math Department.
+						</p>
+						<!-- Version for PCC pdf only - 3.6 and 5.6 not included -->
+						<!-- <p>
+							<xref ref="chap_two_intro_spreadsheet"/>,
+							<xref ref="chap_two_income_taxes"/>,
+							Section 3.6 (online only),
+							<xref ref="chap_four_contingency_tables"/>,
 							<xref ref="chap_five_popular_vote"/>,
 							<xref ref="chap_five_gerrymandering"/>
-							and Section 5.6 Federal Deficit and National Debt (online only)
+							and Section 5.6 (online only)
 							are original to the Portland Community College Math Department.
-							<!-- TODO: add back xrefs for web version
-							<xref ref="chap_two_credit_cards"/>,
-							<xref ref="chap_five_budget_deficit_debt.ptx"/>-->
-						</p>
+						</p> -->
 					</li>
 					<li>
 						<p>
@@ -249,33 +267,15 @@
 		</p>
 	</preface> -->
 
-	<preface>
-		<title>Introduction to this Book</title>
-		<p>
-			Many important decisions in life can be made more effectively using quantitative
-			information and logic. The goal of this book and course is for you to feel more
-			comfortable and confident with mathematical tools that are applicable to your life now
-			and in the future. We will work with proportions for scaling and comparing quantities
-			and financial tools for managing money and taxes. We will learn about statistics for
-			decisions that involve data, probability for decisions with uncertain events, and
-			methods for fair group decision-making like apportionment and voting systems. By
-			practicing with these methods, we hope you'll feel more empowered to use math to help
-			you make the best decisions for yourself in college and beyond.
-		</p>
-	</preface>
-
 	<preface xml:id="Notes">
 		<title>Project Notes</title>
 		<paragraphs>
 			<title>Acknowledgements</title>
 			<p>
-				We would like to thank Amy Hofer and grant support from
-				<url href="https://openoregon.org/"
-					visual="openoregon.org">Open Oregon Educational Resources</url>
-				and the PCC librarians and OER steering committee. Thanks also to Kaela Parks and
-				Michael Cantino of Accessible Education and Disability Resources for their expertise
-				on accessibility. Extended thanks to Alex Jordan for continued support with
-				<url href="https://pretextbook.org/" visual="pretextbook.org">PreTeXt</url>.
+				We would like to thank Amy Hofer and grant support from Open Oregon Educational Resources,
+				<url href="https://openoregon.org"
+					visual="openoregon.org"/>, and the PCC librarians and OER steering committee. Thanks also to Kaela Parks and Michael Cantino of Accessible Education and Disability Resources for their expertise on accessibility. Extended thanks to Alex Jordan for continued support with PreTeXt,
+				<url href="https://pretextbook.org/" visual="pretextbook.org"/>.
 			</p>
 		</paragraphs>
 		<paragraphs>
@@ -302,19 +302,18 @@
 				Our goal is for the content of this book to be relevant and accessible to our
 				readers. We emphasize technology, conceptual understanding and communication over
 				rote calculation. However, some manual calculation is important to understand what
-				the technology is doing. We emphasize readily available spreadsheets and
-				<url href="www.geogebra.com" visual="geogebra.com">GeoGebra</url> throughout the
+				the technology is doing. We emphasize readily available spreadsheets and GeoGebra, 
+				<url href="www.geogebra.com" visual="geogebra.com"/> throughout the
 				text.
 			</p>
 		</paragraphs>
 		<paragraphs>
 			<title>Web and Print Versions</title>
 			<p>
-				This book is available free online at
-				<url href="http://spot.pcc.edu/math/mathinsociety"
-					visual="spot.pcc.edu/math/mathinsociety"/>.
-				Chapters 1<ndash/>5 are available at the PCC bookstore printed by the PCC Print
-				Center.
+				This book is available for free in html and pdf form at
+				<url href="http://www.pcc.edu/math-in-society"
+					visual="pcc.edu/math-in-society"/>.
+				Edition 2, Chapters 1<ndash/>5 are available at the PCC bookstore printed by the PCC Print Center.
 			</p>
 		</paragraphs>
 		<paragraphs>
@@ -345,9 +344,9 @@
 		<paragraphs>
 			<title>Typos and Other Feedback</title>
    			<p>
-				Please notify us of typos and other feedback using this
+				Please notify us of typos and other feedback using this Google Form, 
 				<url href="https://forms.gle/s14kNGd7anRmVgCD6"
-					visual="forms.gle/s14kNGd7anRmVgCD6">Google Form</url>.
+					visual="forms.gle/s14kNGd7anRmVgCD6"/>.
 			</p>
 		</paragraphs>
 	</preface>
@@ -362,7 +361,7 @@
 			<ul>
 				<li>
 					<p>
-						A printable pdf of the entire book, and optional sections 3.6 and 5.6.
+						A printable pdf of the entire book.
 					</p>
 				</li>
 				<li>
@@ -379,8 +378,7 @@
 			</ul>
 		</p>
 		<p>
-			A MyOpenMath shell is available for instructors to use in their courses. Additional
-			resources are available for instructors by emailing Cara Lee at
+			A MyOpenMath shell is available for instructors to use in their courses. Additional resources are available for instructors by emailing Cara Lee at
 			<email>cara.lee@pcc.edu</email>. Instructor status will be verified.
 		</p>
 	</preface>
@@ -406,4 +404,25 @@
 			</row>
 		</tabular>
 	</preface> -->
+	
+	<!-- Todo: 1st edition only -->
+	<!-- <preface>
+		<title>Link to 2nd Edition</title>
+			<p>
+				A second edition of this book is now available. The main changes are to Chapter 1. Minor improvements have been made and typos have been fixed in all chapters. The tax year has been updated to 2024 in both editions.
+			</p>
+			<p>
+				The landing page for all editions and resources is now at <url href="http://www.pcc.edu/math-in-society/"
+				visual="pcc.edu/math-in-society"/>
+			</p>
+	</preface> -->
+
+	<preface>
+		<title>Introduction to this Book</title>
+		<p>
+			Many important decisions in life can be made more effectively using quantitative
+			information and logic. The goal of this book and course is for you to feel more
+			comfortable and confident with mathematical tools that are applicable to your life now and in the future. We will work with proportions for scaling, rates for comparing quantities, and financial tools for managing money and taxes. We will learn about statistics for decisions that involve data, probability for decisions with uncertain events, and methods for fair group decision-making like apportionment and voting systems. By practicing with these methods, we hope you'll feel more empowered to use math to help you make the best decisions for yourself in college and beyond.
+		</p>
+	</preface>
 </frontmatter>

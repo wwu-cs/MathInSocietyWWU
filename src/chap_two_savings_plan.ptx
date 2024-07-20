@@ -155,20 +155,17 @@
 		<p>
 			To use a spreadsheet, we will use <c>=FV</c> because we want to know the balance in the future. We enter 100 for the payment amount and 0 for the present value:
 		</p>
-		
-		<sidebyside valign="middle" widths="40% 54%" margins="0%">
-			<stack>
-				<p>
+		<!-- was 40% 54% but the spreadsheet command overlapped the image on macs html -->
+		<!-- removing sidebysides because the text overlaps the image on mac html -->
+		<p>
 			<cd>=FV(0.06/12, 12*20, 100, 0)</cd>
 		</p>
 		<p>
 			which gives a result of $46,204.09.
 		</p>
-			</stack>
-			<image source="images/financial_math/2_3/savings_plan1.png">
+			<image width="54%" source="images/financial_math/2_3/savings_plan1.png">
 			<shortdescription>An image of the spreadsheet showing the formula used and the result.</shortdescription>
 			</image>
-		</sidebyside>
 		<p>
 			Remember that the output of the formula gives the answer with the opposite sign as the principal and payments. For our purposes we will ignore the signs. To use the formula, we use the one solved for <em>A</em>, since we want to know the final amount.
 		</p>
@@ -239,19 +236,15 @@
 			Using the spreadsheet formula, we can enter an initial deposit and a monthly payment. We enter
 		</p>
 		
-		<sidebyside valign="middle" widths="40% 54%" margins="0%">
-			<stack>
-				<p>
+		<p>
 			<cd>=FV(0.055/12, 12*30, 150,1500)</cd>
 		</p>
 		<p>
 			and get a result of $144,822.87.
 		</p>
-			</stack>
-			<image source="images/financial_math/2_3/savings_plan2.png">
+			<image width="54%" source="images/financial_math/2_3/savings_plan2.png">
 			<shortdescription>An image of the spreadsheet showing the formula used and the result.</shortdescription>
 			</image>
-		</sidebyside>
 	</solution>
 	</example>
 
@@ -313,20 +306,15 @@
 		<p>
 			To calculate this with a spreadsheet, we will use the <c>=PMT</c> function and enter 0 for the present value and $500,000 for the future value. We cannot enter commas within the numbers however, because spreadsheets use commas to separate the inputs. We enter:
 		</p>
-		
-		<sidebyside valign="middle" widths="40% 54%" margins="0%">
-			<stack>
-			<p>
+		<p>
 				<cd>=PMT(0.08/12, 12*30, 0, 500000)</cd>
 			</p>
 			<p>
 				and get a result of $335.49.
 			</p>
-			</stack>
-			<image source="images/financial_math/2_3/finding_payments1.png">
+			<image width="54%" source="images/financial_math/2_3/finding_payments1.png">
 			<shortdescription>An image of the spreadsheet showing the formula used and the result.</shortdescription>
 			</image>
-		</sidebyside>
 		
 		<p>
 			To see how this works with the formulas, we use the one solved for <em>d</em>, the regular deposit amount.
@@ -376,19 +364,15 @@
 			In this example we are given the regular deposit amount and we are looking for the future value. In a spreadsheet we use the <c>=FV</c> function and enter:
 		</p>
 		
-		<sidebyside valign="middle" widths="40% 54%" margins="0%">
-			<stack>
-				<p>
+		<p>
 			<cd>=FV(0.03/365, 365*10, 5,0)</cd>
 		</p>
 		<p>
 			which gives a result of $21,282.07.
 		</p>
-			</stack>
-			<image source="images/financial_math/2_3/finding_payments2.png">
+			<image width="54%" source="images/financial_math/2_3/finding_payments2.png">
 			<shortdescription>An image of the spreadsheet showing the formula used and the result.</shortdescription>
 			</image>
-		</sidebyside>
 
 		<p>
 			To use a mathematical formula, we choose the one solved for <em>A</em>:
@@ -454,38 +438,28 @@
 		<p>
 			For scenario 1, there are two steps involved. The first part is the monthly payments for 15 years. To calculate this with a spreadsheet we enter
 		</p>
-		
-		<sidebyside valign="middle" widths="40% 54%" margins="0%">
-			<stack>
-				<p>
+		<p>
 			<cd>=FV(0.10/12, 12*15, 200,0)</cd>
 		</p>
 		<p>
 			which gives $82,894.07.
 		</p>
-			</stack>
-		<image source="images/financial_math/2_3/comparing_payments1.png">
+		<image width="54%" source="images/financial_math/2_3/comparing_payments1.png">
 		<shortdescription>An image of the spreadsheet showing the formula used and the result.</shortdescription>
 		</image>
-		</sidebyside>
 
 		<p>
 			Now you will stop making payments and let the money sit and earn interest for 20 more years. With a spreadsheet we enter
 		</p>
-		
-		<sidebyside valign="middle" widths="40% 54%" margins="0%">
-			<stack>
 				<p>
 			<cd>=FV(0.10/12, 12*20, 0, 82894.07)</cd>
 			</p>
 			<p>
 				which gives $607,453.85.
 			</p>
-			</stack>
-			<image source="images/financial_math/2_3/comparing_payments2.png">
+			<image width="54%" source="images/financial_math/2_3/comparing_payments2.png">
 			<shortdescription>An image of the spreadsheet showing the formula used and the result.</shortdescription>
 			</image>
-		</sidebyside>
 
 		<p>
 			The process is similar with the formulas. For the first step we have:
@@ -511,21 +485,15 @@
 		<p>
 			Now for Scenario 2: Since we are not investing anything for the first 15 years there is nothing to calculate. This is a one-step problem. We will find the future value with the monthly payments of $200 for 20 years. With a spreadsheet we enter
 		</p>
-		
-
-		<sidebyside valign="middle" widths="40% 54%" margins="0%">
-			<stack>
 				<p>
 			<cd>=FV(0.10/12, 12*20, 200,0)</cd>
 		</p>
 		<p>
 			which gives $151,873.77.
 		</p>
-			</stack>
-		<image source="images/financial_math/2_3/comparing_payments3.png">
+		<image width="54%" source="images/financial_math/2_3/comparing_payments3.png">
 		<shortdescription>An image of the spreadsheet showing the formula used and the result.</shortdescription>
 		</image>
-		</sidebyside>
 
 		<p>
 			To check that with the formula we have:
@@ -756,7 +724,7 @@
 				</li>
 				<li>
 					<p>
-						<m>295079.05 /400{,}079.05</m>. The final balance will be about 73.8% interest.
+						<m>29{,}5079.05 /400{,}079.05</m>. The final balance will be about 73.8% interest.
 					</p>
 				</li>
 			</ol>
@@ -1237,7 +1205,7 @@
 				</li>
 				<li>
 					<p>
-						Akiko: <m>463{,}631.61 – 45000</m>
+						Akiko: <m>463{,}631.61 – 45{,}000</m>
 					</p>
 					<p>
 						Her spouse: <m>286{,}243.83 – 200*12*30</m>
@@ -1306,7 +1274,7 @@
 				</li>
 				<li>
 					<p>
-						<m>3v686.8/16{,}686.8</m>. The final balance will be about 22.1% interest.
+						<m>3{,}686.8/16{,}686.8</m>. The final balance will be about 22.1% interest.
 					</p>
 				</li>
 			</ol>

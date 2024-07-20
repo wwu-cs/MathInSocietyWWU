@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<section xml:id="chap_one_proportional_reasoning">
+<section xml:id="chap_one_rates_proportions">
 <title>Rates and Proportions</title>
 
 <objectives>
@@ -38,7 +38,7 @@
       <video youtubeplaylist="PLsFUxEAXGFKQf72fArKp578w6VZNqFLc7" label="video-rates-proportions"/>
     </figure>
 	<p>
-	Percents are a specific type of comparison by division using a denominator of 100. In this section we will expand our problem solving tools to more general ratios, rates and proportions.
+	Percents are a specific type of comparison by division using a denominator of 100. In this section we will expand our problem solving tools to more general ratios, rates, and proportions.
 	</p>
 </introduction>
 
@@ -97,7 +97,7 @@
 				</li>
 				<li>
 					<p>
-						<m>\frac{18 \text{ text messages}}{2\text{ hours}}</m> is a rate, but not a unit rate.
+						<m>\frac{20 \text{ text messages}}{2\text{ hours}}</m> is a rate, but not a unit rate.
 					</p>
 				</li>
 			</ol>
@@ -530,12 +530,12 @@
 <exercise><!--  #7 -->
 	<statement>
 	<p>
-		The population of the U.S. is about 309,975,000, covering a land area of 3,717,000 square miles. The population of India is about 1,184,639,000, covering a land area of 1,269,000 square miles. Compare the population densities of the two countries.
+		The population of the U.S. is about 309,975,000 people, covering a land area of 3,717,000 square miles. The population of India is about 1,184,639,000 people, covering a land area of 1,269,000 square miles. Compare the population densities of the two countries.
 	</p>
 	</statement>
 	<solution>
 		<p>
-			
+			The population density of the US is about 83.4 people per square mile. The population density of India is about 93.4 people per square mile.
 		</p>
 	</solution>
 </exercise>
@@ -548,7 +548,7 @@
 	</statement>
 	<solution>
 		<p>
-			
+			The GDP of China was about $4,261 per person. The GDP of Sweden was about $45,789 per person.
 		</p>
 	</solution>
 </exercise>
@@ -567,7 +567,7 @@
 	</statement>
 	<solution>
 		<p>
-			
+			No, the second printer prints more pages per minute.
 		</p>
 	</solution>
 </exercise>
@@ -580,7 +580,7 @@
 	</statement>
 	<solution>
 		<p>
-			
+			Yes, these are the same rate.
 		</p>
 	</solution>
 </exercise>
@@ -593,7 +593,7 @@
 	</statement>
 	<solution>
 		<p>
-			
+			Yes, these rates are the same.
 		</p>
 	</solution>
 </exercise>
@@ -606,7 +606,7 @@
 	</statement>
 	<solution>
 		<p>
-			
+			No, the 50 m rate is a faster rate.
 		</p>
 	</solution>
 </exercise>
@@ -628,20 +628,20 @@
 	</statement>
 	<solution>
 		<p>
-			
+			You would need 2 and a half cups of flour.
 		</p>
 	</solution>
 </exercise>
 
-	<exercise><!--  #14 -->
+<exercise><!--  #14 -->
 	<statement>
 	<p>
-		An 8ft length of 4-inch-wide crown molding costs $14. How much will it cost to buy 40ft of crown molding?
+		A smoothie recipe uses one and a half cups of yogurt, a banana, and other ingredients to make 4 cups. How many cups of yogurt are needed for 6 cups of smoothies?
 	</p>
 	</statement>
 	<solution>
 		<p>
-			
+			You would need 2 and a quarter cups of yogurt.
 		</p>
 	</solution>
 </exercise>
@@ -649,50 +649,51 @@
 <exercise><!--  #15 -->
 	<statement>
 	<p>
-		Four 3-megawatt wind turbines can supply enough electricity to power 3000 homes. How many turbines would be required to power 55,000 homes?
+		An 8-ft length of 4-inch-wide crown molding costs $14. How much will it cost to buy 40 feet of crown molding?
 	</p>
 	</statement>
 	<solution>
 		<p>
-			
+			40 feet of crown molding would cost $70.
 		</p>
 	</solution>
 </exercise>
 
-<exercise><!--  #16 -->
+<exercise> <!-- #16 -->
 	<statement>
 	<p>
-		A highway had a landslide, where 3,000 cubic yards of material fell on the road, requiring 200 dump truck loads to clear. On another highway, a slide left 40,000 cubic yards on the road.  How many dump truck loads would be needed to clear this slide?
+		If a car travels 160 miles in 3 hours, how long will it take to travel 250 miles at the same speed?
 	</p>
 	</statement>
 	<solution>
-		<p>
-			
-		</p>
+	<p>
+		It will take about 4.7.
+	</p>
 	</solution>
 </exercise>
 
 <exercise><!--  #17 -->
 	<statement>
 	<p>
-		
+		Four 3-megawatt wind turbines can supply enough electricity to power 3,000 homes. How many turbines would be required to power 55,000 homes?
 	</p>
 	</statement>
 	<solution>
 		<p>
-			
+			You would need at least 73.3 or 74 3-megawatt wind turbines.
 		</p>
 	</solution>
 </exercise>
+
 <exercise><!--  #18 -->
 	<statement>
 	<p>
-		
+		A highway had a landslide, where 3,000 cubic yards of material fell on the road, requiring 200 dump truck loads to clear. On another highway, a slide left 40,000 cubic yards on the road. How many dump truck loads would be needed to clear this slide?
 	</p>
 	</statement>
 	<solution>
 		<p>
-			
+			It would take at least 2666.67 or 2667 dump truck loads.
 		</p>
 	</solution>
 </exercise>
@@ -700,38 +701,37 @@
 <exercise><!--  #19 -->
 	<statement>
 	<p>
-		
+		If your working on a farm and 4 packets of seeds are enough for 25 square meters, how many packets are needed for 60 square meters?
 	</p>
 	</statement>
 	<solution>
+		<p>
+			You would need 9.6 or 10 packets of seeds.
+		</p>
+	</solution>
+</exercise>
+<exercise><!--  #20 -->
+	<statement>
 	<p>
-		
+		Two bundles of shingles cover 50 square feet. How many bundles are needed to cover a roof of 660 square feet?
 	</p>
+	</statement>
+	<solution>
+		<p>
+			You would need 26.4 or 27 bundles of shingles.
+		</p>
 	</solution>
 </exercise>
 
-<exercise> <!-- #20 -->
+<exercise><!--  #21 -->
 	<statement>
 	<p>
-		
+		If one US dollar is equivalent to 0.91 euros(EUR), how many dollars will you get back for 170 EUR?
 	</p>
 	</statement>
 	<solution>
 	<p>
-		
-	</p>
-	</solution>
-</exercise>
-
-<exercise> <!-- #21 -->
-	<statement>
-	<p>
-		
-	</p>
-	</statement>
-	<solution>
-	<p>
-		
+		You would get about $186.81.
 	</p>
 	</solution>
 </exercise>
@@ -739,15 +739,16 @@
 <exercise> <!-- #22 -->
 	<statement>
 	<p>
-		
+		If one US dollar is equivalent to 17.13 Mexican Pesos (MXN), how many dollars will you get back for 2,000 MXN?
 	</p>
 	</statement>
 	<solution>
 	<p>
-		
+		You would get about $116.75.
 	</p>
 	</solution>
 </exercise>
+
 </exercisegroup>
 
 <exercisegroup>
@@ -759,12 +760,12 @@
 <exercise> <!-- #23 -->
 	<statement>
 	<p>
-		Your chocolate milk mix says to use 4 scoops of mix for 2 cups of milk. After pouring in the milk, you start adding the mix, but get distracted and accidentally put in 5 scoops of mix. How can you adjust the mix if there is still room in the cup and if the cup is already full?
+		Your chocolate milk mix says to use 4 scoops of mix for 2 cups of milk. After pouring in the milk, you start adding the mix, but get distracted and accidentally put in 5 scoops of mix. How can you adjust the milk?
 	</p>
 	</statement>
 	<solution>
 	<p>
-		
+		For 5 scoops of mix you need 2.5 cups of milk. If there is no room in the cup pour it into a larger bowl and mix.
 	</p>
 	</solution>
 </exercise>
@@ -777,39 +778,11 @@
 	</statement>
 	<solution>
 	<p>
-		
-	</p>
-	</solution>
-</exercise>
-
-<exercise> <!-- #25 -->
-	<statement>
-	<p>
-		
-	</p>
-	</statement>
-	<solution>
-	<p>
-		
-	</p>
-	</solution>
-</exercise>
-
-<exercise> <!-- #26 -->
-	<statement>
-	<p>
-		
-	</p>
-	</statement>
-	<solution>
-	<p>
-		
+		We need to get up to 3 egg yolks which is 1.5 times the recipe, so use 4 and a half tablespoons of sugar total and one quarter plus one eighth cup of white wine. Doubling the whole thing would also work.
 	</p>
 	</solution>
 </exercise>
 </exercisegroup>
-
-
 
 </exercises>
 </section>

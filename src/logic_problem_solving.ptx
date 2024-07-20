@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<chapter xmlns:xi="http://www.w3.org/2001/XInclude"  xml:id="language_logic_rules">
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude"  xml:id="logic_problem_solving">
 	<title>
+		<!-- Todo: edition change -->
 		<!-- Edition 1.1 Title -->
 		<!-- Logic and Sets -->
 		<!-- Edition 2 Title -->
@@ -29,15 +30,16 @@
 		</p>
 </introduction>
 
+<!-- Todo: Edition change -->
 <!-- Edition 2.0 -->
 <xi:include href="chap_one_logic_everyday_life.ptx" />
 <xi:include href="chap_one_sets_venn.ptx" />
 <xi:include href="chap_one_percents.ptx" />
-<xi:include href="chap_one_proportional_reasoning.ptx" />
-<xi:include href="chap_one_problem_solving_percents.ptx" />
-<xi:include href="chap_one_review.ptx" />
-
-<xi:include href="chap_one_language_logic.ptx" />
+<xi:include href="chap_one_rates_proportions.ptx" />
+<xi:include href="chap_one_problem_solving.ptx" />
+<xi:include href="chap_one_review_ed2.ptx" />
+<!-- Todo: comment out for PCC pdf -->
+<xi:include href="chap_one_truth_tables.ptx" />
 <xi:include href="chap_one_arguments.ptx" />
 <xi:include href="chap_one_fallacies.ptx" />
 

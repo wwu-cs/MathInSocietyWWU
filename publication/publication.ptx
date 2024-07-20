@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- *********************************************************************-->
-<!-- Copyright 2020                                                       -->
+<!-- Copyright 2018-2024                                                  -->
 <!-- Portland Community College                                           -->
 <!--                                                                      -->
-<!-- (Math In Society).                                                   -->
-<!--                                                                      -->
-<!-- Open Resources for Community College Algebra is licensed under a     -->
+<!-- Math In Society is licensed under a     							  -->
 <!-- Creative Commons Attribution 4.0 International License.              -->
 <!--                                                                      -->
 <!-- Under this license, any user of this textbook or the textbook        -->
 <!-- contents must provide proper attribution as follows.                 -->
 <!--                                                                      -->
-<!-- If you redistribute all or part of this textbook, then you must      -->
-<!-- include in every digital format page view (including but not         -->
+<!-- If you redistribute all or part of this textbook (see exceptions in  -->
+<!-- the attributions), then you must include in every digital format     -->
+<!-- page view (including but not         								  -->
 <!-- limited to EPUB, PDF, and HTML) and on every physical printed page   -->
 <!-- the following attribution:                                           -->
 <!--                                                                      -->
-<!-- Original source material, products with readable and accessible      -->
+<!-- "Original source material, products with readable and accessible     -->
 <!-- math content, and other information freely available at              -->
+<!-- pcc.edu/math-in-society.edu"		                                  -->
 <!--                                                                      -->
-<!--                                                                      -->
-<!-- For questions regarding this license, please contact                 -->
-<!--                                                                      -->
+<!-- For questions regarding this license, please contact Cara Lee at     -->
+<!-- cara.lee@pcc.edu                                                     -->
 <!-- *********************************************************************-->
 
 <publication>
@@ -44,6 +43,6 @@
 		<knowl exercise-inline="no" example="no"/>
 		<index-page ref="frontmatter"/>
 		<video privacy="yes"/>
-		<baseurl href="https://spot.pcc.edu/math/mathinsociety/book-1.html"/>
+		<baseurl href="https://spot.pcc.edu/math/mathinsociety/root-1-2.html"/>
 	</html>
 </publication>
