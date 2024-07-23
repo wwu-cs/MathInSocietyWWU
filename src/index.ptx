@@ -39,11 +39,13 @@
 		 should ulimately be explicit support for an image like this on the landing page. -->
 		<introduction>
 			<!-- Todo: Edition change -->
+			<!-- Edition 1 cover image -->
 			<!-- <p>
 				<image source="images/Portland_Oregon_Skyline.jpg">
 				<shortdescription>A picture of the Portland, Oregon skyline taken from the Ross Island Bridge</shortdescription>
 			</image> -->
 			<!-- </p> -->
+			<!-- Edition 2 cover image -->
 			<p>
 				<image source="images/Good_Morning_Portland.jpg">
 				<shortdescription>A picture of the Hawthorne Bridge toward downtown Portland, Oregon</shortdescription>
@@ -55,7 +57,6 @@
 <!-- Select correct Chapter 1 sections in this file according to edition -->
 		<xi:include href="./logic_problem_solving.ptx" />
 <!-- Chapters 2-5 same in both editions -->
-
 		<xi:include href="./financial_math.ptx" />
 		<xi:include href="./statistics.ptx" />
 		<xi:include href="./probability.ptx" />

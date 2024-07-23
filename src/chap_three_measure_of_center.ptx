@@ -77,7 +77,7 @@
 			To find the mean test score we need to find the sum of her test scores, then divide the sum by the number of test scores (<m>n=4</m>). The mean is:
 		</p>
 		<p>
-			<m>\bar{x}=\frac{79+86+82+94}{4}=85.25</m> points
+			<me>\bar{x}=\frac{79+86+82+94}{4}=85.25\text{ points}</me>
 		</p>
 		<p>
 			We will round the sample mean to one more decimal place than the original data. In this case, we would round 85.25 to 85.3 points. Also notice that the mean has the same units as the data and it is important to label it.
