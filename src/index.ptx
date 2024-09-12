@@ -2,6 +2,7 @@
 <pretext xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US">
 	<docinfo>
 		<!-- Thumbnail for HTML -->
+		<!-- Double check that the thumbnail links work properly -->
 		<!-- <brandlogo url="https://spot.pcc.edu/math/mathinsociety/root-1-2.html" source="images/Portland_Oregon_Skyline_thumbnail.jpg" /> -->
 		<!-- Thumbnail for edition 2 -->
 		<brandlogo url="https://pccmathsac.github.io/MathInSocietyPCC/root-1-2.html" source="images/Good_Morning_Portland_thumbnail.jpg" />
