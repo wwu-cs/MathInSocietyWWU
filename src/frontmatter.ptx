@@ -344,9 +344,8 @@
 		<paragraphs>
 			<title>Typos and Other Feedback</title>
    			<p>
-				Please notify us of typos and other feedback using this Google Form, 
-				<url href="https://forms.gle/s14kNGd7anRmVgCD6"
-					visual="forms.gle/s14kNGd7anRmVgCD6"/>.
+				Please notify us of typos and other feedback using this 
+				<url href="https://forms.gle/jUd3wmqAGMNNLCtN7">Google Form</url>.
 			</p>
 		</paragraphs>
 	</preface>
@@ -382,28 +381,27 @@
 			<email>cara.lee@pcc.edu</email>. Instructor status will be verified.
 		</p>
 	</preface>
-<!-- Comment out for printing pdf. Todo: put back for web version
+<!-- Todo: Comment out for printing pdf. Put in for web version-->
 	<preface>
 		<title>Errata</title>
 		<p>
-			Please notify us of typos and other feedback using this
-			<url href="https://forms.gle/s14kNGd7anRmVgCD6"
-				visual="forms.gle/s14kNGd7anRmVgCD6">Google Form</url>.
+			Please notify us of typos not listed below and other feedback using this
+			<url href="https://forms.gle/jUd3wmqAGMNNLCtN7">Google Form</url>.
 		</p>
 		<p>
 			When errors are found they will be listed here when fixed in the online version. The corrections will be reflected in the print version at the next revision date.
 		</p>
-		<tabular row-headers="yes" halign="left" top="minor" left="minor" right="minor" bottom="minor">
+		<tabular row-headers="no" halign="left" top="minor" left="minor" right="minor" bottom="minor">
 			<row header="yes">
 				<cell>Section</cell>
 				<cell>Error Description</cell>
 			</row>
 			<row>
-				<cell></cell>
-				<cell></cell>
+				<cell>1.3</cell>
+				<cell>Typos fixed in Exercise 16</cell>
 			</row>
 		</tabular>
-	</preface> -->
+	</preface>
 	
 	<!-- Todo: 1st edition only -->
 	<!-- <preface>
