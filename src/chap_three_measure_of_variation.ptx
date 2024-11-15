@@ -191,7 +191,7 @@
 			</row>
 			<row>
 				<cell>10</cell>
-				<cell><m>5-5=0</m></cell>
+				<cell><m>10-5=5</m></cell>
 			</row>
 		</tabular>
 
@@ -364,8 +364,8 @@
 			</row>
 			<row>
 				<cell>$3.29</cell>
-				<cell><m>3.59-3.68=-0.09</m></cell>
-				<cell><m>(-0.39)^{2}=1521</m></cell>
+				<cell><m>3.29-3.68=-0.39</m></cell>
+				<cell><m>(-0.39)^{2}=0.1521</m></cell>
 			</row>
 			<row>
 				<cell>$3.59</cell>
@@ -490,7 +490,7 @@
 	</example>
 	
 	<p>
-		In addition to a spreadsheet, we will continue our use of GeoGebra. Let's take a look at how to use GeoGeogebra to find the mean, median and standard deviation for the last example. We begin just like we did for making a histogram.
+		In addition to a spreadsheet, we will continue our use of GeoGebra. Let's take a look at how to use GeoGebra to find the mean, median and standard deviation for the last example. We begin just like we did for making a histogram.
 	</p>
 
 	<example>
@@ -1043,7 +1043,7 @@
 		</p>
 		<sidebyside width="50%">
 			<p>
-				Apple: <cd>=STANDARDIZE(4.2, 5.8, 1.2)</cd> and we get -1.33 standard deviations
+				Orange: <cd>=STANDARDIZE(4.2, 5.8, 1.2)</cd> and we get -1.33 standard deviations
 			</p>
 			<image source="images/statistics/3_4/z_score1.png">
 			<shortdescription>a screenshot of a spreadsheet showing the =STANDARDIZE formula.</shortdescription>
@@ -1052,7 +1052,7 @@
 
 		<sidebyside width="50%">
 		<p>
-			Orange: <cd>=STANDARDIZE (3.5, 4.2, 0.6)</cd> and we get -1.17 standard deviations
+			Apple: <cd>=STANDARDIZE (3.5, 4.2, 0.6)</cd> and we get -1.17 standard deviations
 		</p>
 			<image source="images/statistics/3_4/z_score2.png">
 			<shortdescription>a screenshot of a spreadsheet showing the =STANDARDIZE formula.</shortdescription>

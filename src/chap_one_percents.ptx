@@ -288,7 +288,7 @@
 		<example>
 			<statement>
 			<p>
-				In a survey of 1,031 randomly chosen adults, 577 said they would feel better if they got more sleep (<url href="https://news.gallup.com/poll/642704/americans-sleeping-less-stressed.aspx"
+				In a survey of 1,013 randomly chosen adults, 577 said they would feel better if they got more sleep (<url href="https://news.gallup.com/poll/642704/americans-sleeping-less-stressed.aspx"
 					visual="news.gallup.com/poll/642704/americans-sleeping-less-stressed">source</url>). What percent is this?
 			</p>
 			</statement>
@@ -298,7 +298,7 @@
 				</p>
 				<p>
 					Using the formula <me>\text{Percent} = \frac{\text{part}}{\text{whole}}</me> we can calculate
-						<me>\text{Percent} = \frac{577}{1013} \approx 0.570 \text{ or } 57\%</me>
+						<me>\text{Percent} = \frac{577}{1013} \approx 0.57 \text{ or } 57\%</me>
 				</p>
 				<p>
 					About 57% of the adults surveyed said they would feel better if they got more sleep.

@@ -397,8 +397,36 @@
 				<cell>Error Description</cell>
 			</row>
 			<row>
-				<cell>1.3</cell>
+				<cell halign="center">1.3</cell>
+				<cell>Typo fixed in Example 1.3.5</cell>
+			</row>
+			<row>
+				<cell></cell>
 				<cell>Typos fixed in Exercise 16</cell>
+			</row>
+			<row>
+				<cell halign="center">1.7</cell>
+				<cell>Boston was changed to match Baltimore in Example 1.7.3</cell>
+			</row>
+			<row>
+				<cell halign="center">2.4</cell>
+				<cell>Typo fixed under the interest and principal graph in Section 2.4.1</cell>
+			</row>
+			<row>
+				<cell halign="center">2.5</cell>
+				<cell>Tax table and calculations fixed for head of household along with other typos</cell>
+			</row>
+			<row>
+				<cell halign="center">3.4</cell>
+				<cell>Typo fixed in the Section 3.4.2 standard deviation table</cell>
+			</row>
+			<row>
+				<cell></cell>
+				<cell>Typos fixed in the Example 3.4.2 table</cell>
+			</row>
+			<row>
+				<cell></cell>
+				<cell>Apple and Orange were reversed in Example 3.4.11</cell>
 			</row>
 		</tabular>
 	</preface>

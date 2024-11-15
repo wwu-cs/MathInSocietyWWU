@@ -222,10 +222,13 @@
 			Adjusted Gross Income = $40,795 - $3,500 = $37,295
 		</p>
 		<p>
-			Since Maria is unmarried and is the primary caregiver for her daughter, she can file as the head of household and take the standard deduction of $18,000.
+			Since Maria is unmarried and is the primary caregiver for her daughter, she can file as the head of household and take the standard deduction of $21,900.
 		</p>
 		<p>
-			Taxable Income = $37,295 - $18,000 = $19,295
+			Taxable Income = $37,295 - $21,900 = $15,395
+		</p>
+		<p>
+			Maria's taxable income is $15,395.
 		</p>
 	</solution>
 	</example>
@@ -323,13 +326,13 @@
 		</statement>
 		<solution>
 			<p>
-				We begin with the lowest tax bracket and take 10% of $11,600. Since their income is higher than that, we add 12% of the next amount, found by subtracting the values in that bracket. Avery's taxable income is in the 22% tax bracket, so we find the amount over $38,700 by subtracting. Here is the full calculation:
+				We begin with the lowest tax bracket and take 10% of $11,600. Since their income is higher than that, we add 12% of the next amount, found by subtracting the values in that bracket. Avery's taxable income is in the 22% tax bracket, so we find the amount over $47,150 by subtracting. Here is the full calculation:
 			</p>
 			<p>
 				<m>0.10(\$11{,}600)+0.12(\$47{,}150-11{,}600)+0.22(\$55{,}100-47{,}150)</m>
 				<md>
-					<mrow>\amp=0.10(\$11{,}600)+0.12(\$5{,}550)+0.22(\$7{,}950)</mrow>
-					<mrow>\amp=\$1{,}160+4,\$266+\$1{,}749</mrow>
+					<mrow>\amp=0.10(\$11{,}600)+0.12(\$35{,}550)+0.22(\$7{,}950)</mrow>
+					<mrow>\amp=\$1{,}160+\$4{,}266+\$1{,}749</mrow>
 					<mrow>\amp=\$5{,}426+\$1{,}749</mrow>
 					<mrow>\amp=\$7{,}175</mrow>
 				</md>
@@ -395,12 +398,12 @@
 				<cell>The tax is:</cell>
 			</row>
 			<row>
-				<cell>Not over $16,650</cell>
+				<cell>Not over $16,550</cell>
 				<cell>10% of the taxable income</cell>
 			</row>
 			<row>
-				<cell>Over $16,650 but not over $63,100</cell>
-				<cell>$1,665 plus 12% of the excess over $16,650</cell>
+				<cell>Over $16,550 but not over $63,100</cell>
+				<cell>$1,655 plus 12% of the excess over $16,550</cell>
 			</row>
 			<row>
 				<cell>Over $63,100 but not over $100,500</cell>
@@ -512,18 +515,18 @@
 			We will calculate Adira's taxes first the long way:
 		</p>
 		<p>
-			<m>0.10(\$16{,}650)+0.12(\$63{,}100-\$16{,}650)+0.22(\$100{,}500-\$63{,}100)+0.24(\$106{,}450-\$100{,}500)</m>
+			<m>0.10(\$16{,}550)+0.12(\$63{,}100-\$16{,}550)+0.22(\$100{,}500-\$63{,}100)+0.24(\$106{,}450-\$100{,}500)</m>
 		</p>
 		<p>
 			<md><!-- try this example with another filing status to see if it comes out exact -->
-				<mrow>\amp=0.10(\$16{,}650)+0.12(\$46{,}450)+0.22(\$37{,}400)+0.24(\$5{,}950)</mrow>
-				<mrow>\amp=\$1{,}665+\$5{,}574+\$8{,}228+\$1{,}428</mrow>
-				<mrow>\amp=\$15{,}467+\$1{,}428</mrow>
-				<mrow>\amp=\$16{,}895</mrow>
+				<mrow>\amp=0.10(\$16{,}550)+0.12(\$46{,}550)+0.22(\$37{,}400)+0.24(\$5{,}950)</mrow>
+				<mrow>\amp=\$1{,}655+\$5{,}586+\$8{,}228+\$1{,}428</mrow>
+				<mrow>\amp=\$15{,}469+\$1{,}428</mrow>
+				<mrow>\amp=\$16{,}897</mrow>
 			</md>
 		</p>
 		<p>
-			Now, using the simplified tax table for single filing status, we see that Adira's taxable income puts her in the 24% tax bracket. The simplified table tells us that her taxes will be equal to $15,469 plus 24% of the excess over $100,500. Notice the number $15,469 is very close to what we got for all of the “full” tax brackets, so we only need to calculate the last one. To find the excess over $82,500, we subtract $82,500 from her taxable income. Thus, her taxes are:
+			Now, using the simplified tax table for single filing status, we see that Adira's taxable income puts her in the 24% tax bracket. The simplified table tells us that her taxes will be equal to $15,469 plus 24% of the excess over $100,500. Notice the number $15,469 is the total for the first three tax brackets that are “full,” so we only need to calculate the last one. To find the excess over $100,500, we subtract $100,500 from her taxable income. Thus, her taxes are:
 		</p>
 		<p>
 			<md>
@@ -1047,7 +1050,7 @@
 <exercise>
 	<statement>
 	<p>
-		Janice is unmarried and has two kids. She earned $96,000 in wages last year, received $850 in interest from a savings account, and contributed $26,000 to a tax deferred savings account. Her itemized deductions are $22,600.
+		Janice is unmarried and has two kids which allows her to file as head of household. She earned $96,000 in wages last year, received $850 in interest from a savings account, and contributed $26,000 to a tax deferred savings account. Her itemized deductions are $22,600.
 	</p>
 	<p>
 	<ol marker="a.">
@@ -1104,10 +1107,10 @@
 			</li>
 			<li>
 				<p>
-					Tax from Table: <m>1665 + 0.12*(48250 - 16650) = \$5{,}457</m>. Owed/Refund: <m> 5457 – 4000 – 5300 = - \$3{,}843</m>
+					Tax from Table: <m>1655 + 0.12*(48250 - 16550) = \$5{,}459</m>. Owed/Refund: <m> 5459 – 4000 – 5300 = - \$3{,}841</m>
 				</p>
 				<p>
-					Janice will receive a refund for $3,843.
+					Janice will receive a refund of $3,841.
 				</p>
 			</li>
 		</ol>
